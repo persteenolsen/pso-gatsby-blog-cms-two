@@ -1,4 +1,4 @@
-A MD Blog in Gatsby 
+A MD Blog in Gatsby using mdx
 
 - The gatsby hello world starter was used for creating this blog with Markdown Posts
 - Tags are added with optimized styles
