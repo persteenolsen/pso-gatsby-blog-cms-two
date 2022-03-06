@@ -5,4 +5,4 @@ published: true
 categories: laravel
 tags: my-sql
 ---
-Welcome to a Post by the CMS backend :-)
+This is a Post by the CMS backend
