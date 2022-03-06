@@ -13,7 +13,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-	    - { label: "Published", name: "published", widget: "boolean" }
+      - { label: "Published", name: "published", widget: "boolean" }
       - { label: "Categories", name: "categories", widget: "string" }
       - { label: "Tags", name: "tags", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
