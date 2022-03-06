@@ -1,0 +1,193 @@
+.container {
+  margin: auto;
+  max-width: 750px;
+  font-family: verdana;
+}
+.heading {
+  color: rebeccapurple;
+}
+
+
+.container-header {
+   text-align: left;
+      
+}
+
+.container-bottom {
+   text-align: center;
+   font-family: verdana;
+   background-color: #F0F0F0;
+   margin-top: 20px;
+   padding: 15px;
+}
+
+.page-navigation {
+	display: flex;
+  flex-wrap: wrap;
+	padding: 10px;
+	
+}
+
+.page-navigation-space {
+	width: 10px;
+}
+
+.page-navigation-link {
+     padding: 10px;
+	
+}
+
+.image-me {
+	border-radius: 50%;
+	height: 121px;
+	width: 150px;
+}
+
+.image-me-lisboa {
+	height: 154px;
+	width: 260px;
+}
+
+
+a {
+  text-decoration: none;
+  color: grey;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input[type=text] {
+  width: 75%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+input[type=text]:focus {
+  border: 2px solid #555;
+}
+
+
+.header-nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 2px;
+  align-items: center;
+  
+ }
+.header-nav-link-item {  
+  margin: 5px;
+ }
+.header-nav-link-text {
+  color: black;
+}
+
+
+.nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 2px;
+  background-color: #F0F0F0;
+ }
+.nav-link-item {  
+  margin: 5px;
+ }
+.nav-link-text {
+  color: black;
+}
+
+
+.categories-nav-links {
+ display: flex;
+ flex-wrap: wrap;
+ list-style: none;
+ padding: 0px;
+ margin-bottom: 0px;
+  
+}
+.categories-nav-link-item {
+  margin-right: 10px;
+  padding-top: 10px;
+ }
+.categories-nav-link-text {
+  color: green;
+}
+
+.tags-nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0px;
+  margin-bottom: 0px;
+      
+}
+.tags-nav-link-item {
+  margin-right: 10px;
+  padding-top: 10px;
+ }
+.tags-nav-link-text {
+  color: grey;
+}
+
+
+
+.temp-categories-nav-links {
+  list-style: none;
+  padding: 0px;
+      
+}
+.temp-categories-nav-link-item {
+  margin: 0px;
+ }
+.temp-categories-nav-link-text {
+  color: green;
+}
+
+.temp-tags-nav-links {
+  list-style: none;
+  padding: 0px;
+      
+}
+.temp-tags-nav-link-item {
+  margin: 0px;
+ }
+.temp-tags-nav-link-text {
+  color: grey;
+}
+
+
+
+.post-categories-nav-links {
+  display: flex;
+  list-style: none;
+  padding: 1px;
+  
+}
+.post-categories-nav-link-item {
+  margin: 3px;
+ }
+.post-categories-nav-link-text {
+  color: green;
+}
+
+.post-tags-nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 1px;
+  
+}
+.post-tags-nav-link-item {
+  margin: 3px;
+ }
+.post-tags-nav-link-text {
+  color: grey;
+}
