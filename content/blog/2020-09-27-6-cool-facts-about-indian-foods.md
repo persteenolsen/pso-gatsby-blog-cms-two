@@ -1,7 +1,9 @@
 ---
-layout: blog
 title: 6 cool facts about Indian foods
 date: 2020-09-27T16:29:24.658Z
+published: true
+categories: [ "Laravel" ]
+tags: [ "laravel", "mvc", "php", "mysql" ]
 ---
 Here are the 6 cool facts about Indian foods:
 
