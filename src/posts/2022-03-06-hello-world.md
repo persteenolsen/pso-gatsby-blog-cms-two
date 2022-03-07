@@ -8,6 +8,6 @@ categories:
 tags:
   - Laravel
   - Webpack
-  - PHP
+  - Azure
 ---
 This is a Test from the CMS
