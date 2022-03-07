@@ -9,5 +9,6 @@ tags:
   - React
   - CMS
   - Webpack
+  - GraphQL
 ---
-This is a Post created by the CMS
+This is a Post created by the Netlify CMS
