@@ -6,9 +6,9 @@ categories:
   - Gatsby
   - React
 tags:
-  - React
-  - CMS
-  - Webpack
-  - GraphQL
+  - react
+  - cms
+  - webpack
+  - graphql
 ---
 This is a Post created by the Netlify CMS
