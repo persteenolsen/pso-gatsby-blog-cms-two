@@ -18,12 +18,13 @@ export default function Header() {
   useEffect(() => {
 
     if (window.netlifyIdentity) {
-		//alert("UseEffect testing in Header ..." );
+		   //alert("UseEffect testing in Header ..." );
         window.netlifyIdentity.on('init', (user) => {
-		//alert("UseEffect is getting called in Header ..." );
+	    	//alert("UseEffect is getting called in Header ..." );
         if (!user) {
             window.netlifyIdentity.on('login', () => {
-            document.location.href = '/admin/#/collections/blog/'
+            alert("Redirecting to Admin ..." );
+            document.location.href = '/admin/'
           })
         }
       })
