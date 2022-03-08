@@ -9,7 +9,7 @@
 	<script>
 	   if (window.netlifyIdentity) {
         window.netlifyIdentity.on('init', (user) => {
-		alert("Script in Admin is getting called ..." );
+		    //alert("Script in Admin is getting called ..." );
         if (!user) {
             window.netlifyIdentity.on('login', () => {
             document.location.href = '/admin/'

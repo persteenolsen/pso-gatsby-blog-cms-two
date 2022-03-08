@@ -23,7 +23,7 @@ export default function Header() {
 		//alert("UseEffect is getting called in Header ..." );
         if (!user) {
             window.netlifyIdentity.on('login', () => {
-            document.location.href = '/admin/'
+            document.location.href = '/admin/#/collections/blog/'
           })
         }
       })
