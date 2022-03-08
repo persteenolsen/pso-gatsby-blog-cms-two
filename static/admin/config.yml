@@ -3,6 +3,7 @@ backend:
   branch: master
 
 media_folder: "images/uploads"
+display_url: https://persteenolsen.netlify.app
 
 collections:
   - name: "blog"

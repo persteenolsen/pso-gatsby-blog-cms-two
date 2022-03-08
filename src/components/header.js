@@ -1,5 +1,4 @@
 import React from "react"
-import { useEffect, Fragment } from 'react'
 import { Link } from 'gatsby'
 import me from "/static/images-components/persteenolsen.jpg" 
 //import {Helmet} from "react-helmet"
@@ -14,32 +13,12 @@ import {
 
 export default function Header() {
 	
-	
-  useEffect(() => {
-
-    if (window.netlifyIdentity) {
-		   //alert("UseEffect testing in Header ..." );
-        window.netlifyIdentity.on('init', (user) => {
-	    	//alert("UseEffect is getting called in Header ..." );
-        if (!user) {
-            window.netlifyIdentity.on('login', () => {
-            alert("Redirecting to Admin ..." );
-            document.location.href = '/admin/'
-          })
-        }
-      })
-    }
-  }, [])
-   
+	   
    return (
        
       <div className={containerHeader}>
-	        
-             <Fragment>
-             <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-             </Fragment>
-				
-	  		 <ul className={headerNavLinks}>
+	   
+     	   <ul className={headerNavLinks}>
 				
 				<li className={headerNavLinkItem}>
 			         <Link className={headerNavLinkText} to="/"> 

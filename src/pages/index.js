@@ -1,5 +1,5 @@
 import React from "react"
-//import { useEffect, Fragment } from 'react'
+import { useEffect, Fragment } from 'react'
 import { useSiteMetadata } from "../hooks/use-site-metadata"
 import { graphql, Link } from 'gatsby'
 import { kebabCase } from 'lodash'
@@ -34,6 +34,23 @@ export const pageQuery = graphql
 
   
 const HomePage = ({ data }) => {
+	
+  
+   useEffect(() => {
+
+    if (window.netlifyIdentity) {
+		//alert("UseEffect testing in Header..." );
+        window.netlifyIdentity.on('init', (user) => {
+	    //alert("UseEffect is getting called in Header..." );
+        if (!user) {
+            window.netlifyIdentity.on('login', () => {
+            alert("You can now use the Admin section..." );
+            document.location.href = '/admin/'
+          })
+        }
+      })
+    }
+  }, [])
     
   const { title } = useSiteMetadata()
   const allCategories = data.allMdx.group;
@@ -41,6 +58,11 @@ const HomePage = ({ data }) => {
   return (
 
     <div className={container}>
+	  
+	      
+     <Fragment>
+         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+      </Fragment>
       
 	  <Header />
       <Menu />
