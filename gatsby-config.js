@@ -37,6 +37,7 @@ module.exports = {
           name: `assets`,
         },
        },
-	
+	   
+	   `gatsby-plugin-react-helmet`,
     ],
 }

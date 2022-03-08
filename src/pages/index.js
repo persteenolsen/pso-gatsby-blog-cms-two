@@ -1,7 +1,9 @@
 import React from "react"
+import { useEffect, Fragment } from 'react'
 import { useSiteMetadata } from "../hooks/use-site-metadata"
 import { graphql, Link } from 'gatsby'
 import { kebabCase } from 'lodash'
+//import {Helmet} from "react-helmet"
 
 import {
   container,
@@ -30,16 +32,35 @@ export const pageQuery = graphql
   }
 `
 
-
+  
 const HomePage = ({ data }) => {
+  
+  
+  useEffect(() => {
 
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on('init', (user) => {
+		//alert("UseEffect is getting called ..." );
+        if (!user) {
+            window.netlifyIdentity.on('login', () => {
+            document.location.href = '/admin/'
+          })
+        }
+      })
+    }
+  }, [])
+  
   const { title } = useSiteMetadata()
   const allCategories = data.allMdx.group;
 
   return (
 
     <div className={container}>
-
+      
+	  <Fragment>
+             <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+      </Fragment>
+	
       <Header />
       <Menu />
 

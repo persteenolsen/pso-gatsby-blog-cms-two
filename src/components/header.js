@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from 'gatsby'
 import me from "/static/images-components/persteenolsen.jpg" 
+//import {Helmet} from "react-helmet"
 
 import {
   imageMe,
@@ -10,12 +11,12 @@ import {
   containerHeader
 } from '../components/layout.module.css'
 
-
 export default function Header() {
-  return (
+   
+   return (
        
       <div className={containerHeader}>
-	  
+	        				
 	  		<ul className={headerNavLinks}>
 				
 				<li className={headerNavLinkItem}>
