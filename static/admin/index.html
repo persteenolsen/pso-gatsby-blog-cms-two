@@ -14,18 +14,13 @@
 	<script>
 	    if (window.netlifyIdentity) {
 		
-		   //alert("UseEffect testing in Header..." );
-		
-        window.netlifyIdentity.on('init', (user) => {
-	      alert("UseEffect is getting called in Header..." + user );
-        if (user) {
-            window.netlifyIdentity.on('logout', () => {
+		     //alert("UseEffect testing in Header..." );
+         window.netlifyIdentity.on('logout', () => {
             alert("You can now use the Admin section..." );
             document.location.href = '/'
           })
-        }
-      })
-    }
+         
+       }
 	</script>
     	
   </body>
