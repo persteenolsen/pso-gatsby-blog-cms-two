@@ -1,9 +1,18 @@
 ---
-title:  Java Spring Boot Jsf PrimeFaces Mvc
+title: Java Spring Boot Jsf PrimeFaces Mvc
 date: 2020-02-11
 published: true
-categories: [ "Java Spring Boot" ]
-tags: [ "java", "primefaces", "jpa", "maven", "hibernate", "mvc", "mysql" ]
+categories:
+  - Java Spring Boot
+tags:
+  - java
+  - primefaces
+  - jsf
+  - jpa
+  - maven
+  - hibernate
+  - mvc
+  - mysql
 ---
 
 Java Spring Boot JSF PrimeFaces MVC
