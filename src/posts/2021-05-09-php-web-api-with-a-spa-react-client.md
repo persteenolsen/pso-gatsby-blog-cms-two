@@ -1,6 +1,6 @@
 ---
-title: PHP Web API with a SPA React client
-date: 2021-05-08
+title: PHP Web API with a SPA React client - vs code
+date: 2021-05-09
 published: true
 categories:
   - PHP
@@ -9,7 +9,7 @@ tags:
   - react
   - mysql
 ---
-PHP Web API with a SPA React client
+PHP Web API with a SPA React client - VS code
 
 <a href="https://phpclient.persteenolsen.dk" target="_blank" title="Show persons">Try the demo ...</a>
 
