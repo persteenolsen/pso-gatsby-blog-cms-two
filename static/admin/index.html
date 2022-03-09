@@ -16,9 +16,10 @@
 		
 		     //alert("UseEffect testing in Header..." );
          window.netlifyIdentity.on('logout', () => {
-            alert("You can now use the Admin section..." );
+            // alert("You can now use the Admin section..." );
             // Log out the user
             netlifyIdentity.logout();
+            
             document.location.href = '/'
           })
          

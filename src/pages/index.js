@@ -46,12 +46,13 @@ const HomePage = ({ data }) => {
 	      // alert("UseEffect is getting called in Header..." + user );
         if (!user) {
             window.netlifyIdentity.on('login', () => {
-            //alert("You can now use the Admin section..." );
+            alert("You can now use the Admin section..." );
             document.location.href = '/admin/'
           })
         }
       })
-    }
+    } 
+
   }, [])
     
   const { title } = useSiteMetadata()
