@@ -40,13 +40,13 @@ const HomePage = ({ data }) => {
 
     if (window.netlifyIdentity) {
 		
-		//alert("UseEffect testing in Header..." );
+	      //alert("UseEffect testing in Header..." );
 		
         window.netlifyIdentity.on('init', (user) => {
-	   // alert("UseEffect is getting called in Header..." + user );
+	      // alert("UseEffect is getting called in Header..." + user );
         if (!user) {
             window.netlifyIdentity.on('login', () => {
-            alert("You can now use the Admin section..." );
+            //alert("You can now use the Admin section..." );
             document.location.href = '/admin/'
           })
         }
