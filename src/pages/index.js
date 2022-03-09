@@ -39,9 +39,11 @@ const HomePage = ({ data }) => {
    useEffect(() => {
 
     if (window.netlifyIdentity) {
+		
 		//alert("UseEffect testing in Header..." );
+		
         window.netlifyIdentity.on('init', (user) => {
-	    //alert("UseEffect is getting called in Header..." );
+	   // alert("UseEffect is getting called in Header..." + user );
         if (!user) {
             window.netlifyIdentity.on('login', () => {
             alert("You can now use the Admin section..." );
