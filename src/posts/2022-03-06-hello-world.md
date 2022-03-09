@@ -6,8 +6,8 @@ categories:
   - React
   - Webpack
 tags:
-  - Laravel
-  - Webpack
-  - Azure
+  - laravel
+  - webpack
+  - azure
 ---
 This is a Test from the CMS
