@@ -19,6 +19,9 @@
             // alert("You can now use the Admin section..." );
             // Log out the user
             netlifyIdentity.logout();
+
+            // Close the modal
+            netlifyIdentity.close();
             
             document.location.href = '/'
           })
