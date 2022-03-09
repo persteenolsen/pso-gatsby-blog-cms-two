@@ -1,5 +1,5 @@
 ---
-title: Java Spring Boot JSF PrimeFaces MVC
+title:  Java Spring Boot Jsf PrimeFaces Mvc
 date: 2020-02-11
 published: true
 categories: [ "Java Spring Boot" ]

@@ -1,5 +1,5 @@
 ---
-title: Java Spring Boot MVC and Security
+title: Java Spring Boot Mvc Security
 date: 2020-01-22
 published: true
 categories: [ "Java Spring Boot" ]

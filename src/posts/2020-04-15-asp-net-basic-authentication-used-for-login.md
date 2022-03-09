@@ -1,5 +1,5 @@
 ---
-title: Basic Authentication used for Login
+title: Asp Net Basic Authentication used for Login
 date: 2020-04-15
 published: true
 categories: [ "ASP NET", "Vue" ]

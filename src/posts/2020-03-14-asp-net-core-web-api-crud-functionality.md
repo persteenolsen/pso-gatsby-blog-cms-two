@@ -1,5 +1,5 @@
 ---
-title: CRUD functionality by ASP.NET Core Web API
+title: Asp Net Core Web Api Crud functionality
 date: 2020-03-14
 published: true
 categories: [ "ASP NET", "React" ]

@@ -1,5 +1,5 @@
 ---
-title: Java Spring Boot JAX-RS Jersey RESTful Web API
+title: Java Spring Boot Jax-Rs Jersey Web Api
 date: 2020-02-16
 published: true
 categories: [ "Java Spring Boot" ]

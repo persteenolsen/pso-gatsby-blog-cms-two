@@ -1,5 +1,5 @@
 ---
-title: Java Spring Boot RESTful Web API Spring Security
+title: Java Spring Boot Restful Web APi Spring Security
 date: 2021-03-15
 published: true
 categories: [ "Java Spring Boot" ]
