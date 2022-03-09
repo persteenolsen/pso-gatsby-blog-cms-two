@@ -1,5 +1,5 @@
 ---
-title: A PHP Web API with a SPA React client
+title: PHP Web API with a SPA React client
 date: 2021-05-08
 published: true
 categories:
