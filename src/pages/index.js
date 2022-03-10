@@ -40,15 +40,15 @@ const HomePage = ({ data }) => {
 
     if (window.netlifyIdentity) {
 		
-	    // window.netlifyIdentity.on('init', (user) => {
-	      // alert("UseEffect is getting called in Header..." + user );
-       // if (!user) {
-            window.netlifyIdentity.on('login', () => {
-            alert("You can now use the Admin section..." );
-            document.location.href = '/admin/'
-          })
-       // }
-     // })
+         window.netlifyIdentity.on('login', () => {
+                      
+            alert("You are logged in and will be redirected to the Admin section..." );
+           
+             // Close the modal and redirect to the Admin section as logged in
+             netlifyIdentity.close();
+             document.location.href = '/admin/'
+         })
+      
     } 
 
   }, [])
