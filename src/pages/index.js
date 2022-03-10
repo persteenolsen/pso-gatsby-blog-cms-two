@@ -40,7 +40,7 @@ const HomePage = ({ data }) => {
 
     if (window.netlifyIdentity) {
 		
-	   window.netlifyIdentity.on('init', (user) => {
+	    // window.netlifyIdentity.on('init', (user) => {
 	      // alert("UseEffect is getting called in Header..." + user );
        // if (!user) {
             window.netlifyIdentity.on('login', () => {
@@ -48,7 +48,7 @@ const HomePage = ({ data }) => {
             document.location.href = '/admin/'
           })
        // }
-      })
+     // })
     } 
 
   }, [])
