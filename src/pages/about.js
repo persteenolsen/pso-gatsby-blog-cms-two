@@ -27,14 +27,16 @@ const About = () => {
 			
 			   <h2 className={heading}>{title}</h2>
 							      
-                - A static site using Gatsby with Markdown files being the Posts which refers to Projects in this Blog. React and GraphQL are used in most of the modules creating the Blog. 
+                - A static site using Gatsby and Netlify CMS with Markdown files being the Posts which refers to Projects in this Blog. React and GraphQL are used in most of the modules creating the Blog. 
                 <br/> <br/>
 				
                 <b>Last Updated</b>  <br />
-                - 23-02-2022 <br /> <br />
+                - 10-03-2022 <br /> <br />
                 				
                 <b>Main functionality</b> <br />
-                                
+
+                - Gatsby used for the frontend<br />
+                - Netlify CMS used for the backend<br />               
                 - The Posts of the Blog refers to Projects must be created in Markdown or Mdx<br />
 				- View the Projects by scrolling down the List<br />
                 - View the Projects by searching / filtering the Title or Tags <br />
@@ -43,7 +45,6 @@ const About = () => {
 				- One or more Tags can be added to each Projects<br />
 				- A Page showing all Categories found in the list of Projects the number of Posts in which the Category appear<br />		
 				- A Page showing all Tags found in the list of Projects and the number of Projects in which the Tag appear<br />				
-                - Showing some of the power Gatsby <br />
                 - GraphQL - A query language<br />
 				- Routing by Gatsby and React <br />
 				- Custom 404 Error page<br />
@@ -51,7 +52,9 @@ const About = () => {
 				- Support for older Browsers including IE 11<br /><br />
 				
 				<b>The Gatsby Blog</b> <br />
-                            
+
+                - Gatsby <br />
+                - Netlify CMS <br />            
                 - React <br />
 				- JavaScript <br />
                 - HTML <br />
