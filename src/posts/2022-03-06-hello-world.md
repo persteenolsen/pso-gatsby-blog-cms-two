@@ -8,6 +8,5 @@ categories:
 tags:
   - laravel
   - webpack
-  - azure
 ---
 This is a Test from the CMS...
