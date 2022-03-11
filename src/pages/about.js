@@ -31,12 +31,13 @@ const About = () => {
                 <br/> <br/>
 				
                 <b>Last Updated</b>  <br />
-                - 10-03-2022 <br /> <br />
+                - 11-03-2022 <br /> <br />
                 				
                 <b>Main functionality</b> <br />
 
                 - Gatsby used for the frontend<br />
-                - Netlify CMS used for the backend<br />               
+                - Netlify CMS used for administrate the content like creating Projects<br />
+                - Netlify Identity used for authentication and authorization<br />				
                 - The Posts of the Blog refers to Projects must be created in Markdown or Mdx<br />
 				- View the Projects by scrolling down the List<br />
                 - View the Projects by searching / filtering the Title or Tags <br />
@@ -54,7 +55,8 @@ const About = () => {
 				<b>The Gatsby Blog</b> <br />
 
                 - Gatsby <br />
-                - Netlify CMS <br />            
+                - Netlify CMS<br /> 
+                - Netlify Identity<br />    				
                 - React <br />
 				- JavaScript <br />
                 - HTML <br />
@@ -75,7 +77,7 @@ const About = () => {
 				<br /> <br />
 								
 				<b>Hosting</b> <br />
-                - The application is hosted at Gatsby Cloud <br /> <br />
+                - The application is hosted at Netlify and GitHub<br /> <br />
              
 
                 <b>Text Editor</b> <br />
