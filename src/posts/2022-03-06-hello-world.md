@@ -8,5 +8,6 @@ categories:
 tags:
   - laravel
   - webpack
+  - gatsby
 ---
 This is a Test from the CMS...
