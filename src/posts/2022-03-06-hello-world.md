@@ -10,4 +10,4 @@ tags:
   - webpack
   - gatsby
 ---
-This is a Test from the CMS...
+*Hello world from Netlify CMS*
