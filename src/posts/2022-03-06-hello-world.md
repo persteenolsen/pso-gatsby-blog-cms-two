@@ -11,3 +11,5 @@ tags:
   - gatsby
 ---
 *Hello world from Netlify CMS*
+
+![](/images/uploads/midsummer.jpg)
