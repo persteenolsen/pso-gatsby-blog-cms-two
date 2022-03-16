@@ -10,4 +10,4 @@ tags:
   - webpack
   - gatsby
 ---
-*Hello world from Netlify*
+Hello from Netlify
