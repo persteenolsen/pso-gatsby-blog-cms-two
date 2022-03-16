@@ -10,6 +10,4 @@ tags:
   - webpack
   - gatsby
 ---
-*Hello world from Netlify CMS*
-
-![](/images/uploads/midsummer.jpg)
+*Hello world from Netlify*
