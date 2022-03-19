@@ -5,7 +5,7 @@ published: true
 categories:
   - My Hometown
 tags:
-  - my-hometown
+  - slagelse
 ---
 My Hometown Slagelse
 
