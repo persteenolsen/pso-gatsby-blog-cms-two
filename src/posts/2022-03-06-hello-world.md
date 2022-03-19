@@ -6,7 +6,6 @@ categories:
   - Hello World
 tags:
   - hello-world
-  - lisbon
 ---
 Lisbon
 
