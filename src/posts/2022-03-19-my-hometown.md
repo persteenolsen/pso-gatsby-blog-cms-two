@@ -7,7 +7,7 @@ categories:
 tags:
   - slagelse
 ---
-My Hometown Slagelse
+My Hometown Slagelse is locatated around 90 km from Copenhagen.
 
 
 ![](/images-posts/slagelse.jpg)
