@@ -1,9 +1,7 @@
 import React from "react"
-import { useEffect, Fragment } from 'react'
 import { useSiteMetadata } from "../hooks/use-site-metadata"
 import { graphql, Link } from 'gatsby'
 import { kebabCase } from 'lodash'
-//import {Helmet} from "react-helmet"
 
 import {
   container,
@@ -32,40 +30,17 @@ export const pageQuery = graphql
   }
 `
 
-  
+
 const HomePage = ({ data }) => {
-	
-  
-   useEffect(() => {
 
-    if (window.netlifyIdentity) {
-		
-         window.netlifyIdentity.on('login', () => {
-                      
-            alert("You are logged in and will be redirected to the Admin section..." );
-           
-             // Close the modal and redirect to the Admin section as logged in
-             netlifyIdentity.close();
-             document.location.href = '/admin/'
-         })
-      
-    } 
-
-  }, [])
-    
   const { title } = useSiteMetadata()
   const allCategories = data.allMdx.group;
 
   return (
 
     <div className={container}>
-	  
-	      
-     <Fragment>
-         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-      </Fragment>
-      
-	  <Header />
+
+      <Header />
       <Menu />
 
       <title>View the Projects by Categories</title>
@@ -73,7 +48,8 @@ const HomePage = ({ data }) => {
       <h2 className={heading}>{title}</h2>
 	  
 	  <div>View the Projects by the Categories...</div>
-      	 
+      
+	 
       <ul className={categoriesNavLinks}>
 
           {allCategories.map(category => (

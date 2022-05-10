@@ -2,91 +2,119 @@ import React from "react"
 import { useSiteMetadata } from "../hooks/use-site-metadata"
 
 import {
-  container,
-  heading,
-  } from '../components/layout.module.css'
-  
- 
+    container,
+    heading,
+} from '../components/layout.module.css'
+
+
 // Webpack will resolve the .js extension and it is optional to use the .js extension
 import Header from '../components/header';
 import Menu from '../components/menu';
 import Bottom from '../components/bottom';
 
 const About = () => {
-	
+
     const { title } = useSiteMetadata()
-	
+
     return (
-	
+
         <div className={container}>
-		    
-            <Header />			
-			<Menu />				
+
+            <Header />
+            <Menu />
+
+            <title>About this Blog</title>
+
+            <h2 className={heading}>{title}</h2>
+
+           	<b>The purpose of this Blog</b>
+			<ul>
+            <li>To get experience with Gatsby React GraphQL and Git based CMS systems</li>
+            <li>Comparing different technologies</li>
+            <li>Showing the Web Projects I am building by a fast Blog</li>
+			<li>Help other developers building Web Projects by fork or download from my GitHub</li>
+            <li>Let the readers of the Blog get to know me as well as my IT background</li>
+            </ul>
+                        
+            <b>The static part of the Blog was last updated</b>
+            <ul>
+			<li>10-05-2022</li>
+			</ul>
 			
-			   <title>About this site</title>
+
+            <b>Decription</b>
+			<ul>
+			<li>
+            A static site using Gatsby with Markdown files being the Posts which refers to Projects in this Blog. React and GraphQL are used in most of the modules creating the Blog
+			</li>
+			</ul>
+            
+
+            <b>Types of Tests performed making this Blog and the Web Projects</b>
+			<ul>
+			<li>Usability Tests to involve the future Users of the Blog and Projects with the goal of satisfied Users</li>
+            <li>End-to-end Tests or Functional Tests for making sure that the workflows work as expected. The authentication of a User could be an example</li>
+            <li>Integration Tests across several units to achieve their goals</li>
+            <li>Unit Test for testing functions or classes by supplying input and making sure the output is as expected</li>
+            </ul>
+
+
+            <b>Main functionality</b>
+            <ul>
+            <li>The content of the Blog can be updated by Foresty CMS</li>
+            <li>The Posts of the Blog refers to Projects must be created in Markdown or Mdx</li>
+            <li>View the Projects by scrolling down the List</li>
+            <li>View the Projects by searching / filtering the Title or Tags</li>
+            <li>View the Projects by Pagination</li>
+            <li>A Category can have one or more Projects because a Project needs to belong to at least one Category</li>
+            <li>One or more Tags can be added to each Project</li>
+            <li>A Page showing all Categories found in the Projects and the number of Projects in which the Category appear</li>
+            <li>A Page showing all Tags found in the Projects and the number of Projects in which the Tag appear</li>
+            <li>GraphQL - A query language</li>
+            <li>Routing by Gatsby and React</li>
+            <li>Custom 404 Error page</li>
+            <li>Serving static assets like images, styles and fonts</li>
+            <li>Support for older Browsers including IE 11</li>
+            </ul>
 			
-			   <h2 className={heading}>{title}</h2>
-							      
-                - A static site using Gatsby and Netlify CMS with Markdown files being the Posts which refers to Projects in this Blog. React and GraphQL are used in most of the modules creating the Blog. 
-                <br/> <br/>
-				
-                <b>Last Updated</b>  <br />
-                - 19-03-2022 <br /> <br />
-                				
-                <b>Main functionality</b> <br />
-
-                - Gatsby used for the frontend<br />
-                - Netlify CMS used for administrate the content like creating Projects<br />
-                - Netlify Identity used for authentication and authorization<br />				
-                - The Posts of the Blog refers to Projects must be created in Markdown or Mdx<br />
-				- View the Projects by scrolling down the List<br />
-                - View the Projects by searching / filtering the Title or Tags <br />
-				- View the Projects by pagnition <br />
-				- A Category can have one or more Projects because a Projects need to belong to at least one Category<br />
-				- One or more Tags can be added to each Projects<br />
-				- A Page showing all Categories found in the list of Projects the number of Posts in which the Category appear<br />		
-				- A Page showing all Tags found in the list of Projects and the number of Projects in which the Tag appear<br />				
-                - GraphQL - A query language<br />
-				- Routing by Gatsby and React <br />
-				- Custom 404 Error page<br />
-				- Serving static assets like images, styles and fonts <br />
-				- Support for older Browsers including IE 11<br /><br />
-				
-				<b>The Gatsby Blog</b> <br />
-
-                - Gatsby <br />
-                - Netlify CMS<br /> 
-                - Netlify Identity<br />    				
-                - React <br />
-				- JavaScript <br />
-                - HTML <br />
-                - CSS <br /> <br />
-								
-			    <b>Node.js Version</b><br/>
-				- Node 14.17 <br />	<br />
-				
-                <b>Module Bundler</b> <br />
-                
-                - Webpack is used under the hood <br /> <br />
-				               
-				                				
-                <b>Security</b> <br />
-             
-                - The use of HTTPS<br />
-				- The security of Gatsby being a static site 
-				<br /> <br />
-								
-				<b>Hosting</b> <br />
-                - The application is hosted at Netlify and GitHub<br /> <br />
-             
-
-                <b>Text Editor</b> <br />
-             
-			    - Visual Studio Code <br />
-            			 
-           
-		    <Bottom />
+            <b>The Gatsby Blog</b>
+            <ul>
+            <li>Gatsby</li>
+            <li>Netlify CMS</li>
+            <li>JavaScript</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            </ul>
 			 
+            <b>Node.js Version</b>
+			<ul>
+            <li>Node 14.17</li>
+            </ul>
+			
+            <b>Module Bundler</b>
+			<ul>
+             <li>Webpack is used under the hood</li>
+            </ul>
+
+            <b>Security</b>
+			<ul>
+            <li>The use of HTTPS</li>
+            <li>The security of Gatsby being a static site</li>
+            </ul>
+
+            <b>Hosting</b>
+			<ul>
+			<li>The application is hosted at Netlify Cloud</li>
+			</ul>
+			
+
+            <b>Text Editor</b>
+			<ul>
+			<li>Visual Studio Code</li>
+			</ul>
+
+            <Bottom />
+
         </div>
     )
 }

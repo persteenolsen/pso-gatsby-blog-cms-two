@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from 'gatsby'
 import me from "/static/images-components/persteenolsen.jpg" 
-//import {Helmet} from "react-helmet"
 
 import {
   imageMe,
@@ -11,27 +10,29 @@ import {
   containerHeader
 } from '../components/layout.module.css'
 
+
 export default function Header() {
-	
-	   
-   return (
+  return (
        
       <div className={containerHeader}>
-	   
-     	   <ul className={headerNavLinks}>
+	  
+	  		<ul className={headerNavLinks}>
 				
 				<li className={headerNavLinkItem}>
-			         <Link className={headerNavLinkText} to="/"> 
+			         <Link className={headerNavLinkText} to="/myinfo"> 
 					   <img className={imageMe} src={me} alt="Me" />
 					 </Link>
 				</li>
 				
 				<li className={headerNavLinkItem}>
-				    <Link className={headerNavLinkText} to="/myinfo">Per Steen Olsen</Link>
+				    <Link className={headerNavLinkText} to="/">Home</Link> 
+				    <br /><br />
+				    <Link className={headerNavLinkText} to="/about">About this Blog</Link>
 				</li>
+
 				
 			</ul>
-				
+							
       </div>
    
   );
