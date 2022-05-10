@@ -9,7 +9,7 @@ tags:
 ---
 One of the few places at my Blog without links to Projects or GitHub
 
-My Hometown Slagelse is locatated around 90 km from Copenhagen.
+The city center of my Hometown Slagelse
 
 
 ![](/images-posts/slagelse.jpg)
