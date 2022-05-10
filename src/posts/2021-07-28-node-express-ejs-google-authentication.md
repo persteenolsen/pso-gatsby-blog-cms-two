@@ -2,8 +2,16 @@
 title: Node Express EJS using Google Authentication
 date: 2021-07-28
 published: true
-categories: [ "Node" ]
-tags: [ "google-oauth", "ci-cd", "github-actions", "azure", "javascript", "ejs" ]
+categories:
+  - Node
+  - DevOps
+tags:
+  - google-oauth
+  - ci-cd
+  - github-actions
+  - azure
+  - javascript
+  - ejs
 ---
 
 Google authentication by Node Express serving as the backend and EJS Views are the frontend for this application
