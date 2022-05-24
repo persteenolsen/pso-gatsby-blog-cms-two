@@ -2,8 +2,15 @@
 title: Asp Net Core Web Api Crud functionality
 date: 2020-03-14
 published: true
-categories: [ "ASP NET", "React" ]
-tags: [ "asp-net", "jquery", "react", "angular", "ms-sql" ]
+categories:
+  - NET Core
+  - React
+tags:
+  - asp-net
+  - jquery
+  - react
+  - angular
+  - ms-sql
 ---
 
 ASP.NET Core 2.0 Web API showing a dataset of Persons
