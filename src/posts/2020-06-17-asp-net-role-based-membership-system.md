@@ -3,7 +3,7 @@ title: Asp Net Role based Membership system
 date: 2020-06-17
 published: true
 categories:
-  - NET Core
+  - .NET Core
   - React
 tags:
   - asp-net
