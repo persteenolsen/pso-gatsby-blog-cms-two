@@ -2,8 +2,13 @@
 title: Asp Net Baerer Authentication used for Login
 date: 2020-05-16
 published: true
-categories: [ "ASP NET", "Angular" ]
-tags: [ "asp-net", "angular", "mysql" ]
+categories:
+  - NET Core
+  - Angular
+tags:
+  - asp-net
+  - angular
+  - mysql
 ---
 
 
