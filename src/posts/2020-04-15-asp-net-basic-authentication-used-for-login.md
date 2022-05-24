@@ -2,8 +2,14 @@
 title: Asp Net Basic Authentication used for Login
 date: 2020-04-15
 published: true
-categories: [ "ASP NET", "Vue" ]
-tags: [ "asp-net", "vue", "vuex", "mysql" ]
+categories:
+  - NET Core
+  - Vue
+tags:
+  - asp-net
+  - vue
+  - vuex
+  - mysql
 ---
 
 
