@@ -7,9 +7,8 @@ categories:
 tags:
   - slagelse
 ---
-One of the few places at my Blog without links to Projects or GitHub
+One of the few places at my Tech Blog without links to Projects or GitHub
 
 The city center of my Hometown Slagelse
-
 
 ![](/images-posts/slagelse.jpg)
