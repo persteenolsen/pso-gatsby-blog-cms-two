@@ -1,6 +1,6 @@
 .container {
   margin: auto;
-  max-width: 750px;
+  max-width: 90%;
   font-family: verdana;
 }
 .heading {
@@ -10,7 +10,8 @@
 
 .container-header {
    text-align: left;
-      
+
+    
 }
 
 .container-bottom {
