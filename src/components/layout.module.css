@@ -1,8 +1,24 @@
-.container {
-  margin: auto;
-  max-width: 85%;
-  font-family: verdana;
+
+  
+  .container {
+     
+	 margin: auto;
+     max-width: 95%;
+     font-family: verdana;
+  }
+
+
+@media screen and (min-width: 601px) {
+   
+   .container {
+    
+     max-width: 70%;
+	 
+	 /* Note: Setting the height to use horizontal scroll at most screens keeps the content align when a user navigate the menu */
+     min-height: 1100px; 
+    }
 }
+
 .heading {
   color: rebeccapurple;
 }
@@ -10,7 +26,6 @@
 
 .container-header {
    text-align: left;
-
     
 }
 
