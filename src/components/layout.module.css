@@ -1,6 +1,7 @@
 .container {
   margin: auto;
-  max-width: 90%;
+  width: 90%;
+  max-width: 750px;
   font-family: verdana;
 }
 .heading {
