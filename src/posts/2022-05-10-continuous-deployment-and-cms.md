@@ -12,9 +12,9 @@ tags:
   - netlify-cloud
   - github
 ---
-The Project of this Blog are described below and by the link "About this Blog".
+The Project of the Blog is described below and by the link "About this Blog".
 
-This Blog is using a Continuous Deployment Pipeline as an important concept of DevOps. An Editor of the Blog can use Git-based CMS for content administration while the Administrator of the Blog can use GitHub as well as VS Code.
+This Blog is using a Continuous Deployment Pipeline as an important concept of DevOps. An Editor of the Blog can use Git-based CMS for content administration while an Administrator or Developer of the Blog can use GitHub as well as VS Code.
 
 The Continuous Deployment Pipeline is implemented by
 
