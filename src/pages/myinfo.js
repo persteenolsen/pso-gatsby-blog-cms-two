@@ -37,7 +37,7 @@ const MyInfo = () => {
                 <p>Web Developer</p>
 		        <p>Denmark</p>
                 <p><Link className={headerNavLinkText} to="https://dk.linkedin.com/in/per-steen-olsen">My Linkedin</Link></p> 
-			   
+			   <p><a href="https://dk.linkedin.com/in/per-steen-olsen" target="_top">Linkedin</a></p>
 			   <p>In my spare time I practise running, and I have been a member of a running club for many years</p>
                
 			   <p>I have been to Portugal many times and passed excams in portuguese at a language school in Lisbon</p>
