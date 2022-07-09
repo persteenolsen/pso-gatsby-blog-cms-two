@@ -4,9 +4,11 @@ date: 2022-07-09T12:27:09.964Z
 published: true
 categories:
   - Next
+  - DevOps
 tags:
   - next-js
   - basic-auth
+  - continuous-deployment
 ---
 A Next.js Web App with Basic Authentication
 
@@ -16,6 +18,12 @@ A Next.js Web App with Basic Authentication
 
 <a href="https://github.com/persteenolsen/next-js-basic-auth" target="_blank">The code at GitHub</a>
 
-<br /><br />
+<br />
 
-A Login system by a Full Stack Next.js App having a client and a "fake" API. Secured by HTTPS.  The Basic schema in the Authorization Header takes care of the the Authentication.
+A Full Stack Next.js App serving as a login system having a client and a "fake" API. Secured by HTTPS and Basic Authentication.
+
+<br /> 
+
+Hosted at Netlify Cloud and using Continuos Deployment
+
+[](https://persteenolsen.netlify.app/posts/2022-05-10-continuous-deployment-and-cms/)
