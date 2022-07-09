@@ -1,5 +1,5 @@
 ---
-title: A Next.js Web App with Basic Auth
+title: Next.js Web App with Basic Auth
 date: 2022-07-09T12:27:09.964Z
 published: true
 categories:
