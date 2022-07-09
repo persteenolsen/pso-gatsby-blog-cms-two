@@ -20,6 +20,4 @@ A Next.js Web App with Basic Authentication
 
 A Full Stack Next.js App serving as a login system having a client and a "fake" API. Secured by HTTPS and Basic Authentication.
 
-Hosted at Netlify Cloud and using Continuos Deployment
-
-[](https://persteenolsen.netlify.app/posts/2022-05-10-continuous-deployment-and-cms/)
+Hosted at Netlify Cloud and using Continuous Deployment
