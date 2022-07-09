@@ -18,11 +18,7 @@ A Next.js Web App with Basic Authentication
 
 <a href="https://github.com/persteenolsen/next-js-basic-auth" target="_blank">The code at GitHub</a>
 
-<br />
-
 A Full Stack Next.js App serving as a login system having a client and a "fake" API. Secured by HTTPS and Basic Authentication.
-
-<br /> 
 
 Hosted at Netlify Cloud and using Continuos Deployment
 
