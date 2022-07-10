@@ -9,8 +9,9 @@ tags:
   - next-js
   - basic-auth
   - continuous-deployment
+  - jamstack
 ---
-A Next.js Web App with Basic Authentication
+A Next.js Jamstack Web App with Basic Authentication
 
 <a href="https://psonextjsone.netlify.app/" target="_blank">Try the demo...</a>
 
@@ -20,4 +21,4 @@ A Next.js Web App with Basic Authentication
 
 A Full Stack Next.js App serving as a login system having a client and a "fake" API. Secured by HTTPS and Basic Authentication.
 
-Hosted at Netlify Cloud and using Continuous Deployment
+This Next.js Jamstack Web App is hosted at Netlify Cloud and using Continuous Deployment
