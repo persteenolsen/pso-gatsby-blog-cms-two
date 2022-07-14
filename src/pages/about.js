@@ -27,7 +27,7 @@ const About = () => {
 
             <h2 className={heading}>{title}</h2>
 
-           	<b>The purpose of this Blog</b>
+           	<b>The purpose of this Blog builed from scratch</b>
 			<ul>
             <li>To get experience with Gatsby React GraphQL and Git-based Headless CMS systems</li>
             <li>Comparing different technologies with focus on login systems</li>
@@ -38,7 +38,7 @@ const About = () => {
                         
             <b>The static part of the Blog was last updated</b>
             <ul>
-			<li>13-07-2022</li>
+			<li>14-07-2022</li>
 			</ul>
 			
 
