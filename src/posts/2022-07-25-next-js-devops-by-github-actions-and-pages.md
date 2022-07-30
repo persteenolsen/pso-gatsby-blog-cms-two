@@ -12,7 +12,7 @@ tags:
   - jamstack
   - ssg
 ---
-Next.js - DevOps by GitHub Actions and Pages
+Next.js with TypeScript - DevOps by GitHub Actions and Pages
 
 <a href="https://persteenolsen.github.io/gh-actions-pages-next-js-one/" target="_blank">Try the demo...</a>
 
@@ -20,4 +20,4 @@ Next.js - DevOps by GitHub Actions and Pages
 
 <a href="https://github.com/persteenolsen/gh-actions-pages-next-js-one" target="_blank">The code at GitHub</a>
 
-A Create Next App using GitHub Actions and Pages as DevOps. This Next.js Web App is one of the default starters with a lot of useful links for learning Next.js.
+A Create Next App with TypeScript using GitHub Actions and Pages as DevOps. This Next.js Web App is one of the default starters with a lot of useful links for learning Next.js.
