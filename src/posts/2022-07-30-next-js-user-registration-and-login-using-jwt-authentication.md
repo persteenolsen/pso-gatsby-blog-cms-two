@@ -15,7 +15,7 @@ tags:
 ---
 A Next.js App with User registration and Login using JWT Authentication
 
-<a href="https://psonextjtwo.netlify.app/" target="_blank">Try the demo...</a>
+<a href="https://psonextjstwo.netlify.app/" target="_blank">Try the demo...</a>
 
 <br /><br />
 
