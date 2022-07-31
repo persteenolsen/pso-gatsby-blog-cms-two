@@ -12,11 +12,11 @@ tags:
   - continuous-deployment
   - jamstack
   - ssg
-  - netlify-cloud
+  - vercel-cloud
 ---
 A Next.js App with User registration and Login using JWT Authentication
 
-<a href="https://psonextjstwo.netlify.app/" target="_blank">Try the demo...</a>
+<a href="https://next-js-registration-login.vercel.app/" target="_blank">Try the demo...</a>
 
 <br /><br />
 
@@ -24,4 +24,4 @@ A Next.js App with User registration and Login using JWT Authentication
 
 The Next.js framework was used for creating this full stack web application serving as a login system with User registration by having a client and a "fake" API using JSON for the User data. The web application is secured by HTTPS and JWT Authentication.
 
-This Next.js Jamstack Web Application is hosted at Netlify Cloud and uses continuous build and deployment
+This Next.js Jamstack Web Application is hosted at Vercel Cloud and uses continuous build and deployment
