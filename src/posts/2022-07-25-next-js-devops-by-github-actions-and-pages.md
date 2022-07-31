@@ -5,8 +5,11 @@ published: true
 categories:
   - Next
   - DevOps
+  - TypeScript
 tags:
   - next-js
+  - react
+  - typescript
   - github-actions
   - github-pages
   - jamstack

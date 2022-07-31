@@ -7,10 +7,12 @@ categories:
   - DevOps
 tags:
   - next-js
+  - react
   - basic-auth
   - continuous-deployment
   - jamstack
   - ssg
+  - netlify
 ---
 A Next.js Jamstack Web App with Basic Authentication
 

@@ -7,6 +7,7 @@ categories:
   - DevOps
 tags:
   - next-js
+  - react
   - jwt-auth
   - jamstack
   - continuous-deployment
