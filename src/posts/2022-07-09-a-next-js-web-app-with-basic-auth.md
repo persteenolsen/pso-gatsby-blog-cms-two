@@ -12,7 +12,7 @@ tags:
   - continuous-deployment
   - jamstack
   - ssg
-  - netlify
+  - netlify-cloud
 ---
 A Next.js Jamstack Web App with Basic Authentication
 

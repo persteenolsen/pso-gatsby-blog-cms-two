@@ -9,10 +9,10 @@ tags:
   - next-js
   - react
   - jwt-auth
-  - jamstack
   - continuous-deployment
+  - jamstack
   - ssg
-  - netlify
+  - netlify-cloud
 ---
 A Next.js App with User registration and Login using JWT Authentication
 
