@@ -1,6 +1,6 @@
 ---
 title: Next.js - DevOps by GitHub Actions and Pages
-date: 2022-07-30T15:59:24.772Z
+date: 2022-08-01T13:12:59.133Z
 published: true
 categories:
   - Next
