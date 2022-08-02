@@ -14,7 +14,7 @@ tags:
   - ssg
   - vercel-cloud
 ---
-A Next.js Web App with JWT Authentication
+A Next.js Jamstack Web App with JWT Authentication
 
 <a href="https://next-js-jwt-auth.vercel.app/" target="_blank">Try the demo...</a>
 
