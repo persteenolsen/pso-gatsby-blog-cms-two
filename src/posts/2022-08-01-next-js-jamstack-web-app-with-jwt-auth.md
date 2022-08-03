@@ -14,7 +14,7 @@ tags:
   - ssg
   - vercel-cloud
 ---
-A Next.js Jamstack Web App with JWT Authentication
+A Next.js Jamstack Web App with JWT Authentication hosted at Vercel
 
 <a href="https://next-js-jwt-auth.vercel.app/" target="_blank">Try the demo...</a>
 
@@ -22,6 +22,6 @@ A Next.js Jamstack Web App with JWT Authentication
 
 <a href="https://github.com/persteenolsen/next-js-jwt-auth" target="_blank">The code at GitHub</a>
 
-The Next.js framework being the "Static Site Generator" was used for creating this full stack web application serving as a login system by having a client and a "fake" API. The web application is secured by HTTPS and JWT Authentication.
+The Next.js framework being the "Static Site Generator" was used for creating this full stack web application serving as a login system by having a client using the API Routes of Next.js getting the data / User credentials from a JSON file. The web application is secured by HTTPS and JWT Authentication.
 
 This Next.js Jamstack Web Application is hosted at Vercel Cloud and uses continuous build and deployment
