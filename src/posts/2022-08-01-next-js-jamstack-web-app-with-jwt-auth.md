@@ -8,7 +8,6 @@ categories:
 tags:
   - next-js
   - react
-  - jwt-auth
   - continuous-deployment
   - jamstack
   - ssg

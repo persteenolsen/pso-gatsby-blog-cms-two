@@ -9,8 +9,7 @@ tags:
   - git-based-cms
   - headless-cms
   - netlify-cms
-  - netlify-cloud
-  - github
+  - netlify-cloud  
 ---
 The Project of the Blog is described below and by the link "About this Blog".
 
