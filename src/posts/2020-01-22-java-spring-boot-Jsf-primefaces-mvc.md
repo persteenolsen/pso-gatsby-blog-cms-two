@@ -13,6 +13,7 @@ tags:
   - hibernate
   - mvc
   - mysql
+  - azure
 ---
 
 Java Spring Boot JSF PrimeFaces MVC
