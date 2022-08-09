@@ -9,6 +9,8 @@ tags: [ "node", "express", "react", "vue", "angular", "mysql", "azure" ]
 
 Node Express React Vue Angular MySQL Role based Membership system
 
+Hosted at Microsoft Azure App Service with the Free App Service Plan.
+
 <ul>
 <li><a href="https://spa.react.jwt.signup.persteenolsen.com" target="_blank" title="Membership">Try the app by a React client ...</a></li>
 <li><a href="https://spa.angular.jwt.signup.persteenolsen.com" target="_blank" title="Membership">Try the app by an Angular client ...</a></li>

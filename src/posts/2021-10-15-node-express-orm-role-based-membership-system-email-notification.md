@@ -7,7 +7,9 @@ tags: [ "node", "express", "react", "typescript", "sequelize", "orm", "mysql", "
 ---
 
 
-Node Express Sequelize ORM React TypeScript MySQL Role based Membership system using Email notification and Forgot Password 
+Node Express Sequelize ORM React TypeScript MySQL Role based Membership system using Email notification and Forgot Password
+
+Hosted at Microsoft Azure App Service with the Free App Service Plan.
 
 <ul>
 <li><a href="https://users.sequelize.basic.persteenolsen.com" target="_blank" title="Show persons">Try the React Client ...</a></li>

@@ -16,6 +16,8 @@ tags:
 
 Google authentication by Node Express serving as the backend and EJS Views are the frontend for this application
 
+Hosted at Microsoft Azure App Service with the Free App Service Plan.
+
 <a href="https://pso-express-auth-ejs-goog.azurewebsites.net" target="_blank" title="Authentication by Google and Node.js">Try the application ...</a>
 
 <br /><br />

@@ -15,7 +15,7 @@ tags:
   - jamstack
   - ssg
 ---
-Next.js with TypeScript - DevOps by GitHub Actions and Pages
+Next.js with TypeScript - DevOps by GitHub Actions and hosted at GitHub Pages
 
 <a href="https://persteenolsen.github.io/gh-actions-pages-next-js-one/" target="_blank">Try the demo...</a>
 
