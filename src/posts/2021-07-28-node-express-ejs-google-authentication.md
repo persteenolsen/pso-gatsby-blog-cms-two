@@ -10,7 +10,6 @@ tags:
   - ci-cd
   - github-actions
   - azure
-  - javascript
   - ejs
 ---
 
