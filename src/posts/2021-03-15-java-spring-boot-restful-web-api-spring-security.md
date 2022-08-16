@@ -2,7 +2,7 @@
 title: Java Spring Boot Restful Web APi Spring Security
 date: 2021-03-15
 published: true
-categories: [ "Java Spring Boot" ]
+categories: [ "Java Spring Boot", "Azure" ]
 tags: [ "java", "jpa", "maven", "hibernate", "react", "security", "mysql", "azure" ]
 ---
 

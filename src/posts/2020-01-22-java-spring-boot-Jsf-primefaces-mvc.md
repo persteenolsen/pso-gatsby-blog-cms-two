@@ -4,6 +4,7 @@ date: 2020-02-11
 published: true
 categories:
   - Java Spring Boot
+  - Azure
 tags:
   - java
   - primefaces
