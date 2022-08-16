@@ -8,7 +8,7 @@ categories:
 tags:
   - next-js
   - react
-  - continuous-deployment
+  - ci-cd
   - jamstack
   - ssg
   - vercel-cloud

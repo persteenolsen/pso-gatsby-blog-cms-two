@@ -11,6 +11,7 @@ tags:
   - react
   - typescript
   - github-actions
+  - ci-cd
   - github-pages
   - jamstack
   - ssg
