@@ -13,9 +13,7 @@ tags:
 
 Hello World with Docker and GitHub Actions
 
-This simple action prints "Hello World" to the log or "Hello" + the name of a person to greet
-
-
+This simple action example prints "Hello World" to the log or "Hello" + the name of a person to greet
 
 <a href="https://github.com/persteenolsen/hello-world-docker-action" target="_blank">The code at GitHub</a>
 
