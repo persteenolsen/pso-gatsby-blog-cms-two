@@ -1,5 +1,5 @@
 ---
-title: Hello World Docker and GitHub Actions
+title: Hello World with Docker and GitHub Actions
 date: 2022-08-31T06:25:48.506Z
 published: true
 categories:
@@ -11,7 +11,7 @@ tags:
 ---
 
 
-Hello World Docker and GitHub Actions
+Hello World with Docker and GitHub Actions
 
 This simple action prints "Hello World" to the log or "Hello" + the name of a person to greet
 
