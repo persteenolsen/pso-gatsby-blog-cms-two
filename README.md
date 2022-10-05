@@ -9,3 +9,4 @@ A MD Blog in Gatsby using md files and Netlify CMS
 - Images can be added to the Markdown files by Netlify CMS
 - Hosted at Netlify
 - DevOps by VS Code - Netlify and GitHub
+- Note: 05-10-2022 - The Helmet packet should be updated
