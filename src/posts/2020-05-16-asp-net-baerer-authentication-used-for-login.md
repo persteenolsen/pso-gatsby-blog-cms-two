@@ -4,12 +4,10 @@ date: 2022-12-18
 published: true
 categories:
   - NET Core
-  - Angular
-  - MySQL
+  - Angular  
 tags:
   - asp-net
   - angular
-  - mysql
 ---
 
 
