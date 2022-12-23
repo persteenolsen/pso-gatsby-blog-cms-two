@@ -25,6 +25,6 @@ The API is hosted at Microsoft Azure App Service and the Client at GitHub Pages
 <p>A Login system by a Vue client / ASP.NET Core 2.2 Web API secured by HTTPS and a Basic Authorization Header</p>
 
 <ul>
-<!--<li><a href="https://github.com/persteenolsen/aspnet-core-basic-auth-azure-api" target="_blank">The Web API at GitHub</a></li>-->
+
 <li><a href="https://github.com/persteenolsen/vue-basic-auth-gh-pages-client" target="_blank">The Vue SPA Client at GitHub</a></li>
 </ul>
