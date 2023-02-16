@@ -5,7 +5,7 @@ published: true
 categories:
   - About me
 tags:
-  - lissabon
+  - lisbon
   - portugal
 ---
 Two wonderful weeks in Lisbon, Cascais, Carcavelos and Sintra in February 2023 
