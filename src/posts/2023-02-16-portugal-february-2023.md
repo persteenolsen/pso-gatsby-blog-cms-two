@@ -13,5 +13,3 @@ Vacation in Lisbon February 2023
 Two wonderful weeks in Lisbon, Cascais, Carcavelos and Sintra in February 2023 
 
 ![](/images-posts/lisbon_1_february_2023.jpg)
-
-![](/images-posts/lisbon_2_february_2023.jpg)
