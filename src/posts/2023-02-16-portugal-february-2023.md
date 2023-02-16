@@ -8,8 +8,8 @@ tags:
   - lisbon
   - portugal
 ---
-Vacation in Lisbon February 2023
+Vacation in Portugal in February 2023
 
-Two wonderful weeks in Lisbon, Cascais, Carcavelos and Sintra in February 2023 
+Two wonderful weeks in Lisbon, Cascais, Carcavelos and Sintra 
 
 ![](/images-posts/lisbon_1_february_2023.jpg)
