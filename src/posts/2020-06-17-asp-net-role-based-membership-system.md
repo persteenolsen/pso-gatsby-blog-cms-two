@@ -4,10 +4,12 @@ date: 2023-03-18
 published: true
 categories:
   - NET Core
+  - Angular
   - React
   - MS SQL
 tags:
   - asp-net
+  - angular
   - react
   - ms-sql
 ---
