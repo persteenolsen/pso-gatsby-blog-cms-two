@@ -1,6 +1,6 @@
 ---
 title: Asp Net Role based Membership system
-date: 2023-03-26
+date: 2023-04-02
 published: true
 categories:
   - NET Core
@@ -15,7 +15,7 @@ tags:
 ---
 
 
-ASP.NET Core 2.2 Web API with React serving as Role based Membership system
+ASP.NET Core 2.2 Web API with Angular and React serving as Role based Membership system
 
 Traditional webhosting is used for this Application
 
@@ -28,7 +28,7 @@ Traditional webhosting is used for this Application
 </li>
 </ul>
 
-<p>A Web API role based Membership System for authentication and registration managing Users by an Angular or React client / ASP.NET Core 2.2 Web API secured by HTTPS and Authentication by a JWT with the Baerer schema in the Authorization Header</p>
+<p>A Web API role based Membership System for authentication and registration managing Users by an Angular or React client / ASP.NET Core 2.2 Web API secured by HTTPS and Authentication by a JWT</p>
 
 <p>Administrate Posts by an Angular client and the Web API after a successfully login</p>
 
