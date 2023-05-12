@@ -3,7 +3,7 @@ title: Machine Learning to predict global temperature
 date: 2023-05-10T06:25:48.506Z
 published: true
 categories:
-  - Artificial intelligence
+  - Artificial Intelligence
   - ML.NET
 tags:
   - ai
@@ -13,7 +13,7 @@ tags:
 ---
 
 
-Artificial intelligence, Machine Learning and Deep Learning
+Artificial Intelligence, Machine Learning and Deep Learning
 
 Predict the global temperature using ML.NET
 

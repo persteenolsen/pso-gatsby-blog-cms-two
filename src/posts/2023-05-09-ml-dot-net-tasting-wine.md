@@ -3,7 +3,7 @@ title: Machine Learning to taste wine
 date: 2023-05-09T06:25:48.506Z
 published: true
 categories:
-  - Artificial intelligence
+  - Artificial Intelligence
   - ML.NET
 tags:
   - ai
@@ -12,7 +12,7 @@ tags:
   - ml-dot-net
 ---
 
-Artificial intelligence, Machine Learning and Deep Learning
+Artificial Intelligence, Machine Learning and Deep Learning
 
 Tasting wine using ML.NET
 
