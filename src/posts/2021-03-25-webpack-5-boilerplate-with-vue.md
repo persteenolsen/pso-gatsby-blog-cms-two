@@ -9,7 +9,7 @@ tags: [ "webpack", "vue", "starstruck-at-github" ]
 
 A Webpack 5 boilerplate with Vue 
 
-This my project which most stars at GitHub :-)
+The project I made with most stars at GitHub :-)
 
 <a href="https://webpack5vue.persteenolsen.com/" target="_blank">Try the demo...</a>
 
