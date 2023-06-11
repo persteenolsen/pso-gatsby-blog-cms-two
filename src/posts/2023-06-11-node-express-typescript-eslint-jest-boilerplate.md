@@ -16,7 +16,7 @@ tags:
 ---
 
 
-A boilerplate ready to serve Node Express TypeScript Eslint Jest Supertest an Husky 
+A boilerplate ready to serve Node Express TypeScript Eslint Jest Supertest and Husky 
 
 <a href="https://github.com/persteenolsen/node-express-typescript-eslint-jest-boilerplate" target="_blank">The code at GitHub</a>
 
