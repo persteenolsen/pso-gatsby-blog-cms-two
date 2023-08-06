@@ -1,6 +1,6 @@
 ---
 title: Continuous Deployment and CMS
-date: 2022-05-10T12:50:23.920Z
+date: 2023-08-06T12:50:23.920Z
 published: true
 categories:
   - DevOps
@@ -14,7 +14,7 @@ tags:
 ---
 The Project of the Blog is described below and by the link "About this Blog".
 
-U﻿pdated: 06-08-2023 - Forestry is depreaced and Decap CMS should be used instead of Netlify CMS.
+Note: 06-08-2023 - Forestry CMS is deprecated and Tina CMS should be used instead. Decap CMS should be used instead of Netlify CMS.
 
 This Blog is using a Continuous Deployment Pipeline as an important concept of DevOps. An Editor of the Blog can use Git-based CMS for content administration while an Administrator or Developer of the Blog can use GitHub as well as VS Code.
 
