@@ -38,7 +38,7 @@ const About = () => {
 
             <b>The static part of the Blog was last updated</b>
             <ul>
-                <li>06-08-2023</li>
+                <li>08-08-2023</li>
             </ul>
 
 
@@ -80,7 +80,7 @@ const About = () => {
             <b>The Gatsby Blog</b>
             <ul>
                 <li>Gatsby</li>
-                <li>Netlify CMS</li>
+                <li>Decap / Netlify CMS</li>
                 <li>JavaScript</li>
                 <li>HTML</li>
                 <li>CSS</li>
