@@ -14,7 +14,7 @@ tags:
 
 Traditional CMS
 
-In addition to Headless API-driven and Git-based CMS I have experience with the traditional CMS listed below
+In addition to the Headless API-driven and Git-based CMS I have experience with the traditional CMS listed below:
 
 * WordPress - Based on PHP
 * Drupal - Based on PHP
