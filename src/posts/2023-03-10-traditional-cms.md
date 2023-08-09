@@ -12,8 +12,6 @@ tags:
   - umbraco-cms
 ---
 
-Traditional CMS
-
 In addition to the Headless API-driven and Git-based CMS I have experience with the traditional CMS listed below:
 
 * WordPress - Based on PHP
