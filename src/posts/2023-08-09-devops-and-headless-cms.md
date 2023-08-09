@@ -18,7 +18,7 @@ tags:
 ---
 DevOps and Git-based Headless CMS used with my Blog
 
-Note: 10-08-2023 - Decap CMS is replacing the Netlify CMS keeping most / all of the features - React based. 
+Note: The Decap CMS was formerly known as Netlify CMS and seems to keep most / all of the features of Netlify CMS. 
 
 This Blog is using a CI / CD Pipeline as an important concept of DevOps. An Editor of the Blog can use Git-based CMS for content administration while an Administrator or Developer of the Blog can use GitHub as well as VS Code.
 

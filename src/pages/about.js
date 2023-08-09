@@ -61,7 +61,7 @@ const About = () => {
 
             <b>Main functionality</b>
             <ul>
-                <li>The content of the Blog can be updated by Netlify CMS, GitHub or VS</li>
+                <li>The content of the Blog can be updated by Decap / Netlify CMS, GitHub or VS</li>
                 <li>The Posts of the Blog refers to Projects must be created in Markdown or Mdx</li>
                 <li>View the Projects by scrolling down the List</li>
                 <li>View the Projects by searching / filtering the Title or Tags</li>
