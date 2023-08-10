@@ -1,6 +1,6 @@
 ---
 title: DevOps and Headless CMS
-date: 2023-08-09T12:50:23.920Z
+date: 2023-08-10T12:50:23.920Z
 published: true
 categories:
   - DevOps
@@ -20,22 +20,22 @@ DevOps and Git-based Headless CMS used with my Blog
 
 Note: The Decap CMS was formerly known as Netlify CMS and seems to keep most / all of the features of Netlify CMS. 
 
-This Blog is using a CI / CD Pipeline as an important concept of DevOps. An Editor of the Blog can use Git-based CMS for content administration while an Administrator or Developer of the Blog can use GitHub as well as VS Code.
+This Blog is using a CI / CD Pipeline as an important concept of DevOps. An Editor of the Blog can use Git-based CMS for content administration while an Administrator or Developer of the Blog can use GitHub as a CMS as well as VS Code.
 
 The CI / CD Pipeline was implemented by
 
 * The code of the Blog at GitHub
-* Decap Git-based CMS / VS Code
+* Decap Git-based CMS / GitHub as a CMS / VS Code
 * Netlify Cloud
 
-How it works: 
+A few examples of how it works: 
 
-When a developer makes a change to the code of the Blog and commit the code to GitHub by VS Code or the CMS an automated Build will happen and if no errors are detected the created files from that build will be deployed to Netlify Cloud where the Blog is hosted.
+When a developer makes a change to the code of the Blog and commit the code to GitHub by VS Code or GitHub as a CMS an automated Build will happen and if no errors are detected the created files from that build will be deployed to Netlify Cloud where the Blog is hosted.
 
-An example: A Markdown file was saved by the CMS system which starts the CI / CD Pipeline by a commit to GitHub.
-
-To get more experience with Git based CMS and as an alternative to Netlify Cloud and Decap / Netlify CMS, a copy of the Gatsby Blog is hosted and aministrated by Gatsby Cloud and Tina CMS using another repository at GitHub.
+An Editor saves a Post of the Blog ( A Markdown file) by the Decap / Netlify CMS system which starts the build an deployment by a commit to GitHub.
 
 In addition to Headless Git-based CMS I have experience with API driven CMS listed below
 
 * Strapi - Based on Node.js
+
+To get more experience with Git based CMS and as an alternative to Netlify Cloud and Decap / Netlify CMS, a copy of the Gatsby Blog is hosted and administrated by Gatsby Cloud and Tina CMS using another repository at GitHub.

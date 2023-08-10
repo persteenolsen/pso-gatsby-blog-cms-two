@@ -6,7 +6,7 @@ A MD Blog in Gatsby using md files and Decap / Netlify CMS
 - Search / Filter functionality to the List of Posts
 - Pagination added to one of the list of Posts
 - Decap / Netlify CMS for administration of the Posts
-- Images can be added to the Markdown files by Netlify CMS
+- Images can be added to the Markdown files by CMS
 - Hosted at Netlify
-- DevOps by VS Code - Netlify and GitHub
+- DevOps by VS Code - GitHub - Netlify
 - Note: 05-10-2022 - The Helmet packet should be updated
