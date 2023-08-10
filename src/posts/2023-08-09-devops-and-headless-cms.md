@@ -26,16 +26,16 @@ The CI / CD Pipeline was implemented by
 
 * The code of the Blog at GitHub
 * Decap Git-based CMS / GitHub as a CMS / VS Code
-* Netlify Cloud
+* Netlify Cloud which hosts the Blog
 
 A few examples of how it works: 
 
 When a developer makes a change to the code of the Blog and commit the code to GitHub by VS Code or GitHub as a CMS an automated Build will happen and if no errors are detected the created files from that build will be deployed to Netlify Cloud where the Blog is hosted.
 
-An Editor saves a Post of the Blog ( A Markdown file) by the Decap / Netlify CMS system which starts the build an deployment by a commit to GitHub.
+An Editor saves a Post of the Blog ( A Markdown file) by the Decap / Netlify CMS system which starts the build and deployment by a commit to GitHub.
 
 In addition to Headless Git-based CMS I have experience with API driven CMS listed below
 
 * Strapi - Based on Node.js
 
-To get more experience with Git based CMS and as an alternative to Netlify Cloud and Decap / Netlify CMS, a copy of the Gatsby Blog is hosted and administrated by Gatsby Cloud and Tina CMS using another repository at GitHub.
+To get more experience with Git based CMS a copy of the Gatsby Blog is hosted and administrated by Gatsby Cloud and Tina CMS using another repository at GitHub.
