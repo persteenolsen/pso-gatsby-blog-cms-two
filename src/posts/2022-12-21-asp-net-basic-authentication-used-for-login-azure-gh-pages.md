@@ -1,6 +1,6 @@
 ---
 title: Asp Net Basic Authentication used for Login - Azure and GH Pages 
-date: 2023-07-05
+date: 2023-08-15
 published: true
 categories:
   - NET Core
