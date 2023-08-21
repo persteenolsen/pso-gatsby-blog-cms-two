@@ -3,16 +3,21 @@ title: Node Express ORM Role based Membership system Email notification
 date: 2023-08-21
 published: true
 categories: [ "Node", "React", "TypeScript", "Azure", "MySQL", "DevOps" ]
-tags: [ "node", "express", "react", "typescript", "sequelize", "orm", "mysql", "azure", "gh-pages" ]
+tags: [ "node", "express", "react", "typescript", "sequelize", "orm", "mysql", "azure" ]
 ---
 
 
 Node Express Sequelize ORM React TypeScript MySQL Role based Membership system using Email notification and Forgot Password
 
-The Node Web API is hosted at Microsoft Azure App Service with the Free App Service Plan. The clients are hosted at GH Pages and traditional Web hotels
+The Node Web API is hosted at Microsoft Azure App Service with the Free App Service Plan. 
+
+The clients are hosted at traditional Web Hotel and one client is being test at GH Pages.
+
+Note: Using GH Pages makes the Forgot password not working well due to routing / url issues!
+However, the React HashRouter solves most 404 / refresh issues at GH Pages
 
 <ul>
-<li><a href="https://persteenolsen.github.io/gh-pages-react-node-orm-client" target="_blank" title="Show persons">Try React Client - GH Pages ...</a></li>
+<li><a href="https://persteenolsen.github.io/gh-pages-react-node-orm-test" target="_blank" title="Show persons">TESTING - try the React Client at GH Pages ...</a></li>
 <li><a href="https://users.sequelize.basic.persteenolsen.com" target="_blank" title="Show persons">Try the React Client ...</a></li>
 <li><a href="https://users.ts.sequelize.basic.persteenolsen.com" target="_blank" title="Show persons">Try the React TypeScript Client ...</a></li>
 </ul>
