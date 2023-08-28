@@ -2,8 +2,22 @@
 title: Node Express ORM Role based Membership system Email notification
 date: 2023-08-27
 published: true
-categories: [ "Node", "React", "TypeScript", "Azure", "MySQL", "DevOps" ]
-tags: [ "node", "express", "react", "typescript", "sequelize", "orm", "mysql", "azure" ]
+categories:
+  - Node
+  - React
+  - TypeScript
+  - Azure
+  - MySQL
+  - DevOps
+tags:
+  - node
+  - express
+  - react
+  - typescript
+  - sequelize
+  - orm
+  - mysql
+  - azure
 ---
 
 
@@ -16,7 +30,10 @@ The clients are hosted at GH Pages and at a traditional Web Hotel
 The React client at GH Pages uses DevOps. The React HashRouter solves most 404 / Browser refresh issues at GH Pages
 
 <ul>
-<li><a href="https://persteenolsen.github.io/gh-pages-react-node-orm-test" target="_blank" title="Show persons">Try React Client - GH Pages ...</a></li>
+
+
+<li><a href="https://persteenolsen.github.io/gh-pages-react-node-orm-client" target="_blank" title="Show persons">Try React Client - GH Pages ...</a></li>
+
 <li><a href="https://users.sequelize.basic.persteenolsen.com" target="_blank" title="Show persons">Try React Client - Web hotel...</a></li>
 <li><a href="https://users.ts.sequelize.basic.persteenolsen.com" target="_blank" title="Show persons">Try React TypeScript Client - Web hotel ...</a></li>
 </ul>
@@ -26,7 +43,11 @@ The React client at GH Pages uses DevOps. The React HashRouter solves most 404 /
 
 <ul>
 <li><a href="https://github.com/persteenolsen/node-express-sequelize-users-api-basic" target="_blank">The Web API at GitHub</a></li>
-<li><a href="https://github.com/persteenolsen/gh-pages-react-node-orm-test" target="_blank">React Client at GitHub - GH Pages</a></li>
+
+
+
+<li><a href="https://github.com/persteenolsen/gh-pages-react-node-orm-client" target="_blank">React Client at GitHub - GH Pages</a></li>
+
 <li><a href="https://github.com/persteenolsen/react-sequelize-users-client-polyfill-basic" target="_blank">React Client at GitHub - Web hotel</a></li>
 <li><a href="https://github.com/persteenolsen/react-typescript-sequelize-users-client-polyfill-basic" target="_blank">React TypeScript Client at GitHub - Web hotel</a></li>
 
