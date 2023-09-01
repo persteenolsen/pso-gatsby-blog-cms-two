@@ -1,5 +1,6 @@
 A MD Blog in Gatsby using md files and Decap / Netlify CMS
 
+- Note: 20-08-2023 - NOT ready for local developement but OK for running at Netlify
 - The gatsby hello world starter was used for creating this blog with Markdown Posts
 - Tags are added with optimized styles
 - Categories are added with optimized styles
