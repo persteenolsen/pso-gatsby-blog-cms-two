@@ -1,5 +1,5 @@
 ---
-title: Java Spring Boot Web API Jersey jax rs
+title: Java Spring Boot JAX-RS Jersey RESTful Web API
 date: 2023-10-03
 published: true
 categories: [ "Java Spring Boot", "Azure", "MySQL" ]
