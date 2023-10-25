@@ -26,10 +26,14 @@ The API is hosted at Microsoft Azure App Service
 
 For the Web API a CI / CD Pipeline was implemented by the DevOps at GitHub Actions and deployed to Azure App Service
 
-
+<ul>
+<li>
 <a href="https://persteenolsen.github.io/vue-3-jwt-auth-gh-pages-client/" target="_blank" title="Vue 3 - JWT Authentication">Try the demo by Vue 3...</a>
-
+</li>
+<li>
 <a href="https://persteenolsen.github.io/angular-jwt-auth-gh-pages-client/" target="_blank" title="Angular - JWT Authentication">Try the demo by Angular...</a>
+</li>
+</ul>
 
 <p>A Login system by a Vue 3 and a Angular client / ASP.NET Core 2.2 Web API secured by HTTPS and Authentication by a JWT with the Baerer schema in the Authorization Header</p>
 
