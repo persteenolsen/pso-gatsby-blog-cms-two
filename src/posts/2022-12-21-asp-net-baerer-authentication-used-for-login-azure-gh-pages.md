@@ -20,7 +20,7 @@ tags:
 
 ASP.NET Core 2.2 Web API with Vue 3 and Angular clients using Baerer Authentication for Login
 
-Both the Vue 3 + Angular Clients are hosted at GitHub Pages 
+The Vue 3 and the Angular Clients are hosted at GitHub Pages 
 
 The API is hosted at Microsoft Azure App Service
 
