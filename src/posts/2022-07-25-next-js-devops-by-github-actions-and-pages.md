@@ -6,6 +6,7 @@ categories:
   - Next.js
   - DevOps
   - TypeScript
+  - GitHub Pages
 tags:
   - next-js
   - react

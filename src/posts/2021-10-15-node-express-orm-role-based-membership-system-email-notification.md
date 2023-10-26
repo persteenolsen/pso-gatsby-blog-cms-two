@@ -6,9 +6,10 @@ categories:
   - Node.js
   - React
   - TypeScript
-  - Azure
+  - Azure App Service
   - MySQL
   - DevOps
+  - GitHub Pages
 tags:
   - node
   - express

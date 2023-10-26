@@ -5,7 +5,8 @@ published: true
 categories:
   - NET Core
   - Vue 2
-  - Azure
+  - Azure App Service
+  - GitHub Pages
   - DevOps  
 tags:
   - asp-net
