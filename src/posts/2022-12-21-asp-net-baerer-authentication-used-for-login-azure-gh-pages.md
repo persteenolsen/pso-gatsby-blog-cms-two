@@ -4,7 +4,7 @@ date: 2023-10-25
 published: true
 categories:
   - NET Core
-  - Vue
+  - Vue 3
   - Angular
   - Azure
   - DevOps  
