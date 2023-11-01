@@ -6,7 +6,7 @@ categories:
   - NET Core
   - Vue 3
   - Angular
-  - Azure App Service
+  - Azure
   - GitHub Pages
   - DevOps  
 tags:
