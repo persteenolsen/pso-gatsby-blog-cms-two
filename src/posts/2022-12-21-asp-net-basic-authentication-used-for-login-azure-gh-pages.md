@@ -1,6 +1,6 @@
 ---
 title: ASP.NET Core Basic Authentication used for Login - Azure and GH Pages 
-date: 2023-11-01
+date: 2023-11-05
 published: true
 categories:
   - NET Core
