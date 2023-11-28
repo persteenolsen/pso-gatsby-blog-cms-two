@@ -1,9 +1,10 @@
 ---
-title: Nuxt 3 Hello World Web App at GitHub Pages
-date: 2023-11-23T13:12:59.133Z
+title: Nuxt 3 Ionic Web App at GitHub Pages
+date: 2023-11-28T13:12:59.133Z
 published: true
 categories:
   - Nuxt
+  - Ionic
   - DevOps
   - TypeScript
   - GitHub Pages
@@ -14,15 +15,16 @@ tags:
   - github-actions
   - ci-cd
   - github-pages
-  - jamstack
-  - ssg
+  - ios
+  - android
+  - mobile-hybrid-apps
 ---
-Nuxt 3 Hello World Web App ready for TypeScript and hosted at GitHub Pages using GitHub Actions as DevOps
+Nuxt 3 Ionic TypeScript Web / Mobile Hybrid App using Capacitor IOS and Android. This starter template is hosted at GitHub Pages using GitHub Actions as DevOps
 
-<a href="https://persteenolsen.github.io/nuxt-js-3-hello-world-gh-pages/" target="_blank">Try the demo...</a>
+<a href="https://persteenolsen.github.io/nuxt-3-ionic-capacitor-part-2-gh-pages/" target="_blank">Try the demo...</a>
 
 <br /><br />
 
-<a href="https://github.com/persteenolsen/nuxt-js-3-hello-world-gh-pages" target="_blank">The code at GitHub</a>
+<a href="https://github.com/persteenolsen/nuxt-3-ionic-capacitor-part-2-gh-pages" target="_blank">The code at GitHub</a>
 
-A Hello World by Nuxt v3.0.0 using GitHub Actions and Pages for DevOps. This Nuxt Web App is a minimal default starter
+This starter template is ready for developing Web / Mobile Hybrid Apps using Nuxt v3.0.0, Ionic, Capacitor, Ios and Android
