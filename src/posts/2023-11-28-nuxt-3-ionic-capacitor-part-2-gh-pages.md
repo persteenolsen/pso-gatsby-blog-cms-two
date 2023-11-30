@@ -1,6 +1,6 @@
 ---
 title: Nuxt 3 Ionic Web App at GitHub Pages
-date: 2023-11-28T13:12:59.133Z
+date: 2023-11-30T13:12:59.133Z
 published: true
 categories:
   - Nuxt
