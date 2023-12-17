@@ -1,11 +1,11 @@
 ---
-title: ASP.NET Core 6 minimal Web API
+title: .NET 6 minimal Web API 
 date: 2023-12-17
 published: true
 categories:
   - NET Core
 tags:
-  - asp-net
+  - dot-net
 ---
 
 
@@ -17,6 +17,4 @@ Traditional webhosting is used for this Application
 
 <p>A minimal Web API created by VS Code using .NET 6</p>
 
-<ul>
-<li><a href="https://github.com/persteenolsen/net-core-6-minimal-api" target="_blank">The Web API at GitHub</a></li>
-</ul>
+<a href="https://github.com/persteenolsen/net-core-6-minimal-api" target="_blank">The Web API at GitHub</a>
