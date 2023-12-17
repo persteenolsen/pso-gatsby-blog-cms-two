@@ -3,7 +3,7 @@ title: ASP.NET Core Basic Authentication used for Login - Azure and GH Pages
 date: 2023-11-05
 published: true
 categories:
-  - NET Core
+  - .NET Core
   - Vue 3
   - Vue 2
   - Azure

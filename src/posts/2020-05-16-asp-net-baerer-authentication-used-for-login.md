@@ -3,7 +3,7 @@ title: ASP.NET Core Baerer Authentication used for Login
 date: 2023-03-17
 published: true
 categories:
-  - NET Core
+  - .NET Core
   - Angular  
 tags:
   - asp-net

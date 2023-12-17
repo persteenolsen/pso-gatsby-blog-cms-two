@@ -3,7 +3,7 @@ title: .NET 6 minimal Web API
 date: 2023-12-17
 published: true
 categories:
-  - NET Core
+  - .NET 6
 tags:
   - dot-net
 ---

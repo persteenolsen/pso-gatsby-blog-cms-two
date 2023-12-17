@@ -3,7 +3,7 @@ title: ASP.NET Core Baerer Authentication used for Login - Azure and GH Pages
 date: 2023-10-29
 published: true
 categories:
-  - NET Core
+  - .NET Core
   - Vue 3
   - Angular
   - Azure
