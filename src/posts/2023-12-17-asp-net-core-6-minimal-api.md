@@ -17,4 +17,4 @@ Traditional webhosting is used for this Application
 
 <p>A minimal Web API created by VS Code using .NET 6</p>
 
-<a href="https://github.com/persteenolsen/net-core-6-minimal-api" target="_blank">The Web API at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-6-minimal-api" target="_blank">The Web API at GitHub</a>
