@@ -13,7 +13,7 @@ A minimal Web API in .NET 6
 
 Traditional webhosting is used for this Application
 
-<a href="https://simple.api.core.persteenolsen.com/products" target="_blank" title="Minimal Web API in .NET 6">Try the demo...</a>
+<a href="https://dotnet.minimal.api.persteenolsen.com/products" target="_blank" title="Minimal Web API in .NET 6">Try the demo...</a>
 
 <p>A minimal Web API created by VS Code using .NET 6</p>
 
