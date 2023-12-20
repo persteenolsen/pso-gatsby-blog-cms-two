@@ -19,4 +19,12 @@ Traditional webhosting is used for this Application
 
 <p>A JWT Auth Web API created by VS Code using .NET 6 and Vue 3 + Pinia + Vite</p>
 
+<ul>
+<li>
 <a href="https://github.com/persteenolsen/dotnet-6-jwt-auth-api" target="_blank">The Web API at GitHub</a>
+</li>
+<li>
+
+<a href="https://github.com/persteenolsen/vue-3-jwt-auth-client" target="_blank">The Vue 3 Client at GitHub</a>
+</li>
+</ul>
