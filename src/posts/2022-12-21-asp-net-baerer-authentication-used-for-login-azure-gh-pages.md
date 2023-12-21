@@ -1,5 +1,5 @@
 ---
-title: ASP.NET Core Baerer Authentication used for Login - Azure and GH Pages 
+title: .NET Core 2.2 Web API with JWT Authentication - Azure and GH Pages 
 date: 2023-10-29
 published: true
 categories:
@@ -21,7 +21,7 @@ tags:
 ---
 
 
-ASP.NET Core 2.2 Web API with Vue 3 and Angular clients using Baerer Authentication for Login
+ASP.NET Core 2.2 Web API with Vue 3 and Angular clients using JWT Authentication for Login
 
 The Vue 3 and the Angular Clients are hosted at GitHub Pages 
 

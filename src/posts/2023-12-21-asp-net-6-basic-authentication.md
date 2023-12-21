@@ -1,9 +1,9 @@
 ---
-title: .NET 6 Basic Auth Web API 
+title: .NET 6 Web API with Basic Authentication 
 date: 2023-12-21
 published: true
 categories:
-  - .NET 6
+  - .NET
   - Vue 3
 tags:
   - dot-net
@@ -11,7 +11,7 @@ tags:
 ---
 
 
-A Vue 3 client towards a Web API by .NET 6 using BASIC Authentication
+A Vue 3 client towards a Web API by .NET 6 using Basic Authentication
 
 Traditional webhosting is used for this Application
 

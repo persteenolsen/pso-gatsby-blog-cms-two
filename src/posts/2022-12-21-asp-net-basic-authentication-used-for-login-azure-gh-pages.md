@@ -1,5 +1,5 @@
 ---
-title: ASP.NET Core Basic Authentication used for Login - Azure and GH Pages 
+title: .NET Core 2.2 Web API with Basic Authentication - Azure and GH Pages 
 date: 2023-11-05
 published: true
 categories:

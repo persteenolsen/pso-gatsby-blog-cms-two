@@ -1,9 +1,9 @@
 ---
-title: .NET 6 JWT Auth Web API 
+title: .NET 6 Web API with JWT Authentication
 date: 2023-12-20
 published: true
 categories:
-  - .NET 6
+  - .NET
   - Vue 3
 tags:
   - dot-net

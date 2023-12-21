@@ -1,5 +1,5 @@
 ---
-title: ASP.NET Core Basic Authentication used for Login
+title: .NET Core 2.2 Web API with Basic Authentication
 date: 2023-01-13
 published: true
 categories:
