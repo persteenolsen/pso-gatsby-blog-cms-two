@@ -1,14 +1,14 @@
 ---
-title: Python and Flask Web App - Hello World
+title: Python and Flask Hello World Web App
 date: 2023-12-26
 published: true
 categories:
   - Python
-  tags:
+tags:
   - python
   - flask
   - vercel
-  ---
+---
 
 Python and Flask Hello World Web App hosted at Vercel Cloud implementing DevOps by GitHub + Vercel
 
