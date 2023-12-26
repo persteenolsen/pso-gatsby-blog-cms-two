@@ -18,4 +18,6 @@ A Hello World Flask Web App with an endpoint /about - secured by HTTPS
 
 CI / CD by VS Code + GitHub + Vercel Cloud
 
-<a href="https://github.com/persteenolsen/core-two-zero-js" target="_blank">The source code at GitHub</a>
+<a href="https://github.com/persteenolsen/flask-vercel-hello-world" target="_blank">The source code at GitHub</a>
+
+<p></p>
