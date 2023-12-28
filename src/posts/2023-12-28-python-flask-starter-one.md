@@ -19,5 +19,3 @@ A Starter Flask Web App with endpoints - secured by HTTPS
 CI / CD by VS Code + GitHub + Vercel Cloud 
 
 <a href="https://github.com/persteenolsen/flask-vercel-start-one" target="_blank">The source code at GitHub</a>
-
-<p></p>
