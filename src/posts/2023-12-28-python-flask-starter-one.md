@@ -1,6 +1,6 @@
 ---
 title: Python and Flask Starter Web App
-date: 2024-02-01
+date: 2024-02-04
 published: true
 categories:
   - Python
