@@ -1,6 +1,6 @@
 ---
 title: .NET 6 Web API with JWT Authentication
-date: 2023-12-20
+date: 2024-02-11
 published: true
 categories:
   - .NET

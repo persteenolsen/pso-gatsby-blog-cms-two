@@ -1,6 +1,6 @@
 ---
 title: .NET 6 Web API with Basic Authentication 
-date: 2023-12-21
+date: 2024-02-11
 published: true
 categories:
   - .NET
