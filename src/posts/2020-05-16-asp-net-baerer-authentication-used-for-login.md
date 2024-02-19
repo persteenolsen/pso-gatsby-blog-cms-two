@@ -1,6 +1,6 @@
 ---
 title: .NET Core 2.2 Web API with JWT Authentication
-date: 2023-03-17
+date: 2024-02-19
 published: true
 categories:
   - .NET Core
