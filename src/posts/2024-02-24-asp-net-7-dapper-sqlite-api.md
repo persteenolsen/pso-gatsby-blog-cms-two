@@ -15,7 +15,7 @@ tags:
 
 .NET 7 Web API using Dapper ORM + SQLite DB with an Angular 14 Client
 
-Dapper is a lightweight ORM and can be an alternative Entity Framework Core ORM
+Dapper is a lightweight ORM which can be an alternative to Entity Framework Core ORM
 
 SQLite is local DB and fine for testing and small applications
 
