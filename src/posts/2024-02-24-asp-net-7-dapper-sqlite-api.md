@@ -21,7 +21,7 @@ SQLite is local DB and fine for testing and small applications
 
 Traditional webhosting is used for this Application
 
-<a href="https://angular.dapper.sqlite.client,persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 7 with Dapper and SQLite">Try the demo...</a>
+<a href="https://angular.dapper.sqlite.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 7 with Dapper and SQLite">Try the demo...</a>
 
 <p>A demo in .NET 7 Web API using Dapper ORM + SQLite DB for testing + an Angular 14 Client serving CRUD functionality</p>
 
