@@ -4,7 +4,7 @@ date: 2024-02-24
 published: true
 categories:
   - .NET
-  - Anguar
+  - Angular
 tags:
   - dot-net
   - angular
