@@ -21,14 +21,14 @@ Traditional webhosting is used for this Application
 
 <a href="https://angular.signup.client.persteenolsen.com" target="_blank" title="Angular 15 + Web API in .NET 6 Membership System">Try the demo...</a>
 
-<ul>
-<li>JWT authentication with refresh tokens</li>
-<li>Email sign up and verification</li>
-<li>Forgot password and reset password functionality</li>
-<li>Role based authorization with two roles "User" and "Admin"</li>
-<li>CRUD Account management routes with role based access control</li>
-<li>Swagger API documentation with routes</li>
-</ul>
+<p>
+- JWT authentication with refresh tokens<br />
+- Email sign up and verification<br />
+- Forgot password and reset password functionality<br />
+- Role based authorization with two roles "User" and "Admin"<br />
+- CRUD Account management routes with role based access control<br />
+- Swagger API documentation with routes<br />
+</p>
 
 <ul>
 <li>
