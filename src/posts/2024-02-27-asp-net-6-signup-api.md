@@ -38,4 +38,4 @@ tags:
 
 SQLite is local DB and fine for testing and small applications
 
-Traditional webhosting is used for this Application<br />
+Traditional webhosting is used for this Application
