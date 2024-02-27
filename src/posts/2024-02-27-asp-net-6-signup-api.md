@@ -13,11 +13,7 @@ tags:
 ---
 
 
-.NET 6 Web API using Entity Framework Core ( ORM ) + SQLite DB with an Angular 15 Client serving as a Membership System
-
-SQLite is local DB and fine for testing and small applications
-
-Traditional webhosting is used for this Application
+.NET 6 Web API using Entity Framework Core + SQLite DB + Angular 15 Client serving as a Membership System
 
 <a href="https://angular.signup.client.persteenolsen.com" target="_blank" title="Angular 15 + Web API in .NET 6 Membership System">Try the demo...</a>
 
@@ -39,3 +35,7 @@ Traditional webhosting is used for this Application
 <a href="https://github.com/persteenolsen/angular-15-signup-client" target="_blank">The Angular Client at GitHub</a>
 </li>
 </ul>
+
+SQLite is local DB and fine for testing and small applications
+
+Traditional webhosting is used for this Application<br />
