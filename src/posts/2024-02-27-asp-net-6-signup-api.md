@@ -1,6 +1,6 @@
 ---
 title: .NET 6 Web API Membership system with Email verification  
-date: 2024-02-27
+date: 2024-03-01
 published: true
 categories:
   - .NET
