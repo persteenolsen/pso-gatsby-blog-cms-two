@@ -1,10 +1,11 @@
 ---
 title: .NET 6 Web API Membership system with Email verification  
-date: 2024-03-01
+date: 2024-03-05
 published: true
 categories:
   - .NET
   - Angular
+  - Tests
 tags:
   - dot-net
   - angular
@@ -13,9 +14,9 @@ tags:
 ---
 
 
-.NET 6 Web API using Entity Framework Core + SQLite DB + Angular 15 Client serving as a Membership System
+.NET 6 Web API using Entity Framework Core + SQLite DB + Angular 14 Client serving as a Membership System
 
-<a href="https://angular.signup.client.persteenolsen.com" target="_blank" title="Angular 15 + Web API in .NET 6 Membership System">Try the demo...</a>
+<a href="https://angular.signup.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 6 Membership System">Try the demo...</a>
 
 <p>
 - JWT authentication with refresh tokens<br />
@@ -24,6 +25,7 @@ tags:
 - Role based authorization with two roles "User" and "Admin"<br />
 - CRUD Account management routes with role based access control<br />
 - Swagger API documentation with routes<br />
+- Tests with Karma and Jasmine for the Angular Client 
 </p>
 
 <ul>
@@ -32,7 +34,7 @@ tags:
 </li>
 <li>
 
-<a href="https://github.com/persteenolsen/angular-15-signup-client" target="_blank">The Angular Client at GitHub</a>
+<a href="https://github.com/persteenolsen/angular-14-signup-client" target="_blank">The Angular Client at GitHub</a>
 </li>
 </ul>
 
