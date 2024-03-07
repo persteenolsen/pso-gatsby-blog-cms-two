@@ -17,7 +17,12 @@ tags:
 ---
 
 
-.NET 6 Web API using Entity Framework Core + SQLite DB + Angular 14 Client serving as a Membership System + Unit Tests
+.NET 6 Web API using Entity Framework Core + SQLite DB + Angular 14 Client serving as a Membership System + Unit Testing
+
+Unit Testing:
+<ul>
+<li>Karma + Jasmine - Used with the Angular Client</li>
+</ul>
 
 <p><a href="https://angular.signup.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 6 Membership System">Try the demo...</a></p>
 
@@ -32,7 +37,6 @@ tags:
 </ul>
 
 <p>
-- Unit Tests with Karma and Jasmine for the Angular Client<br />
 - Swagger API documentation with routes<br />
 - JWT authentication with refresh tokens<br />
 - Email sign up and verification<br />
