@@ -25,13 +25,7 @@ Unit Testing:
 <li>Karma + Jasmine - Used with the Angular Client</li>
 </ul>
 
-<a href="https://angular.dapper.sqlite.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 7 with Dapper and SQLite">Try the demo...</a><br />
-
-Dapper is a lightweight Micro-ORM which can be an alternative to Entity Framework Core ORM
-
-SQLite is local DB and fine for testing and small applications
-
-Traditional webhosting is used for this Application
+<a href="https://angular.dapper.sqlite.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 7 with Dapper and SQLite">Try the demo...</a>
 
 <ul>
 
@@ -48,3 +42,8 @@ Traditional webhosting is used for this Application
 <a href="https://github.com/persteenolsen/angular-dapper-sqlite-client" target="_blank">Angular Client at GitHub</a>
 </li>
 </ul>
+Dapper is a lightweight Micro-ORM which can be an alternative to Entity Framework Core ORM
+
+SQLite is local DB and fine for testing and small applications
+
+Traditional webhosting is used for this Application
