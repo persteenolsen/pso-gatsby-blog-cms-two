@@ -37,7 +37,7 @@ Traditional webhosting is used for this Application
 
 
 <li>
-<a href="https://github.com/persteenolsen/dotnet-7-dapper-sqlite-crud-api-xunit" target="_blank">Web API + XUnit at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-7-dapper-sqlite-api-xunit" target="_blank">Web API + XUnit at GitHub</a>
 </li>
 
 <li>
