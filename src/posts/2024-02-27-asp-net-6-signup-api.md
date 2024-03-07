@@ -11,10 +11,12 @@ tags:
   - angular
   - ef-core
   - sqlite
+  - Jasmine
+  - Karma
 ---
 
 
-.NET 6 Web API using Entity Framework Core + SQLite DB + Angular 14 Client + Unit Tests serving as a Membership System
+.NET 6 Web API using Entity Framework Core + SQLite DB + Angular 14 Client serving as a Membership System + Unit Tests
 
 <a href="https://angular.signup.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 6 Membership System">Try the demo...</a>
 
