@@ -19,13 +19,13 @@ tags:
 <a href="https://angular.signup.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 6 Membership System">Try the demo...</a>
 
 <p>
+- Unit Tests with Karma and Jasmine for the Angular Client
 - JWT authentication with refresh tokens<br />
 - Email sign up and verification<br />
 - Forgot password and reset password functionality<br />
 - Role based authorization with two roles "User" and "Admin"<br />
 - CRUD Account management routes with role based access control<br />
 - Swagger API documentation with routes<br />
-- Unit Tests with Karma and Jasmine for the Angular Client 
 </p>
 
 <ul>
