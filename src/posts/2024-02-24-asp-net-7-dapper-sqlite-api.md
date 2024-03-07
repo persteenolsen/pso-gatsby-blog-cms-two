@@ -21,17 +21,17 @@ tags:
 
 Unit Testing:
 <ul>
-<li>XUnit - Used in one of the two .NET 7 Web API</li>
-<li>Karma + Jasmine - Used in the Angular 14 Client</li>
+<li>XUnit - Used with one of the .NET Web API</li>
+<li>Karma + Jasmine - Used with the Angular Client</li>
 </ul>
+
+<a href="https://angular.dapper.sqlite.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 7 with Dapper and SQLite">Try the demo...</a>
 
 Dapper is a lightweight Micro-ORM which can be an alternative to Entity Framework Core ORM
 
 SQLite is local DB and fine for testing and small applications
 
-<a href="https://angular.dapper.sqlite.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 7 with Dapper and SQLite">Try the demo...</a>
-
-<p>Traditional webhosting is used for this Application</p>
+Traditional webhosting is used for this Application
 
 <ul>
 

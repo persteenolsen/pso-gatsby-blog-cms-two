@@ -13,6 +13,7 @@ tags:
   - sqlite
   - Jasmine
   - Karma
+  - swagger
 ---
 
 
@@ -21,7 +22,7 @@ tags:
 <a href="https://angular.signup.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 6 Membership System">Try the demo...</a>
 
 <p>
-- Unit Tests with Karma and Jasmine for the Angular Client
+- Unit Tests with Karma and Jasmine for the Angular Client<br />
 - JWT authentication with refresh tokens<br />
 - Email sign up and verification<br />
 - Forgot password and reset password functionality<br />
