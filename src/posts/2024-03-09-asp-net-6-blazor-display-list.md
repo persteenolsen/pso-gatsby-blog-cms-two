@@ -1,5 +1,5 @@
 ---
-title: Blazor App in .NET 6 + WebAssembly - Displays a List 
+title: Blazor App in .NET 6 + WebAssembly - Display a List 
 date: 2024-03-09
 published: true
 categories:
@@ -17,7 +17,7 @@ Blazor App in .NET 6 + WebAssembly - Displays a List
 
 <ul>
 <li>
-<a href="https://github.com/persteenolsen/blazor-display-list" target="_blank">The Web API at GitHub</a>
+<a href="https://github.com/persteenolsen/blazor-display-list" target="_blank">The Blazor App at GitHub</a>
 </li>
 
 </ul>
