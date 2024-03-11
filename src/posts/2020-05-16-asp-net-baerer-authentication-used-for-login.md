@@ -4,7 +4,8 @@ date: 2024-02-19
 published: true
 categories:
   - .NET Core
-  - Angular  
+  - Angular
+  - C#  
 tags:
   - asp-net
   - angular

@@ -5,6 +5,7 @@ published: true
 categories:
   - AI
   - ML.NET
+  - C#
 tags:
   - artificial-intelligence
   - machine-learning

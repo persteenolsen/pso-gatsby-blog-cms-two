@@ -6,6 +6,7 @@ categories:
   - .NET Core
   - React
   - MS SQL
+  - C#
 tags:
   - asp-net
   - jquery

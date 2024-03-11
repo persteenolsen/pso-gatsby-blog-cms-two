@@ -5,6 +5,7 @@ published: true
 categories:
   - .NET
   - Vue 3
+  - C#
 tags:
   - dot-net
   - vue-3

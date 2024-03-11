@@ -6,6 +6,7 @@ categories:
   - .NET
   - Angular
   - Tests
+  - C#
 tags:
   - dot-net
   - angular

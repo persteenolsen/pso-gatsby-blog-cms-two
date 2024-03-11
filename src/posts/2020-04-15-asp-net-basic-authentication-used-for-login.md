@@ -5,6 +5,7 @@ published: true
 categories:
   - .NET Core
   - Vue 2
+  - C#
 tags:
   - asp-net
   - vue-2

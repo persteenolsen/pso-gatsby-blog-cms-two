@@ -8,7 +8,8 @@ categories:
   - Vue 2
   - Azure
   - GitHub Pages
-  - DevOps  
+  - DevOps
+  - C#  
 tags:
   - asp-net
   - vue-3

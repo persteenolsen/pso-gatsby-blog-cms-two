@@ -4,6 +4,7 @@ date: 2023-12-17
 published: true
 categories:
   - .NET
+  - C#
 tags:
   - dot-net
 ---
