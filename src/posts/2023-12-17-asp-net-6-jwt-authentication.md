@@ -22,15 +22,13 @@ Traditional webhosting is used for this Application
 <ul>
 
 <li>
-<a href="https://blazor.jwt.auth.persteenolsen.com/" target="_blank" title="Blazor + Web API in .NET 6" using JWT Auth>Try the demo...</a>
+<a href="https://blazor.jwt.auth.persteenolsen.com/" target="_blank" title="Blazor + Web API in .NET 6" using JWT Auth>Try the demo by Blazor...</a>
 </li>
 
 <li>
-<a href="https://vue.jwt.auth.client.persteenolsen.com/" target="_blank" title="Vue 3 + Web API in .NET 6" using JWT Auth>Try the demo...</a>
+<a href="https://vue.jwt.auth.client.persteenolsen.com/" target="_blank" title="Vue 3 + Web API in .NET 6" using JWT Auth>Try the demo by Vue 3...</a>
 </li>
-<li>
 
-</li>
 </ul>
 
 <p>A JWT Auth Web API created by VS Code using .NET 6 with C# with Blazor and Vue 3 Clients + Pinia + Vite</p>
