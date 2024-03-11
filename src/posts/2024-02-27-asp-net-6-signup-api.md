@@ -39,7 +39,7 @@ Unit Testing:
 </ul>
 
 <p>
-- C#
+- C#<br />
 - Swagger API documentation with routes<br />
 - JWT authentication with refresh tokens<br />
 - Email sign up and verification<br />
