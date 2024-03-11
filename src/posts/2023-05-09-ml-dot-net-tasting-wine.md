@@ -11,11 +11,12 @@ tags:
   - machine-learning
   - deep-learning
   - ml-dot-net
+  - c#
 ---
 
 Artificial Intelligence, Machine Learning and Deep Learning
 
-Tasting wine using ML.NET
+Tasting wine using ML.NET with C#
 
 This is a console application using Microsoft’s Machine Learning framework ML.NET for tasting wine
 

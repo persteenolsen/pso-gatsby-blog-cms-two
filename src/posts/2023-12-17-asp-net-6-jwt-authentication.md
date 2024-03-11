@@ -9,16 +9,17 @@ categories:
 tags:
   - dot-net
   - vue-3
+  - c#
 ---
 
 
-A Vue 3 client towards a Web API by .NET 6 using JWT Authentication
+A Vue 3 client towards a Web API by .NET 6 with C# using JWT Authentication
 
 Traditional webhosting is used for this Application
 
 <a href="https://vue.jwt.auth.client.persteenolsen.com/" target="_blank" title="Vue 3 + Web API in .NET 6" using JWT Auth>Try the demo...</a>
 
-<p>A JWT Auth Web API created by VS Code using .NET 6 and Vue 3 + Pinia + Vite</p>
+<p>A JWT Auth Web API created by VS Code using .NET 6 with C# and Vue 3 + Pinia + Vite</p>
 
 <ul>
 <li>

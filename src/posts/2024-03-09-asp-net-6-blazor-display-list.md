@@ -3,15 +3,17 @@ title: Blazor App in .NET 6 + WebAssembly - Display a List
 date: 2024-03-09
 published: true
 categories:
-  - .NET Blazor  
+  - .NET Blazor
+  - C#  
 tags:
   - dot-net
   - blazor
   - webassembly
+  - c#
 ---
 
 
-Blazor App in .NET 6 + WebAssembly - Displays a List 
+Blazor App in .NET 6 with C# and WebAssembly - Displays a List 
 
 <p><a href="https://blazor.display.list.persteenolsen.com/" target="_blank" title="Blazor App - Displays a List">Try the demo...</a></p>
 
@@ -22,6 +24,6 @@ Blazor App in .NET 6 + WebAssembly - Displays a List
 
 </ul>
 
-A Single Page Blazor App developed in .NET 6 + WebAssembly - Displays a List 
+A Single Page Blazor App developed in .NET 6 with C# and WebAssembly - Displays a List 
 
 <p>Traditional webhosting is used for this Application</p>

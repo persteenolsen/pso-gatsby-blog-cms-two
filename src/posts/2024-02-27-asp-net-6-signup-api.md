@@ -15,10 +15,11 @@ tags:
   - Jasmine
   - Karma
   - swagger
+  - c#
 ---
 
 
-.NET 6 Web API using Entity Framework Core + SQLite DB + Angular 14 Client serving as a Membership System + Unit Testing
+.NET 6 Web API with C# using Entity Framework Core + SQLite DB + Angular 14 Client serving as a Membership System + Unit Testing
 
 Unit Testing:
 <ul>
@@ -38,6 +39,7 @@ Unit Testing:
 </ul>
 
 <p>
+- C#
 - Swagger API documentation with routes<br />
 - JWT authentication with refresh tokens<br />
 - Email sign up and verification<br />

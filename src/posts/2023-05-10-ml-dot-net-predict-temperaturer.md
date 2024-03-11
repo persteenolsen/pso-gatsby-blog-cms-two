@@ -11,12 +11,13 @@ tags:
   - machine-learning
   - deep-learning
   - ml-dot-net
+  - c#
 ---
 
 
 Artificial Intelligence, Machine Learning and Deep Learning
 
-Predict the global temperature using ML.NET
+Predict the global temperature using ML.NET with C#
 
 This is a console application using Microsoft’s Machine Learning framework ML.NET to predict the global temperatures
 

@@ -9,16 +9,17 @@ categories:
 tags:
   - asp-net
   - angular
+  - c#
 ---
 
 
-ASP.NET Core 2.2 Web API with Angular using JWT Authentication for Login
+ASP.NET Core 2.2 Web API with C# towards Angular using JWT Authentication for Login
 
 Traditional webhosting is used for this Application
 
 <a href="https://baerer.auth.client.core.persteenolsen.com" target="_blank" title="Baerer Authentication">Try the demo...</a>
 
-<p>A Login system by a Angular client / ASP.NET Core 2.2 Web API secured by HTTPS and Authentication by a JWT with the Baerer schema in the Authorization Header</p>
+<p>A Login system by a Angular client / ASP.NET Core 2.2 Web API with C# secured by HTTPS and Authentication by a JWT with the Baerer schema in the Authorization Header</p>
 
 <ul>
 <li><a href="https://github.com/persteenolsen/aspnet-core-jwt-authentication-api" target="_blank">The Web API at GitHub</a></li>

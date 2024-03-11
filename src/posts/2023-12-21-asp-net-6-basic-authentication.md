@@ -9,10 +9,11 @@ categories:
 tags:
   - dot-net
   - vue-3
+  - c#
 ---
 
 
-A Vue 3 client towards a Web API by .NET 6 using Basic Authentication
+A Vue 3 client towards a Web API by .NET 6 with C# using Basic Authentication
 
 Traditional webhosting is used for this Application
 

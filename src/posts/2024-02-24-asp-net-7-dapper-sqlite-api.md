@@ -15,10 +15,11 @@ tags:
   - xunit
   - Jasmine
   - Karma
+  - c#
 ---
 
 
-.NET 7 Web API + Dapper ORM + SQLite DB towards an Angular 14 Client + Unit Testing
+.NET 7 Web API with C# and Dapper ORM + SQLite DB towards an Angular 14 Client + Unit Testing
 
 Unit Testing:
 <ul>
