@@ -11,6 +11,7 @@ tags:
   - dot-net
   - vue-3
   - c#
+  - blazor
 ---
 
 
