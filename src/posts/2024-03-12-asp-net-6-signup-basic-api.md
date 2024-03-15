@@ -1,5 +1,5 @@
 ---
-title: .NET 6 Web API Membership system 
+title: .NET 6 Web API Membership system - SQLite
 date: 2024-03-12
 published: true
 categories:
