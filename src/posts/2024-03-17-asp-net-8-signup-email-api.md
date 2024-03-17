@@ -34,7 +34,7 @@ Unit Testing:
 </li>
 <li>
 
-<a href="https://github.com/persteenolsen/angular-14-signup-client" target="_blank">The Angular Client at GitHub</a>
+<a href="https://github.com/persteenolsen/angular-14-signup-email-client" target="_blank">The Angular Client at GitHub</a>
 </li>
 </ul>
 
