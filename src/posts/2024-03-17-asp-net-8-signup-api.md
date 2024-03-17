@@ -1,6 +1,6 @@
 ---
-title: .NET 6 Web API Membership system with Email verification  
-date: 2024-03-06
+title: .NET 8 Web API Membership system with Email verification  
+date: 2024-03-17
 published: true
 categories:
   - .NET
@@ -19,18 +19,18 @@ tags:
 ---
 
 
-.NET 6 Web API with C# using Entity Framework Core + SQLite DB + Angular 14 Client serving as a Membership System + Unit Testing
+.NET 8 Web API with C# using Entity Framework Core + SQLite DB + Angular 14 Client serving as a Membership System + Unit Testing
 
 Unit Testing:
 <ul>
 <li>Karma + Jasmine - Used with the Angular Client</li>
 </ul>
 
-<p><a href="https://angular.signup.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 6 Membership System">Try the demo...</a></p>
+<p><a href="https://angular.signup.email.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 8 Membership System">Try the demo...</a></p>
 
 <ul>
 <li>
-<a href="https://github.com/persteenolsen/dotnet-6-signup-api" target="_blank">The Web API at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-8-signup-email-api" target="_blank">The Web API at GitHub</a>
 </li>
 <li>
 
