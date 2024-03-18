@@ -1,6 +1,6 @@
 ---
 title: .NET 7 Web API using Dapper SQLite
-date: 2024-03-17
+date: 2024-03-16
 published: true
 categories:
   - .NET
