@@ -1,6 +1,6 @@
 ---
 title: .NET 8 Hello World Web API 
-date: 2024-03-18
+date: 2024-03-17
 published: true
 categories:
   - .NET
