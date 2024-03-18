@@ -1,6 +1,6 @@
 ---
 title: .NET 8 Web API Membership system with Email verification  
-date: 2024-03-17
+date: 2024-03-18
 published: true
 categories:
   - .NET
@@ -30,7 +30,13 @@ Unit Testing:
 
 <ul>
 <li>
-<a href="https://github.com/persteenolsen/dotnet-8-signup-email-api" target="_blank">The Web API at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-8-signup-email-api" target="_blank">The Web API .NET 8 at GitHub</a>
+</li>
+<li>
+
+<ul>
+<li>
+<a href="https://github.com/persteenolsen/dotnet-6-signup-api" target="_blank">The Web API .NET 6 at GitHub</a>
 </li>
 <li>
 
