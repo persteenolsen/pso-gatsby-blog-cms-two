@@ -29,16 +29,16 @@ Unit Testing:
 <p><a href="https://angular.signup.email.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 8 Membership System">Try the demo...</a></p>
 
 <ul>
+
 <li>
 <a href="https://github.com/persteenolsen/dotnet-8-signup-email-api" target="_blank">The Web API .NET 8 at GitHub</a>
 </li>
-<li>
 
 <li>
 <a href="https://github.com/persteenolsen/dotnet-6-signup-api" target="_blank">The Web API .NET 6 at GitHub</a>
 </li>
-<li>
 
+<li>
 <a href="https://github.com/persteenolsen/angular-14-signup-email-client" target="_blank">The Angular Client at GitHub</a>
 </li>
 </ul>
