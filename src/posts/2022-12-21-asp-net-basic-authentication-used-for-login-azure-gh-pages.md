@@ -26,7 +26,7 @@ ASP.NET Core 2.2 Web API with C# consuming from a Vue 3 client using Basic Authe
 
 The API is hosted at Microsoft Azure App Service and the Vue 3 Client at GitHub Pages 
 
-For the Web API a CI / CD Pipeline was implemented by Azure DevOps - A Build and a Release Pipeline which deploys to Azure App Service
+For the Web API a CI / CD Pipeline was implemented by Azure DevOps and deployed to Azure App Service
 
 <ul>
 <li>
