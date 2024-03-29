@@ -5,7 +5,6 @@ published: true
 categories:
   - .NET Core
   - Vue 3
-  - Angular
   - Azure
   - GitHub Pages
   - DevOps
@@ -15,7 +14,6 @@ tags:
   - vue-3
   - vite
   - pinia
-  - angular
   - github-pages
   - azure
   - azure-repos
@@ -24,9 +22,9 @@ tags:
 ---
 
 
-ASP.NET Core 2.2 Web API with C# towards Vue 3 and Angular clients using JWT Authentication for Login
+ASP.NET Core 2.2 Web API with C# consuming from a Vue 3 client using JWT Authentication for Login
 
-The Vue 3 and the Angular Clients are hosted at GitHub Pages 
+The Vue 3 Client is hosted at GitHub Pages 
 
 The API is hosted at Microsoft Azure App Service
 
@@ -36,9 +34,7 @@ For the Web API a CI / CD Pipeline was implemented by Azure DevOps and deployed 
 <li>
 <a href="https://persteenolsen.github.io/vue-3-jwt-auth-gh-pages-client/" target="_blank" title="Vue 3 - JWT Authentication">Try the demo by Vue 3...</a>
 </li>
-<li>
-<a href="https://persteenolsen.github.io/angular-jwt-auth-gh-pages-client/" target="_blank" title="Angular - JWT Authentication">Try the demo by Angular...</a>
-</li>
+
 </ul>
 
 <p>A Login system by a Vue 3 and a Angular client / ASP.NET Core 2.2 Web API with C# secured by HTTPS and Authentication by a JWT with the Baerer schema in the Authorization Header</p>
@@ -46,6 +42,6 @@ For the Web API a CI / CD Pipeline was implemented by Azure DevOps and deployed 
 <ul>
 
 <li><a href="https://github.com/persteenolsen/vue-3-jwt-auth-gh-pages-client" target="_blank">The Vue 3 Client at GitHub</a></li>
-<li><a href="https://github.com/persteenolsen/angular-jwt-auth-gh-pages-client" target="_blank">The Angular Client at GitHub</a></li>
+
 <li>The source code of the Web API is hosted at Azure Repos / Private access only</li>
 </ul>
