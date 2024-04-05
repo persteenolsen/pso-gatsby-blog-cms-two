@@ -35,10 +35,6 @@ Unit Testing:
 </li>
 
 <li>
-<a href="https://github.com/persteenolsen/dotnet-6-signup-api" target="_blank">The Web API .NET 6 at GitHub</a>
-</li>
-
-<li>
 <a href="https://github.com/persteenolsen/angular-14-signup-email-client" target="_blank">The Angular Client at GitHub</a>
 </li>
 </ul>
