@@ -19,7 +19,7 @@ tags:
 ---
 
 
-.NET 8 Web API with C# using Entity Framework Core + SQLite DB + Angular 14 Client serving as a Membership System + Unit Testing
+.NET 8 Web API with C# using Entity Framework Core + SQLite - Angular 14 Client serving as a Membership System
 
 Unit Testing:
 <ul>

@@ -1,5 +1,5 @@
 ---
-title: .NET 8 Web API Membership system + Email verification - Azure + GH Pages 
+title: .NET 8 Web API Membership system + Email verification - Azure and GH Pages 
 date: 2024-04-05
 published: true
 categories:
@@ -10,6 +10,7 @@ categories:
   - MS SQL
   - Azure
   - DevOps
+  - GitHub Pages
 tags:
   - dot-net
   - angular
@@ -24,7 +25,7 @@ tags:
 ---
 
 
-.NET 8 Web API at Azure with C# using Entity Framework Core + MS SQL + Angular 14 Client at GH Pages serving as a Membership System + Unit Testing
+.NET 8 Web API at Azure with C# using Entity Framework Core + MS SQL - Angular 14 Client at GH Pages serving as a Membership System
 
 Unit Testing:
 <ul>
@@ -36,20 +37,20 @@ Unit Testing:
 <ul>
 
 <li>
+<a href="https://github.com/persteenolsen/angular-14-example-gh-pages" target="_blank">The Angular Client at GitHub</a>
+</li>
+<li>
 The source code of the Web API is hosted at Azure Repos / Private access only
 </li>
 
-<li>
-<a href="https://github.com/persteenolsen/angular-14-example-gh-pages" target="_blank">The Angular Client at GitHub</a>
-</li>
 </ul>
 
 <p>
 - C#<br />
-- GitHub Pages for hosting of the Angular Client<br />
-- GitHub Actions serving as DevOps for the Angular Client and GitHub for code Repo<br />
-- Azure App Service for hosting of the .NET 8 Web API<br />
-- DevOps by Azure DevOps and Repos for the Web API<br />
+- The Angular Client is hosted at GH Pages<br />
+- The .NET 8 Web API is hosted at Azure App Service<br />
+- DevOps by GitHub Actions + Pages for the Angular Client<br />
+- DevOps by Azure App Service + Repos for the .NET 8 Web API<br />
 - Swagger API documentation with routes<br />
 - JWT authentication with refresh tokens<br />
 - Email sign up and verification<br />
