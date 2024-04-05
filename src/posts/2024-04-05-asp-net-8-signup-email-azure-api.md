@@ -36,7 +36,7 @@ Unit Testing:
 <ul>
 
 <li>
-<a href="https://github.com/persteenolsen/dotnet-8-signup-email-azure-api" target="_blank">The Web API .NET 8 at GitHub</a>
+The source code of the Web API is hosted at Azure Repos / Private access only
 </li>
 
 <li>
@@ -46,10 +46,10 @@ Unit Testing:
 
 <p>
 - C#<br />
-- GitHub Pages for hosting of the Angular Client
-- GitHub Actions serving as DevOps for the Angular Client and GitHub for code Repo
-- Azure App Service for hosting of the .NET 8 Web API
-- DevOps by Azure DevOps and Repos for the Web API
+- GitHub Pages for hosting of the Angular Client<br />
+- GitHub Actions serving as DevOps for the Angular Client and GitHub for code Repo<br />
+- Azure App Service for hosting of the .NET 8 Web API<br />
+- DevOps by Azure DevOps and Repos for the Web API<br />
 - Swagger API documentation with routes<br />
 - JWT authentication with refresh tokens<br />
 - Email sign up and verification<br />
