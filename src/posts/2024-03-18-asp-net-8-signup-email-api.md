@@ -1,5 +1,5 @@
 ---
-title: .NET 8 Web API Membership system with Email verification  
+title: .NET 8 Web API Membership system + Email verification  
 date: 2024-04-02
 published: true
 categories:
@@ -19,7 +19,7 @@ tags:
 ---
 
 
-.NET 8 Web API with C# using Entity Framework Core + SQLite - Angular 14 Client serving as a Membership System
+.NET 8 Web API with C# using Entity Framework Core + SQLite consuming an Angular 14 Client - serving as a Membership System
 
 Unit Testing:
 <ul>
