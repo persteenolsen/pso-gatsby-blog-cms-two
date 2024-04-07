@@ -49,7 +49,7 @@ The source code of the Web API is hosted at Azure Repos / Private access only
 - C#<br />
 - The Angular Client is hosted at GH Pages<br />
 - The .NET 8 Web API is hosted at Azure App Service<br />
-- MS SQL as the Database
+- MS SQL as the Database<br />
 - DevOps by GitHub Actions + Pages for the Angular Client<br />
 - DevOps by Azure App Service + Repos for the .NET 8 Web API<br />
 - Swagger API documentation with routes<br />
