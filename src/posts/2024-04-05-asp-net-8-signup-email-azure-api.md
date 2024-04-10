@@ -45,20 +45,24 @@ The source code of the Web API is hosted at Azure Repos / Private access only
 
 </ul>
 
-<p>
-- C#<br />
-- The .NET 8 Web API is hosted at Azure App Service<br />
-- DevOps by Azure App Service + Repos for the .NET 8 Web API<br />
-- MS SQL as the Database<br />
-- The Angular Client is hosted at GH Pages<br />
-- DevOps by GitHub Actions + Pages for the Angular Client<br />
-- Swagger API documentation with routes<br />
-- JWT authentication with refresh tokens<br />
-- Email sign up and verification<br />
-- Forgot password and reset password functionality<br />
-- Role based authorization with two roles "User" and "Admin"<br />
-- CRUD Account management routes with role based access control<br />
-</p>
+<p>Functionality of the Web App</p>
+<ul>
+<li>JWT authentication with refresh tokens</li>
+<li>Email sign up and verification</li>
+<li>Forgot password and reset password functionality</li>
+<li>Role based authorization with two roles "User" and "Admin"</li>
+<li>CRUD Account management routes with role based access control</li>
+</ul>
 
-<p>MS SQL is both used local and for production</p>
+<p>Tech used for building the Web App</p>
+<ul>
+<li>C#</li>
+<li>The .NET 8 Web API is hosted at Azure App Service</li>
+<li>DevOps by Azure App Service + Repos for the .NET 8 Web API</li>
+<li>The Angular Client is hosted at GH Pages</li>
+<li>DevOps by GitHub Actions + Pages for the Angular Client</li>
+<li>MS SQL as the Database for both Dev + Prod</li>
+<li>Swagger API documentation with routes</li>
+</ul>
+
 
