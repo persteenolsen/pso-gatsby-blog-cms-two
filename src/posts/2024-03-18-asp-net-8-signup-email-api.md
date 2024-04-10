@@ -39,16 +39,21 @@ Unit Testing:
 </li>
 </ul>
 
-<p>
-- C#<br />
-- Swagger API documentation with routes<br />
-- JWT authentication with refresh tokens<br />
-- Email sign up and verification<br />
-- Forgot password and reset password functionality<br />
-- Role based authorization with two roles "User" and "Admin"<br />
-- CRUD Account management routes with role based access control<br />
-</p>
 
-<p>SQLite is local DB and fine for testing and small applications</p>
+<p>Functionality of the Web App</p>
+<ul>
+<li>JWT authentication with refresh tokens</li>
+<li>Email sign up and verification</li>
+<li>Forgot password and reset password functionality</li>
+<li>Role based authorization with two roles "User" and "Admin"</li>
+<li>CRUD Account management routes with role based access control</li>
+</ul>
 
-<p>Traditional webhosting is used for this Application</p>
+<p>Tech used for building the Web App</p>
+<ul>
+<li>C#</li>
+<li>The .NET 8 Web API is hosted at a traditional Webhotel</li>
+<li>The Angular Client is hosted at a traditional Webhotel</li>
+<li>SQLite as the Database for both Dev + Prod</li>
+<li>Swagger API documentation with routes</li>
+</ul>
