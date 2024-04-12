@@ -1,6 +1,6 @@
 ---
 title: .NET 8 Web API Membership system + Email verification - Azure and GH Pages 
-date: 2024-04-11
+date: 2024-04-12
 published: true
 categories:
   - .NET
@@ -62,6 +62,9 @@ The source code of the Web API is hosted at Azure Repos / Private access only
 <li>The Angular Client is hosted at GH Pages</li>
 <li>DevOps by GitHub Actions + Pages for the Angular Client</li>
 <li>MS SQL as the Database for both Dev + Prod</li>
+<li>CORS Policy implemented by .NET</li>
+<li>JWT Token for access secure routes</li>
+<li>RefreshToken by HTTP only Cookie to generate new JWT Tokens</li>
 <li>Swagger API documentation with routes</li>
 </ul>
 
