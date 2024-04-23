@@ -1,5 +1,5 @@
 ---
-title: .NET 8 Web API doing Authenticaion by JWT and Refresh Tokens
+title: .NET 8 Web API doing Authentication by JWT and Refresh Tokens
 date: 2024-04-23
 published: true
 categories:
@@ -27,6 +27,8 @@ Traditional webhosting is used for this Application
 </ul>
 
 <p>JWT and Refresh Tokens for Authentication in a Web API created by VS Code using .NET 8 with C# and a Angular Client</p>
+
+<p>By using JWT + Refresh Tokens the security will be improved. The JWT can have a reduced time to live and therefor less likely to be stolen</p>
 
 <ul>
 <li>
