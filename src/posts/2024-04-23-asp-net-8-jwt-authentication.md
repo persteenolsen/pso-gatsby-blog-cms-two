@@ -15,14 +15,14 @@ tags:
 ---
 
 
-Blazor and Vue 3 clients towards a Web API by .NET 8 with C# using JWT Authentication
+Blazor ( .NET 6 ) and Vue 3 clients towards a Web API by .NET 8 with C# using JWT Authentication
 
 Traditional webhosting is used for this Application
 
 <ul>
 
 <li>
-<a href="https://blazor.jwt.auth.persteenolsen.com/" target="_blank" title="Blazor + Web API in .NET 8" using JWT Auth>Try the demo by Blazor...</a>
+<a href="https://blazor.jwt.auth.persteenolsen.com/" target="_blank" title="Blazor .NET 6 + Web API in .NET 8" using JWT Auth>Try the demo by Blazor...</a>
 </li>
 
 <li>
