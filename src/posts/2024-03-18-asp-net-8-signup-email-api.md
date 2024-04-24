@@ -1,6 +1,6 @@
 ---
 title: .NET 8 Web API Membership system + Email verification  
-date: 2024-04-02
+date: 2024-04-24
 published: true
 categories:
   - .NET
