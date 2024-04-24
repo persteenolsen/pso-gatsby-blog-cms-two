@@ -47,7 +47,7 @@ The source code of the Web API is hosted at Azure Repos / Private access only
 
 <p>Functionality of the Web App</p>
 <ul>
-<li>JWT authentication with refresh tokens</li>
+<li>JWT authentication with Refresh Tokens</li>
 <li>Email sign up and verification</li>
 <li>Forgot password and reset password functionality</li>
 <li>Role based authorization with two roles "User" and "Admin"</li>
@@ -64,7 +64,7 @@ The source code of the Web API is hosted at Azure Repos / Private access only
 <li>MS SQL as the Database for both Dev + Prod</li>
 <li>CORS Policy implemented by .NET</li>
 <li>JWT Token for access secure routes</li>
-<li>RefreshToken by HTTP only Cookie to generate new JWT Tokens</li>
+<li>Refresh Token by HTTP only Cookie to generate new JWT Tokens</li>
 <li>Swagger API documentation with routes</li>
 </ul>
 

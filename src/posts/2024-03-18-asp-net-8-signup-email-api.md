@@ -42,7 +42,7 @@ Unit Testing:
 
 <p>Functionality of the Web App</p>
 <ul>
-<li>JWT authentication with refresh tokens</li>
+<li>JWT authentication with Refresh Tokens</li>
 <li>Email sign up and verification</li>
 <li>Forgot password and reset password functionality</li>
 <li>Role based authorization with two roles "User" and "Admin"</li>
