@@ -47,8 +47,8 @@ The source code of the Web API is hosted at Azure Repos / Private access only
 
 <p>Functionality of the Web App</p>
 <ul>
+<li>The Web API was made without the ASP.NET Core Identity using custom JWT middleware</li>
 <li>JWT authentication with Refresh Tokens</li>
-<li>The Web API including the Authentication is made without the ASP.NET Core Identity</li>
 <li>Refresh token rotation</li>
 <li>Revoked token reuse detection</li>
 <li>Email sign up and verification</li>
