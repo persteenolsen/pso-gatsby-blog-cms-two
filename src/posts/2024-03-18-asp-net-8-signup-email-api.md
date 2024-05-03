@@ -39,11 +39,11 @@ Unit Testing:
 </li>
 </ul>
 
+<p>The Web API was made without the ASP.NET Core Identity using custom JWT middleware</p>
 
 <p>Functionality of the Web App</p>
 <ul>
 
-<li>The Web API was made without the ASP.NET Core Identity using custom JWT middleware</li>
 <li>JWT authentication with Refresh Tokens</li>
 <li>Refresh token rotation</li>
 <li>Revoked token reuse detection</li>
