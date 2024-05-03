@@ -19,6 +19,8 @@ Blazor ( .NET 6 ) and Vue 3 clients towards a Web API by .NET 8 with C# using JW
 
 Traditional webhosting is used for this Application
 
+<p>The Web API was made without the ASP.NET Core Identity using custom JWT middleware</p>
+
 <ul>
 
 <li>

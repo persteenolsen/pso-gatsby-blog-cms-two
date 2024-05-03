@@ -18,6 +18,7 @@ tags:
 
 .NET 6 Web API with C# using Entity Framework Core + Remote MS SQL for Prod + local SQLite DB for Dev consumed by a Blazor Client serving as a Membership System
 
+<p>The Web API was made without the ASP.NET Core Identity using custom JWT middleware</p>
 
 <p><a href="https://blazor.signup.mssql.persteenolsen.com" target="_blank" title="Blazor + Web API in .NET 6 Membership System">Try the demo...</a></p>
 
