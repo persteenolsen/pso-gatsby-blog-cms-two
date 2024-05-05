@@ -1,6 +1,6 @@
 ---
 title: .NET 8 Web API doing Authentication by JWT and Refresh Tokens
-date: 2024-04-24
+date: 2024-05-05
 published: true
 categories:
   - .NET
@@ -28,9 +28,6 @@ Traditional webhosting is used for this Application
 
 <p>The Web API was made without the ASP.NET Core Identity using custom JWT middleware</p>
 
-<p>JWT and Refresh Tokens for Authentication in a Web API created by VS Code using .NET 8 with C# and a Angular Client</p>
-
-<p>By using JWT + Refresh Tokens the security will be improved. The JWT can have a reduced time to live and therefor less likely to be stolen</p>
 
 <ul>
 <li>
@@ -42,3 +39,28 @@ Traditional webhosting is used for this Application
 <a href="https://github.com/persteenolsen/angular-jwt-refresh-auth-client" target="_blank">The Angular Client at GitHub</a>
 </li>
 </ul>
+
+
+<p>Functionality of the Web App</p>
+<ul>
+
+<li>JWT authentication with Refresh Tokens</li>
+<li>Refresh token rotation</li>
+<li>Revoked token reuse detection</li>
+
+
+</ul>
+
+<p>Tech used for building the Web App</p>
+<ul>
+<li>C#</li>
+<li>The .NET 8 Web API is hosted at a traditional Webhotel</li>
+<li>The Angular Client is hosted at a traditional Webhotel</li>
+<li>SQLite as the Database for both Dev + Prod</li>
+<li>CORS Policy implemented by .NET</li>
+<li>JWT Token for access secure routes</li>
+<li>Refresh Token by HTTP only Cookie to generate new JWT Tokens</li>
+
+</ul>
+
+<p>By using JWT + Refresh Tokens the security will be improved. The JWT can have a reduced time to live and therefor less likely to be stolen</p>
