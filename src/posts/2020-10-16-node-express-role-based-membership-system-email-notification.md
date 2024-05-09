@@ -15,7 +15,9 @@ The React client is hosted at a traditional Web Hotel
 
 <a href="https://users.persteenolsen.com" target="_blank">Try the demo...</a>
 
-A Membership System including User Registration and Forgot Password. Secured by HTTPS, CORS and Bcrypt. For Authentication a JWT is send with the Baerer schema in the Authorization Header. Made without any ORM framework like Sequelize
+A Membership System including User Registration and Forgot Password. Secured by HTTPS, CORS and Bcrypt. For Authentication JWT access Tokens are used securing the private routes of the Web API
+
+Made without any ORM framework like Sequelize
 
 <ul>
 <li><a href="https://github.com/persteenolsen/node-express-users-api" target="_blank">The Web API at GitHub</a></li>

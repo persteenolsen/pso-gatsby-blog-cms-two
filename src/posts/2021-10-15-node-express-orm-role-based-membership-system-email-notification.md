@@ -1,5 +1,5 @@
 ---
-title: Node Express Sequelize ORM Role based Membership system Email notification
+title: Node Express Sequelize ORM Role based Membership system with Email notification
 date: 2024-02-13
 published: true
 categories:
@@ -39,7 +39,7 @@ The React client at GH Pages uses DevOps. The React HashRouter solves most 404 /
 <li><a href="https://users.ts.sequelize.basic.persteenolsen.com" target="_blank" title="Show persons">Try React TypeScript Client - Web hotel ...</a></li>
 </ul>
 
-<p>A Membership System with Authentication, User registration with Email verification and Forgot Password functionality. Secured by HTTPS, CORS and Bcrypt. For Authentication JWT access Tokens are used securing the private routes of the Web API. For testing the authentication / access token will expire after 15 minutes and a new Login is needed.</p>
+<p>A Membership System with Authentication, User registration with Email verification and Forgot Password functionality. Secured by HTTPS, CORS and Bcrypt. For Authentication JWT access Tokens are used securing the private routes of the Web API. For testing the authentication / access token will expire after 15 minutes and a new Login is needed</p>
 
 <p>Volta was used for Node Version Management switching between Node versions</p>
 
