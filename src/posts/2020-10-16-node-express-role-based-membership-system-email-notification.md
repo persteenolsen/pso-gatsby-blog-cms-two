@@ -15,7 +15,7 @@ The React client is hosted at a traditional Web Hotel
 
 <a href="https://users.persteenolsen.com" target="_blank">Try the demo...</a>
 
-A Membership System including User Registration and Forgot Password. Secured by HTTPS, CORS and Bcrypt. For Authentication JWT access Tokens are used securing the private routes of the Web API
+A Membership System with Authentication, User registration with Email verification and Forgot Password functionality. Secured by HTTPS, CORS and Bcrypt. For Authentication JWT access Tokens are used securing the private routes of the Web API
 
 Made without any ORM framework like Sequelize
 
