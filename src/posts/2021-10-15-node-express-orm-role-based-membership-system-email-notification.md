@@ -1,5 +1,5 @@
 ---
-title: Node Express ORM Role based Membership system Email notification
+title: Node Express Orm Role based Membership system Email notification
 date: 2024-02-13
 published: true
 categories:
@@ -22,7 +22,7 @@ tags:
 ---
 
 
-Node Express Sequelize ORM React TypeScript MySQL Role based Membership system using Email notification and Forgot Password
+Node Express Role based Membership system with Email Verification and Forgot Password using Sequelize ORM towards a MySQL DB
 
 The Node Web API is hosted at Microsoft Azure App Service with the Free App Service Plan 
 
