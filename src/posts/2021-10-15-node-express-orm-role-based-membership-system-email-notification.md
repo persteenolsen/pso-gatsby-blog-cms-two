@@ -1,5 +1,5 @@
 ---
-title: Node Express Orm Role based Membership system Email notification
+title: Node Express Sequelize ORM Role based Membership system Email notification
 date: 2024-02-13
 published: true
 categories:
