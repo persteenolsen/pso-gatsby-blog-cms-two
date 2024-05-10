@@ -28,16 +28,17 @@ The client is hosted at a traditional Web Hotel
 <ul>
 
 
-<li><a href="https://users.sequelize.persteenolsen.com" target="_blank" title="Try the demo by React client">Try the demo...</a></li>
+<li><a href="https://users.sequelize.persteenolsen.com" target="_blank" title="Try the demo by a React client">Try the demo...</a></li>
 
-<p>A Membership System with Authentication, User registration with Email verification and Forgot Password functionality. Secured by HTTPS, CORS and Bcrypt. For Authentication JWT + Refresh Tokens
-</p>
+</ul>
 
-<p>Volta was used for Node Version Management switching between Node versions</p>
+A Membership System with Authentication, User registration with Email verification and Forgot Password functionality. Secured by HTTPS, CORS and Bcrypt. For Authentication JWT + Refresh Tokens
 
+Volta was used for Node Version Management switching between Node versions
+
+<ul>
 
 <li><a href="https://github.com/persteenolsen/node-express-sequelize-users-api" target="_blank">The Web API at GitHub</a></li>
-
 
 <li><a href="https://github.com/persteenolsen/react-sequelize-users-client" target="_blank">React Client at GitHub</a></li>
 
