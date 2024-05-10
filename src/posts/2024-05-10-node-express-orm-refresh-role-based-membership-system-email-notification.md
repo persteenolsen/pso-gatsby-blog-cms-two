@@ -35,7 +35,7 @@ The client is hosted at a traditional Web Hotel
 
 <p>Volta was used for Node Version Management switching between Node versions</p>
 
-<ul>
+
 <li><a href="https://github.com/persteenolsen/node-express-sequelize-users-api" target="_blank">The Web API at GitHub</a></li>
 
 
