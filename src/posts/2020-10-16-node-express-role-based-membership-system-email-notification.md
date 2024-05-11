@@ -1,5 +1,5 @@
 ---
-title: Node Express Membership system+ Email notification - JWT
+title: Node Express Membership system + Email notification - JWT
 date: 2023-05-30
 published: true
 categories: [ "Node.js", "React", "Azure", "MySQL" ]
