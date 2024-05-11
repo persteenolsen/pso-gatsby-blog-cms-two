@@ -22,7 +22,7 @@ tags:
 ---
 
 
-Node Express Role based Membership system with Email Verification and Forgot Password using Sequelize ORM towards a MySQL DB
+Node Express Role based Membership system with Email Verification and Forgot Password using Sequelize ORM towards a MySQL DB - Authentication by JWT
 
 
 <ul>

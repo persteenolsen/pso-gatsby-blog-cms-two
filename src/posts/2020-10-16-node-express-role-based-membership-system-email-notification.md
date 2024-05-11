@@ -7,7 +7,7 @@ tags: [ "node", "express", "react", "mysql", "azure" ]
 ---
 
 
-Node Express Role based Membership system with Email Verification and Forgot Password using pure SQL towards a MySQL DB
+Node Express Role based Membership system with Email Verification and Forgot Password using pure SQL towards a MySQL DB - Authentication by JWT
 
 
 <a href="https://users.persteenolsen.com" target="_blank">Try the demo...</a>
