@@ -1,6 +1,6 @@
 ---
 title: .NET 8 Web API with Basic Authentication 
-date: 2024-04-23
+date: 2024-08-18
 published: true
 categories:
   - .NET

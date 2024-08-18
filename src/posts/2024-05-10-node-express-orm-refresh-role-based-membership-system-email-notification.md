@@ -21,6 +21,8 @@ tags:
 Node Express Role based Membership system with Email Verification and Forgot Password using Sequelize ORM towards a MySQL DB - Authentication by JWT + Refresh Tokens
 
 
+<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 30 seconds!</p>
+
 <ul>
 
 
