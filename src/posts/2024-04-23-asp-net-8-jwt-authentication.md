@@ -1,6 +1,6 @@
 ---
 title: .NET 8 Web API with JWT Authentication
-date: 2024-04-23
+date: 2024-08-19
 published: true
 categories:
   - .NET
