@@ -1,6 +1,6 @@
 ---
 title: .NET Core 2.2 Web API with Basic Authentication - Azure and GH Pages 
-date: 2024-10-13
+date: 2024-10-21
 published: true
 categories:
   - .NET Core
