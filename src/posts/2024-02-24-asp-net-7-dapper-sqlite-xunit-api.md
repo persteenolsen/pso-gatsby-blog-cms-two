@@ -1,5 +1,5 @@
 ---
-title: .NET 7 Web API using Dapper SQLite
+title: .NET 7 Web API with Dapper SQLite and xUnit
 date: 2024-03-16
 published: true
 categories:
@@ -23,7 +23,7 @@ tags:
 
 Unit Testing:
 <ul>
-<li>XUnit - Used with one of the .NET Web API</li>
+<li>xUnit - Used with one of the .NET Web API</li>
 <li>Karma + Jasmine - Used with the Angular Client</li>
 </ul>
 
