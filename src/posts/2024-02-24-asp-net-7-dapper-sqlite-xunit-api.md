@@ -32,7 +32,7 @@ Unit Testing:
 <ul>
 
 <li>
-<a href="https://github.com/persteenolsen/dotnet-7-dapper-sqlite-api-xunit" target="_blank">Web API + XUnit at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-7-dapper-sqlite-api-xunit" target="_blank">Web API + xUnit at GitHub</a>
 </li>
 
 <li>

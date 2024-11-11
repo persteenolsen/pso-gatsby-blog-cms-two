@@ -34,7 +34,7 @@ Coverage Reports are generated for visualize the result of Unit Testing ( .NET b
 <ul>
 
 <li>
-<a href="https://github.com/persteenolsen/dotnet-8-dapper-sqlite-api-xunit" target="_blank">Web API + XUnit at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-8-dapper-sqlite-api-xunit" target="_blank">Web API + xUnit at GitHub</a>
 </li>
 
 <li>
