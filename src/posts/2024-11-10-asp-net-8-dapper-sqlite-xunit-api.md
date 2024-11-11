@@ -1,6 +1,6 @@
 ---
 title: .NET 8 Web API with Dapper SQLite and xUnit
-date: 2024-11-10
+date: 2024-11-11
 published: true
 categories:
   - .NET
@@ -26,6 +26,8 @@ Unit Testing:
 <li>xUnit - Used with one of the .NET Web API</li>
 <li>Karma + Jasmine - Used with the Angular Client</li>
 </ul>
+
+Coverage Reports are generated for visualize the result of Unit Testing ( .NET based xUnit )
 
 <p><a href="https://angular.dapper.sqlite.client.persteenolsen.com" target="_blank" title="Angular 14 + Web API in .NET 8 with Dapper and SQLite">Try the demo...</a></p>
 
