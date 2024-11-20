@@ -1,9 +1,10 @@
 ---
-title: Machine Learning to predict global temperature
-date: 2023-12-07T06:25:48.506Z
+title: .NET 8 Machine Learning to predict global temperature
+date: 2024-11-20
 published: true
 categories:
   - AI
+  - .NET
   - ML.NET
   - C#
 tags:
@@ -14,17 +15,17 @@ tags:
   - c#
 ---
 
+.NET 8 Console App to predict the global temperature using ML.NET with C#
 
-Artificial Intelligence, Machine Learning and Deep Learning
-
-Predict the global temperature using ML.NET with C#
+Explore Artificial Intelligence, Machine Learning and Deep Learning
 
 This is a console application using Microsoft’s Machine Learning framework ML.NET to predict the global temperatures
 
 Singular Spectrum Analysis (SSA) model for univariate time-series forecasting using
 the method "ForecastBySsa" of the class "TimeSeriesCatalog" for training the Model
 
-<a href="https://github.com/persteenolsen/GlobalTemperatureML" target="_blank">The code at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-8-global-temperature-ml" target="_blank">The code at GitHub</a>
+
 
 
 

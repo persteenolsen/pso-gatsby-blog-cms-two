@@ -1,9 +1,10 @@
 ---
-title: Machine Learning to taste wine
-date: 2023-12-07T06:25:48.506Z
+title: .NET Core 2.2 Machine Learning to taste wine
+date: 2023-12-07
 published: true
 categories:
   - AI
+  - .NET Core
   - ML.NET
   - C#
 tags:
@@ -14,9 +15,9 @@ tags:
   - c#
 ---
 
-Artificial Intelligence, Machine Learning and Deep Learning
+.NET Core 2.2 Console App for tasting wine using ML.NET with C#
 
-Tasting wine using ML.NET with C#
+Explore Artificial Intelligence, Machine Learning and Deep Learning
 
 This is a console application using Microsoft’s Machine Learning framework ML.NET for tasting wine
 
