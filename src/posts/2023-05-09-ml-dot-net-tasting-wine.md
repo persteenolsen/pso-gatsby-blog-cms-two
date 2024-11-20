@@ -10,14 +10,13 @@ categories:
 tags:
   - artificial-intelligence
   - machine-learning
-  - deep-learning
   - ml-dot-net
   - c#
 ---
 
-ASP.NET Core 2.2 Console App for tasting wine using ML.NET with C#
+.NET Core 2.2 Console App for tasting wine using ML.NET with C#
 
-Explore Artificial Intelligence, Machine Learning and Deep Learning
+Explore Artificial Intelligence and Machine Learning
 
 This is a console application using Microsoft’s Machine Learning framework ML.NET for tasting wine
 
