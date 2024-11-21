@@ -1,10 +1,10 @@
 ---
-title: .NET Core 2.2 Machine Learning to taste wine
-date: 2023-12-07
+title: .NET 8 Machine Learning to taste wine
+date: 2024-11-21
 published: true
 categories:
   - AI
-  - .NET Core
+  - .NET
   - ML.NET
   - C#
 tags:
@@ -14,7 +14,7 @@ tags:
   - c#
 ---
 
-.NET Core 2.2 Console App for tasting wine using ML.NET with C#
+.NET 8 Console App for tasting wine using ML.NET with C#
 
 Explore Artificial Intelligence and Machine Learning
 
@@ -22,7 +22,7 @@ This is a console application using Microsoft’s Machine Learning framework ML.
 
 FastTree regression used to train the Model
 
-<a href="https://github.com/persteenolsen/WineML" target="_blank">The code at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-8-wine-ml" target="_blank">The code at GitHub</a>
 
 
 
