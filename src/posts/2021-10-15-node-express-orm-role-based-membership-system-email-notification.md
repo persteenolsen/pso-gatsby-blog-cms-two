@@ -1,9 +1,10 @@
 ---
-title: Node Express Membership system + Email notification - JWT
+title: Node Express REST API Membership system + Email notification - JWT
 date: 2024-02-13
 published: true
 categories:
   - Node.js
+  - REST API
   - React
   - TypeScript
   - Azure
@@ -19,10 +20,11 @@ tags:
   - orm
   - mysql
   - azure
+  - rest-api
 ---
 
 
-Node Express Role based Membership system with Email Verification and Forgot Password using Sequelize ORM towards a MySQL DB - Authentication by JWT
+Node Express REST API Role based Membership system with Email Verification and Forgot Password using Sequelize ORM towards a MySQL DB - Authentication by JWT
 
 
 <ul>

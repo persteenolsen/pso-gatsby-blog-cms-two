@@ -4,6 +4,7 @@ date: 2024-11-21
 published: true
 categories:
   - .NET
+  - REST API
   - Angular
   - Tests
   - C#
@@ -22,10 +23,11 @@ tags:
   - c#
   - ms-sql
   - devops
+  - rest-api
 ---
 
 
-.NET 8 RESTful Web API at Azure with C# using Entity Framework Core + MS SQL consuming an Angular 14 Client at GH Pages - serving as a Membership System
+.NET 8 REST API at Azure with C# using Entity Framework Core + MS SQL consuming an Angular 14 Client at GH Pages - serving as a Membership System
 
 Unit Testing:
 <ul>

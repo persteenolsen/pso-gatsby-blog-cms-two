@@ -1,9 +1,10 @@
 ---
-title: .NET 8 Web API with Dapper SQLite and xUnit
+title: .NET 8 REST API with Dapper SQLite and xUnit
 date: 2024-11-11
 published: true
 categories:
   - .NET
+  - REST API
   - Angular
   - Tests
   - C#
@@ -16,10 +17,11 @@ tags:
   - Jasmine
   - Karma
   - c#
+  - rest-api
 ---
 
 
-.NET 8 Web API with C# and Dapper ORM + SQLite DB consuming an Angular 14 Client + Unit Testing
+.NET 8 REST API with C# and Dapper ORM + SQLite DB consuming an Angular 14 Client + Unit Testing
 
 Unit Testing:
 <ul>

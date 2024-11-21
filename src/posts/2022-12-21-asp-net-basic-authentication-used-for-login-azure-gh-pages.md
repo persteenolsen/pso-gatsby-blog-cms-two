@@ -1,9 +1,10 @@
 ---
-title: .NET Core 2.2 Web API with Basic Authentication - Azure and GH Pages 
+title: .NET Core 2.2 REST API with Basic Authentication - Azure and GH Pages 
 date: 2024-10-21
 published: true
 categories:
   - .NET Core
+  - REST API
   - Vue 3
   - Azure
   - GitHub Pages
@@ -19,10 +20,11 @@ tags:
   - ci-cd
   - azure-repos
   - c#
+  - rest-api
 ---
 
 
-ASP.NET Core 2.2 Web API with C# consuming from a Vue 3 client using Basic Authentication for Login
+ASP.NET Core 2.2 REST API with C# consuming from a Vue 3 client using Basic Authentication for Login
 
 The API is hosted at Microsoft Azure App Service and the Vue 3 Client at GitHub Pages 
 

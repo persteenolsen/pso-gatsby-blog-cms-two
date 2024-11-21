@@ -1,9 +1,10 @@
 ---
-title: .NET Core 2.2 Web API with JWT Authentication - Azure and GH Pages 
+title: .NET Core 2.2 REST API with JWT Authentication - Azure and GH Pages 
 date: 2024-10-21
 published: true
 categories:
   - .NET Core
+  - REST API
   - Vue 3
   - Azure
   - GitHub Pages
@@ -19,10 +20,11 @@ tags:
   - azure-repos
   - ci-cd
   - c#
+  - rest-api
 ---
 
 
-ASP.NET Core 2.2 Web API with C# consuming from a Vue 3 client using JWT Authentication for Login
+ASP.NET Core 2.2 REST API with C# consuming from a Vue 3 client using JWT Authentication for Login
 
 The Vue 3 Client is hosted at GitHub Pages 
 

@@ -1,19 +1,21 @@
 ---
-title: .NET 8 Web API doing Authentication by JWT and Refresh Tokens
+title: .NET 8 REST API doing Authentication by JWT and Refresh Tokens
 date: 2024-05-05
 published: true
 categories:
   - .NET
+  - REST API
   - Angular
   - C#
 tags:
   - dot-net
   - angular
-  - c#  
+  - c#
+  - rest-api  
 ---
 
 
-Angular client towards a Web API by .NET 8 with C# using JWT and Refresh Tokens for Authentication
+Angular client towards a REST API by .NET 8 with C# using JWT and Refresh Tokens for Authentication
 
 Traditional webhosting is used for this Application
 

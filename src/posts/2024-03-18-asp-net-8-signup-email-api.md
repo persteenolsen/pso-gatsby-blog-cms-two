@@ -1,9 +1,10 @@
 ---
-title: .NET 8 Web API Membership system + Email verification  
+title: .NET 8 REST API Membership system + Email verification  
 date: 2024-10-13
 published: true
 categories:
   - .NET
+  - REST API
   - Angular
   - Tests
   - C#
@@ -16,10 +17,11 @@ tags:
   - Karma
   - swagger
   - c#
+  - rest-api
 ---
 
 
-.NET 8 Web API with C# using Entity Framework Core + SQLite consuming an Angular 14 Client - serving as a Membership System
+.NET 8 REST API with C# using Entity Framework Core + SQLite consuming an Angular 14 Client - serving as a Membership System
 
 Unit Testing:
 <ul>

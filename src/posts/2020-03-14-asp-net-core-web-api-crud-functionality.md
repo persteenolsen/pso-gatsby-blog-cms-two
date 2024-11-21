@@ -1,9 +1,10 @@
 ---
-title: .NET Core 2.0 MVC and Web API with Crud functionality
+title: .NET Core 2.0 MVC and REST API with Crud functionality
 date: 2023-01-15
 published: true
 categories:
   - .NET Core
+  - REST API
   - React
   - MS SQL
   - C#
@@ -14,9 +15,10 @@ tags:
   - angular
   - ms-sql
   - c#
+  - rest-api
 ---
 
-ASP.NET Core 2.0 Web API with C# showing a dataset of Persons by MVC / Web API
+ASP.NET Core 2.0 REST API with C# showing a dataset of Persons by MVC / Web API
 
 Traditional webhosting is used for the Application 
 <a href="https://persons.api.core.persteenolsen.com" target="_blank" title="Show persons as a webservice">Try the demo...</a>

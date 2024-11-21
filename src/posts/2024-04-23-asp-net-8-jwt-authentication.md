@@ -1,9 +1,10 @@
 ---
-title: .NET 8 Web API with JWT Authentication
+title: .NET 8 REST API with JWT Authentication
 date: 2024-08-19
 published: true
 categories:
   - .NET
+  - REST API
   - Vue 3
   - C#
   - .NET Blazor
@@ -12,10 +13,11 @@ tags:
   - vue-3
   - c#
   - blazor
+  - rest-api
 ---
 
 
-Blazor ( .NET 6 ) and Vue 3 clients towards a Web API by .NET 8 with C# using JWT Authentication
+Blazor ( .NET 6 ) and Vue 3 clients towards a REST API by .NET 8 with C# using JWT Authentication
 
 Traditional webhosting is used for this Application
 
