@@ -1,5 +1,5 @@
 ---
-title: .NET 8 Web API Membership system + Email verification - Azure and GH Pages 
+title: .NET 8 REST Web API Membership system + Email verification - Azure and GH Pages 
 date: 2024-11-21
 published: true
 categories:
@@ -25,7 +25,7 @@ tags:
 ---
 
 
-.NET 8 Web API at Azure with C# using Entity Framework Core + MS SQL consuming an Angular 14 Client at GH Pages - serving as a Membership System
+.NET 8 REST Web API at Azure with C# using Entity Framework Core + MS SQL consuming an Angular 14 Client at GH Pages - serving as a Membership System
 
 Unit Testing:
 <ul>
