@@ -1,5 +1,5 @@
 ---
-title: .NET Core 2. REST API Role based Membership system
+title: .NET Core 2.2 REST API Role based Membership system
 date: 2023-10-07
 published: true
 categories:
