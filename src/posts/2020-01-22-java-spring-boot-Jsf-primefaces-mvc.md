@@ -1,11 +1,12 @@
 ---
-title: Java Spring Boot Jsf PrimeFaces Mvc
+title: Java Spring Boot Jsf PrimeFaces MVC
 date: 2020-02-11
 published: true
 categories:
   - Java Spring Boot
   - Azure
   - MySQL
+  - MVC
 tags:
   - java
   - primefaces
@@ -16,6 +17,7 @@ tags:
   - mvc
   - mysql
   - azure
+  - mvc
 ---
 
 Java Spring Boot JSF PrimeFaces MVC
