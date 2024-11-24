@@ -1,6 +1,6 @@
 ---
 title: Java Spring Boot Jsf PrimeFaces MVC
-date: 2020-02-11
+date: 2021-11-14
 published: true
 categories:
   - Java Spring Boot
