@@ -184,8 +184,10 @@ input[type=text]:focus {
 
 .post-categories-nav-links {
   display: flex;
-  
+
+  /* 25-11-2024 - Added the below line for make sure the Category wrap to a new line and not force scrolling*/
   flex-wrap: wrap;
+
   list-style: none;
   padding: 1px;
   
