@@ -1,5 +1,5 @@
 ---
-title: Next.js - DevOps by GitHub Actions and Pages
+title: Next.js 12 - DevOps by GitHub Actions and Pages
 date: 2024-08-17T13:12:59.133Z
 published: true
 categories:
@@ -18,6 +18,13 @@ tags:
   - ssg
 ---
 Next.js with TypeScript - DevOps by GitHub Actions and hosted at GitHub Pages
+
+
+Version used for this Web App
+
+- Node 14.21.3
+- Next 12.1.6
+- React 18.1.0
 
 <a href="https://persteenolsen.github.io/gh-actions-pages-next-js-one/" target="_blank">Try the demo...</a>
 

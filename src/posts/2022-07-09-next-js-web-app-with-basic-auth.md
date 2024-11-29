@@ -1,5 +1,5 @@
 ---
-title: Next.js Web App with Basic Auth
+title: Next.js 11 Web App with Basic Auth
 date: 2024-08-17T12:27:09.964Z
 published: true
 categories:
@@ -14,6 +14,12 @@ tags:
   - netlify-cloud
 ---
 A Next.js Jamstack Web App with Basic Authentication hosted a Netlify
+
+Version used for this Web App
+
+- Node 14.21.3
+- Next 11.1.0
+- React 17.0.2
 
 <a href="https://psonextjsone.netlify.app/" target="_blank">Try the demo...</a>
 
