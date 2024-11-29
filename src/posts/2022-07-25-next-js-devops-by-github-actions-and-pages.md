@@ -25,7 +25,7 @@ Version used for this Web App
 - Node 14.21.3
 - Next 12.1.6
 - React 18.1.0
-<br /><br />
+<br />
 
 <a href="https://persteenolsen.github.io/gh-actions-pages-next-js-one/" target="_blank">Try the demo...</a>
 

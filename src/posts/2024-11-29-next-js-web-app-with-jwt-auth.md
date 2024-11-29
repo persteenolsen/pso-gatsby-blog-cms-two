@@ -20,7 +20,7 @@ Version used for this Web App
 - Node 22.11.0
 - Next 15.0.3
 - React 18.3.1
-<br /><br />
+<br />
 
 <a href="https://next-js-jwt-auth.vercel.app/" target="_blank">Try the demo...</a>
 
@@ -30,4 +30,4 @@ Version used for this Web App
 
 The Next.js framework being the "Static Site Generator" was used for creating this full stack web application serving as a login system by having a client using the API Routes of Next.js getting the data / User credentials from a JSON file. The web application is secured by HTTPS and JWT Authentication.
 
-This Next.js 15 Jamstack Web Application is hosted at Vercel Cloud and uses continuous build and deployment
+This Next.js Jamstack Web Application is hosted at Vercel Cloud and uses continuous build and deployment

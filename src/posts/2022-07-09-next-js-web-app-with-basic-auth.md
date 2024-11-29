@@ -20,7 +20,7 @@ Version used for this Web App
 - Node 14.21.3
 - Next 11.1.0
 - React 17.0.2
-<br /><br />
+<br />
 
 <a href="https://psonextjsone.netlify.app/" target="_blank">Try the demo...</a>
 
