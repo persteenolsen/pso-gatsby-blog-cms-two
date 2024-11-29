@@ -20,6 +20,7 @@ Version used for this Web App
 - Node 22.11.0
 - Next 15.0.3
 - React 18.3.1
+<br /><br />
 
 <a href="https://next-js-jwt-auth.vercel.app/" target="_blank">Try the demo...</a>
 
