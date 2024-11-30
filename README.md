@@ -1,6 +1,10 @@
 A MD Blog in Gatsby using md files and Decap / Netlify CMS
 
-- Node history: 14 => 18
+Last updated: 30-11-2024
+
+Node Version: 20.18.1
+
+- Node history: 14 => 18 => 20
 - The gatsby hello world starter was used for creating this blog with Markdown Posts
 - Tags are added with optimized styles
 - Categories are added with optimized styles
