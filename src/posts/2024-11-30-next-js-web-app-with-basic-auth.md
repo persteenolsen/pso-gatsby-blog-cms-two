@@ -5,6 +5,7 @@ published: true
 categories:
   - Next.js
   - DevOps
+  - Netlify
 tags:
   - next-js
   - react
