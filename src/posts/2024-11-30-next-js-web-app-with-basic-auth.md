@@ -17,7 +17,7 @@ A Next.js Jamstack Web App with Basic Authentication hosted a Netlify
 
 Version used for this Web App
 
-- Node 22.11.0 ( Note: Running Node 20 at Netlify until they have 22 ready)
+- Node 22.11.0 ( Note: Running Node 20 at Netlify for now )
 - Next 15.0.3
 - React 18.3.1
 <br /><br />

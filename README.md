@@ -1,4 +1,4 @@
-A MD Blog in Gatsby using md files and Decap / Netlify CMS
+A MD Blog in Gatsby 3 using md files
 
 Last updated: 30-11-2024
 
