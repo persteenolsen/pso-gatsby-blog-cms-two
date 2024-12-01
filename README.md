@@ -1,6 +1,6 @@
 A MD Blog in Gatsby 3 using md files
 
-Last updated: 30-11-2024
+Last updated: 01-12-2024
 
 Node Version: 20.18.1
 
