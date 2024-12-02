@@ -4,7 +4,6 @@ date: 2024-08-17T13:12:59.133Z
 published: true
 categories:
   - Nuxt
-  - Ionic
   - DevOps
   - TypeScript
   - GitHub Pages
