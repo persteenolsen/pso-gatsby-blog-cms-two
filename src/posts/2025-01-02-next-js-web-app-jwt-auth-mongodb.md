@@ -25,7 +25,7 @@ Tech used for the Web Application
 - Next Version 13
 - React 18
 - MongoDB was the choice of NoSQL Document Database
-- Mongoose ODM ( Object Data Modeling ) which are used for NoSQL like ORM ( Object Relational mapping ) are used for Relational databases like MySQL
+- Mongoose ODM ( Object Data Modeling ) which is used for NoSQL like ORM ( Object Relational mapping ) is used for Relational databases like MySQL
 - The MongoDB is hosted at Mongo Atlas Cloud Platform
 
 <br />
