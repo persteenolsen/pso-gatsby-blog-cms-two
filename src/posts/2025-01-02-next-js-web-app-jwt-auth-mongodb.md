@@ -16,15 +16,18 @@ tags:
   - vercel
   - mongodb
 ---
-A Next.js Jamstack Web App with JWT Authentication using MongoDB + Mongoose ODM
+A Next.js Web App with JWT Authentication using MongoDB and Mongoose ODM
 
-The Web App is hosted at Vercel
+Tech used for the Web Application
 
-Version used for this Web App
+- The Next Web App is hosted at Vercel Cloud
+- Node 22 at Vercel Cloud
+- Next Version 13
+- React 13
+- MongoDB was the choice of NoSQL Document Database
+- Mongoose ODM ( Object Data Modeling ) which are the NoSQL way of using ORM ( Object Relational mapping ) for Relational databases like MySQL
+- The MongoDB is hosted at Mongo Atlas Cloud Platform
 
-- Node 22
-- Next 13
-- React 18
 <br /><br />
 
 <a href="https://next-js-jwt-auth-mongodb.vercel.app/" target="_blank">Try the demo...</a>
@@ -33,6 +36,6 @@ Version used for this Web App
 
 <a href="https://github.com/persteenolsen/next-js-jwt-auth-mongodb" target="_blank">The code at GitHub</a>
 
-The Next.js framework being the "Static Site Generator" was used for creating this full stack web application serving as a login and registration system by having a client using the API Routes of Next.js getting the data / User credentials from a MongoDB with Mongoose ODM  ( Object Data Modeling ). The MongoDB is hosted at the Cloud Service Mongo Atlas. The Web App is secured by HTTPS and JWT Authentication.
+The Next.js framework being the "Static Site Generator" was used for creating this full stack web application serving as a login and registration system by having a client using the API Routes of Next.js getting the data / User credentials from a MongoDB. The Web App is secured by HTTPS and JWT Authentication.
 
 This Next.js Jamstack Web Application is hosted at Vercel Cloud and uses continuous build and deployment
