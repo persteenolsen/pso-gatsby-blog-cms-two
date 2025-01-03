@@ -7,6 +7,7 @@ categories:
   - DevOps
   - Vercel
   - MongoDB
+  - TypeScript
 tags:
   - next-js
   - react
@@ -15,6 +16,7 @@ tags:
   - ssg
   - vercel
   - mongodb
+  - typescript
 ---
 A Next.js Web App with JWT Authentication using MongoDB and Mongoose ODM
 
