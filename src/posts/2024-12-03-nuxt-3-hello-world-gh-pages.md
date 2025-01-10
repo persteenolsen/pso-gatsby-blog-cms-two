@@ -1,6 +1,6 @@
 ---
 title: Nuxt 3 Hello World Web App at GitHub Pages
-date: 2024-12-03T13:12:59.133Z
+date: 2025-01-10T13:12:59.133Z
 published: true
 categories:
   - Nuxt
