@@ -1,6 +1,6 @@
 ---
 title: Node Express REST API Membership system + Email notification - JWT
-date: 2024-12-02
+date: 2025-01-10
 published: true
 categories:
   - Node.js
