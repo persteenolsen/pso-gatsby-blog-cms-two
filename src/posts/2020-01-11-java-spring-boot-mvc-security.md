@@ -1,6 +1,6 @@
 ---
 title: Java Spring Boot MVC with Spring Security
-date: 2025-01-21
+date: 2025-01-22
 published: true
 categories: [ "Java Spring Boot", "Azure", "MS SQL", "MVC" ]
 tags: [ "java", "jpa", "maven", "hibernate", "mvc", "ms-sql", "security", "azure", "mvc" ]
