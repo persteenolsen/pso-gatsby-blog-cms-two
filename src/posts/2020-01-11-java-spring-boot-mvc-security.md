@@ -2,8 +2,8 @@
 title: Java Spring Boot MVC with Spring Security
 date: 2025-01-29
 published: true
-categories: [ "Java Spring Boot", "Azure", "MS SQL", "MVC" ]
-tags: [ "java", "jpa", "maven", "hibernate", "mvc", "ms-sql", "security", "azure", "mvc" ]
+categories: [ "Java Spring Boot", "Azure", "MYSQL", "MVC" ]
+tags: [ "java", "jpa", "maven", "hibernate", "mvc", "mysql", "security", "azure", "mvc" ]
 ---
 
 Java Spring Boot 3 MVC and Spring Security
@@ -22,7 +22,7 @@ Java Spring Boot 3 MVC and Spring Security
 <a href="https://github.com/persteenolsen/springboot-mvc-security" target="_blank">The Web App with Spring Boot 2 at GitHub</a>
 
 
-Migration from Java 11 to Java 17 ! Showing and administrate a dataset of persons by a Java MVC Web Application (Secured by login) using MVC, Security, JSP, JPA, Hibernate, Maven and MS SQL
+Migration from Java 11 to Java 17 ! Showing and administrate a dataset of persons by a Java MVC Web Application (Secured by login) using MVC, Security, JSP, JPA, Hibernate, Maven and MYSQL
 
 
 
