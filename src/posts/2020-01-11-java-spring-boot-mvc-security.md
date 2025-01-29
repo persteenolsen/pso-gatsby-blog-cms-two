@@ -16,7 +16,7 @@ Java Spring Boot 3 MVC and Spring Security
 
 <a href="https://github.com/persteenolsen/spring-boot-3-mvc-security" target="_blank">The Source code at GitHub</a>
 
-<br /><br />
+<br />
 
 The Below code is an old version with semilar functionallity by Spring Boot 2 using a MS SQL Database
 
