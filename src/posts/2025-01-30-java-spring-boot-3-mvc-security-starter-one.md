@@ -2,8 +2,8 @@
 title: Java Spring Boot MVC with Spring Security - Basic Starter
 date: 2025-01-29
 published: true
-categories: [ "Java Spring Boot", "Azure", "MySQL", "MVC" ]
-tags: [ "java", "jpa", "maven", "hibernate", "mvc", "mysql", "security", "azure", "mvc" ]
+categories: [ "Java Spring Boot", "MySQL", "MVC" ]
+tags: [ "java", "jpa", "maven", "hibernate", "mvc", "mysql", "security", "mvc" ]
 ---
 
 Java Spring Boot 3 MVC and Spring Security - A Basic Starter
