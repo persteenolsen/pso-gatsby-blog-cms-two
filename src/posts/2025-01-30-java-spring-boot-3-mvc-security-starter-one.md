@@ -8,10 +8,7 @@ tags: [ "java", "jpa", "maven", "hibernate", "mvc", "mysql", "security", "azure"
 
 Java Spring Boot 3 MVC and Spring Security - A Basic Starter
   
-<br /><br />
-
 <a href="https://github.com/persteenolsen/spring-boot-3-mvc-security-starter-one" target="_blank">The Source code at GitHub</a>
-
 
 Developed with Java 17 ! Showing and administrate a dataset of persons by a Java MVC Web Application (Secured by login) using MVC, Spring Security, JSP, JPA, Hibernate, Maven and MySQL
 
