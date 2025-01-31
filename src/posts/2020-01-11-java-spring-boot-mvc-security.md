@@ -8,7 +8,7 @@ tags: [ "java", "jpa", "maven", "hibernate", "mvc", "mysql", "security", "azure"
 
 Java Spring Boot 3 MVC and Spring Security
 
-<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 2 minutes. A 403 Status code may happen too!</p>
+<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 403 Status code may happen too!</p>
 
 <a href="https://pso-mvc-secure.azurewebsites.net" target="_blank" title="Java Spring Boot 3 Security">Try the demo...</a>
   

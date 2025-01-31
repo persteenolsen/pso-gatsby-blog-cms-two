@@ -29,6 +29,8 @@ tags:
 
 .NET 8 REST API at Azure with C# using Entity Framework Core + MS SQL consuming an Angular 14 Client at GH Pages - serving as a Membership System
 
+<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 30 seconds!</p>
+
 Unit Testing:
 <ul>
 <li>Karma + Jasmine - Used with the Angular Client</li>

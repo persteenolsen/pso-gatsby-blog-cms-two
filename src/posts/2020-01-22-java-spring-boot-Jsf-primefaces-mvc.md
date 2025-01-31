@@ -22,7 +22,7 @@ tags:
 
 Java Spring Boot JSF PrimeFaces MVC
 
-<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 2 minutes. A 403 Status code may happen too!</p>
+<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 403 Status code may happen too!</p>
 
 <a href="https://pso-primefaces.azurewebsites.net" target="_blank" title="Java PrimeFaces">Try the demo...</a>
 
