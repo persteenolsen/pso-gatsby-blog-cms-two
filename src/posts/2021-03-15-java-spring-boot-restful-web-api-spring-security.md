@@ -1,6 +1,6 @@
 ---
 title: Java Spring Boot REST API + MVC using Spring Security
-date: 2025-02-06
+date: 2025-02-07
 published: true
 categories: [ "Java Spring Boot", "Azure", "MySQL" ]
 tags: [ "java", "jpa", "maven", "hibernate", "react", "security", "mysql", "azure" ]
