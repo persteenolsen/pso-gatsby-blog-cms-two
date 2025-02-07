@@ -22,6 +22,6 @@ The below code is an old version with semilar functionality by Spring Boot 2
 
 <a href="https://github.com/persteenolsen/springboot-rest-jpa-security" target="_blank">The source code at GitHub</a>
 
-Migration from Java 8 to Java 11 ! Showing and administrate a dataset of persons by a Java REST API + MVC Web Application (Secured by login) using REST API, MVC, Security, JSP, JPA, Hibernate, Maven, MySQL and jQuery for the frontend.
+Migration from Java 11 to Java 17 ! Showing and administrate a dataset of persons by a Java REST API + MVC Web Application (Secured by login) using REST API, MVC, Security, JSP, JPA, Hibernate, Maven, MySQL and jQuery for the frontend.
 
 
