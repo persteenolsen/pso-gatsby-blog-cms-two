@@ -6,7 +6,7 @@ categories: [ "Java Spring Boot", "Azure", "MySQL" ]
 tags: [ "java", "jpa", "maven", "hibernate", "react", "security", "mysql", "azure" ]
 ---
 
-Java Spring Boot REST API + MVC using Spring Security
+Java Spring Boot 2 REST API + MVC using Spring Security
 
 <p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 403 Status code may happen too!</p>
 

@@ -20,7 +20,7 @@ tags:
   - mvc
 ---
 
-Java Spring Boot JSF PrimeFaces MVC
+Java Spring Boot 2 JSF PrimeFaces MVC
 
 <a href="https://github.com/persteenolsen/springboot-jsf-primefaces-jpa" target="_blank">The source code at GitHub</a>
 
