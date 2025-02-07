@@ -1,6 +1,6 @@
 ---
 title: Java Spring Boot JAX-RS using REST API + MVC
-date: 2025-02-07
+date: 2025-02-06
 published: true
 categories: [ "Java Spring Boot", "Azure", "MySQL" ]
 tags: [ "java", "jpa", "maven", "hibernate", "react", "mysql", "azure" ]
