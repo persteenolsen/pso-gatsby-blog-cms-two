@@ -22,7 +22,7 @@ The below code is an old version with semilar functionality by Spring Boot 2
 
 <a href="https://github.com/persteenolsen/springboot-mvc-rest-jersey" target="_blank">The source code at GitHub</a>
 
-Migration from Java 11 to Java 17 ! Showing and administrate a dataset of persons by a Java Jersey REST API + MVC Web Application using both Jersey REST API, MVC, JSP, JAX-RS, JPA, Hibernate, Maven and MySQL. React, Fetch API (Not working in IE), AngularJS and jQuery for the frontend client
+Migration from Java 11 to Java 17 ! Showing and administrate a dataset of persons by a Java Jersey REST API and MVC Web Application using also JSP, JAX-RS, JPA, Hibernate, Maven and MySQL. React, Fetch API (Not working in IE), AngularJS and jQuery for the frontend client
 
 
 
