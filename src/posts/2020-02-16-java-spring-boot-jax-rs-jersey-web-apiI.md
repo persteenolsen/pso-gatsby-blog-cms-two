@@ -10,10 +10,6 @@ Java Spring Boot 3 JAX-RS Jersey REST API + MVC Application
 
 <p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 403 Status code may happen too!</p>
 
-<a href="https://pso-jersey-rest.azurewebsites.net" target="_blank" title="Java">Try the demo...</a>
-
-<br /><br />
-
 <a href="https://github.com/persteenolsen/spring-boot-3-mvc-rest-jersey" target="_blank">The source code at GitHub</a>
 
 <br />
