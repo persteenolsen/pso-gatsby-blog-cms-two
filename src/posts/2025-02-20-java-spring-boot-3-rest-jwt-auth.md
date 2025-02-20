@@ -12,7 +12,7 @@ Java Spring Boot 3 REST API doing JWT Auth with a Vue 3 Client
 
 <a href="https://vue.java.jwt.auth.client.persteenolsen.com" target="_blank" title="Java Spring Boot 3 REST JWT Auth">Try the demo...</a>
   
-<br />
+<br /><br />
 
 <a href="https://github.com/persteenolsen/spring-boot-3-jwt-auth-api" target="_blank">The Web API at GitHub</a>
  
