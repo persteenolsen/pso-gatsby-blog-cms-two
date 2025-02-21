@@ -1,6 +1,6 @@
 ---
 title: Java Spring Boot REST doing JWT Auth
-date: 2025-02-20
+date: 2025-02-21
 published: true
 categories: [ "Java Spring Boot", "Vue 3", "MySQL", "REST API", "Azure" ]
 tags: [ "java", "jpa", "maven", "hibernate", "vue-3" , "mysql", "security", "rest-api", "azure" ]
