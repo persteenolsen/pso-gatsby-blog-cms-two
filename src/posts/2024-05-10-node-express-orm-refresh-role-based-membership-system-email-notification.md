@@ -24,13 +24,6 @@ Node Express REST API Role based Membership system with Email Verification and 
 
 <p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 30 seconds!</p>
 
-<ul>
-
-
-<li><a href="https://users.sequelize.persteenolsen.com" target="_blank" title="Try the demo by a React client">Try the demo...</a></li>
-
-</ul>
-
 Volta was used for Node Version Management switching between Node versions
 
 <ul>
