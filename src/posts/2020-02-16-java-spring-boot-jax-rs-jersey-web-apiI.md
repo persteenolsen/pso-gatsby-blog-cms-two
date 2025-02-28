@@ -2,13 +2,11 @@
 title: Java Spring Boot JAX-RS using REST API + MVC
 date: 2025-02-06
 published: true
-categories: [ "Java Spring Boot", "Azure", "MySQL" ]
+categories: [ "Java Spring Boot" ]
 tags: [ "java", "jpa", "maven", "hibernate", "react", "mysql", "azure" ]
 ---
 
 Java Spring Boot 3 JAX-RS Jersey REST API + MVC Application
-
-<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 403 Status code may happen too!</p>
 
 <a href="https://github.com/persteenolsen/spring-boot-3-mvc-rest-jersey" target="_blank">The source code at GitHub</a>
 
