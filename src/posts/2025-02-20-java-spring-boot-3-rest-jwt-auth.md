@@ -18,7 +18,7 @@ Java Spring Boot 3 REST API doing JWT Auth with a Vue 3 Client
  
 <br /><br />
 
-<a href="https://github.com/persteenolsen//vue-java-jwt-auth-client" target="_blank">The Vue Client at GitHub</a>
+<a href="https://github.com/persteenolsen/vue-java-jwt-auth-client" target="_blank">The Vue Client at GitHub</a>
 
 Developed with Java 17 ! Showing the Users after a successful Logins by a Java Spring Boot 3 REST API using also JWT, JPA, Hibernate, Maven and MySQL with GET all Users functionality. Ready to be deployed to Azure App Service with Java 17 and Tomcat 10.1
 
