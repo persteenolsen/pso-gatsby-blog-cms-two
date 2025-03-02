@@ -1,6 +1,6 @@
 ---
 title: Java Spring Boot REST doing Basic Auth
-date: 2025-02-28
+date: 2025-03-02
 published: true
 categories: [ "Java Spring Boot", "Vue 3", "MySQL", "REST API", "Azure" ]
 tags: [ "java", "jpa", "maven", "hibernate", "vue-3" , "mysql", "security", "rest-api", "azure" ]
