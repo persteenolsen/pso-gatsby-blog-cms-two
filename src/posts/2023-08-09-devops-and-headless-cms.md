@@ -1,6 +1,6 @@
 ---
 title: DevOps and Headless CMS
-date: 2023-08-10T12:50:23.920Z
+date: 2025-03-05T10:33:21.133Z
 published: true
 categories:
   - DevOps
