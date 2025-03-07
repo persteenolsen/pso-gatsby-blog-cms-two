@@ -16,34 +16,35 @@
 
   <script>
     if (window.netlifyIdentity) {
+
+      // On init
       window.netlifyIdentity.on("init", (user) => {
+
         if (!user) {
-          window.netlifyIdentity.on("login", () => {
+            window.netlifyIdentity.on("login", () => {
             document.location.href = "/admin/";
           });
+         
+         
+
         }
-      });
-    }
-  </script>
-	
-	<!--<script>
-	    if (window.netlifyIdentity) {
-		
-		     //alert("UseEffect testing in Header..." );
-         window.netlifyIdentity.on('logout', () => {
-            // alert("You can now use the Admin section..." );
+
+        // On Logout
+        window.netlifyIdentity.on('logout', () => {
+
             // Log out the user
             netlifyIdentity.logout();
 
             // Close the modal
             netlifyIdentity.close();
             
+            // Redirect back to the site after successful logout
             document.location.href = '/'
           })
-         
-       }
-	</script>-->
-
+      });
+    }
+  </script>
+	
     	
   </body>
 </html>
