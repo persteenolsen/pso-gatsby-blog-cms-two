@@ -19,6 +19,8 @@
     if (window.netlifyIdentity) {
 
       // On init
+      // Maybe not necessary ...
+      /*
       window.netlifyIdentity.on("init", (user) => {
 
         if (!user) {
@@ -27,7 +29,9 @@
           });
        
         }
-
+       });
+       */
+      
         // On Logout
         window.netlifyIdentity.on('logout', () => {
 
@@ -40,8 +44,7 @@
             // Redirect back to the site after successful logout
             document.location.href = '/'
           })
-      });
-    }
+        }
   </script>
 	
     	
