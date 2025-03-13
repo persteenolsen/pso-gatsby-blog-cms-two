@@ -15,13 +15,13 @@ tags:
 ---
 
 
-ASP.NET Core MVC Web Application by . NET 8 serving CRUD functionality of Employees towards a MS SQL Database
+ASP.NET Core MVC Web Application by .NET 8 serving CRUD functionality of Employees towards a MS SQL Database
 
 Traditional webhosting is used for this Application
 
 <ul>
 <li>
-<a href="https://dotnet.mvc.employee.persteenolsen.com/" target="_blank" title="ASP.NET Core MVC Web App">Try the demo...</a>
+<a href="https://dotnet.mvc.employee.persteenolsen.com/" target="_blank">Try the demo...</a>
 </li>
 
 </ul>
@@ -32,6 +32,6 @@ Traditional webhosting is used for this Application
 <li>
 <a href="https://github.com/persteenolsen/dotnet-8-mvc-employee-crud" target="_blank">The Web App at GitHub</a>
 </li>
-<li>
+
 
 </ul>
