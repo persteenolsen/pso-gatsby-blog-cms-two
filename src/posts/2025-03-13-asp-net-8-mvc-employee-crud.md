@@ -19,14 +19,14 @@ ASP.NET Core MVC Web App using .NET 8 serving CRUD of Employees towards a MS SQL
 
 Traditional webhosting is used for this Application
 
-<ul>
+<!--<ul>
 <li>
 <a href="https://dotnet.mvc.employee.persteenolsen.com/" target="_blank">Try the demo...</a>
 </li>
 
 </ul>
 
-<p>An ASP.NET Core MVC Web App created by VS Code using .NET 8 serving CRUD functionality of Employees towards a MS SQL Database</p>
+<p>An ASP.NET Core MVC Web App created by VS Code using .NET 8 serving CRUD functionality of Employees towards a MS SQL Database</p>-->
 
 <ul>
 <li>
