@@ -15,7 +15,7 @@ tags:
 ---
 
 
-ASP.NET Core MVC Web App using .NET 8 - A basic starter with CRUD functionality of Employees
+ASP.NET Core MVC Web App using .NET 8 - A Basic Starter with CRUD functionality of Employees
 
 Traditional webhosting is used for this Application
 
