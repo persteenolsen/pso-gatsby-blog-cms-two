@@ -1,5 +1,5 @@
 ---
-title: .NET 8 - ASP.NET Core MVC Web App - Employees 
+title: .NET 8 - ASP.NET Core MVC Web App - Basic Starter 
 date: 2025-03-13
 published: true
 categories:
@@ -15,7 +15,7 @@ tags:
 ---
 
 
-ASP.NET Core MVC Web App using .NET 8 serving CRUD of Employees towards a MS SQL Database
+ASP.NET Core MVC Web App using .NET 8 - A basic starter with CRUD functionality of Employees
 
 Traditional webhosting is used for this Application
 
@@ -24,9 +24,9 @@ Traditional webhosting is used for this Application
 <a href="https://dotnet.mvc.employee.persteenolsen.com/" target="_blank">Try the demo...</a>
 </li>
 
-</ul>
+</ul>-->
 
-<p>An ASP.NET Core MVC Web App created by VS Code using .NET 8 serving CRUD functionality of Employees towards a MS SQL Database</p>-->
+<p>An ASP.NET Core MVC Web App created by VS Code using .NET 8 serving CRUD functionality of Employees towards a MS SQL Database</p>
 
 <ul>
 <li>
