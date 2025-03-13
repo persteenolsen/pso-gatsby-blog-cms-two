@@ -15,7 +15,7 @@ tags:
 ---
 
 
-ASP.NET Core MVC Web Application by .NET 8 serving CRUD functionality of Employees towards a MS SQL Database
+ASP.NET Core MVC Web App using .NET 8 serving CRUD of Employees towards a MS SQL Database
 
 Traditional webhosting is used for this Application
 
@@ -26,7 +26,7 @@ Traditional webhosting is used for this Application
 
 </ul>
 
-<p>A Basic Auth Web API created by VS Code using .NET 8 with Blazor and Vue 3 Clients + Pinia + Vite</p>
+<p>An ASP.NET Core MVC Web App created by VS Code using .NET 8 serving CRUD functionality of Employees towards a MS SQL Database</p>
 
 <ul>
 <li>
