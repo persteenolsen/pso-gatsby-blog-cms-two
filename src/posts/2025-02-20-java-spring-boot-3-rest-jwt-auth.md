@@ -1,5 +1,5 @@
 ---
-title: Java Spring Boot REST doing JWT Auth
+title: Java Spring Boot REST API with JWT Auth
 date: 2025-02-21
 published: true
 categories: [ "Java Spring Boot", "Vue 3", "MySQL", "REST API", "Azure" ]

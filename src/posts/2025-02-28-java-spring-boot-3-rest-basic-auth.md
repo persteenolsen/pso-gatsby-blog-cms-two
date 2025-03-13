@@ -1,5 +1,5 @@
 ---
-title: Java Spring Boot REST doing Basic Auth
+title: Java Spring Boot REST API with Basic Auth
 date: 2025-03-02
 published: true
 categories: [ "Java Spring Boot", "Vue 3", "MySQL", "REST API", "Azure" ]
