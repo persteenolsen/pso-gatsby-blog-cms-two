@@ -6,11 +6,13 @@ categories:
   - Python
   - MongoDB
   - Vercel
+  - REST API
 tags:
   - python
   - fastapi
   - mongodb
   - vercel
+  - rest-api
 ---
 
 Python FastAPI with MongoDB and OpenAPI / Swagger serving CRUD hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
