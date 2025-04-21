@@ -13,9 +13,9 @@ tags:
   - vercel
 ---
 
-Python FastAPI with MongoDB and Swagger / openAPI serving CRUD hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
+Python FastAPI with MongoDB and OpenAPI / Swagger serving CRUD hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
 
-<a href="https://fastapi-mongo.crud.vercel.app/docs" target="_blank" title="FastAPI MongoDB serving CRUD">Try the demo...</a>
+<a href="https://fastapi-mongo-crud.vercel.app/docs" target="_blank" title="FastAPI MongoDB serving CRUD">Try the demo...</a>
 
 A Starter FastAPI + MongoDB + Swagger serving CRUD - secured by HTTPS
 
