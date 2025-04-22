@@ -1,5 +1,5 @@
 ---
-title: Python FastAPI with MongoDB serving CRUD
+title: Python FastAPI with MongoDB serving CRUD handling Todo Task
 date: 2025-04-21
 published: true
 categories:
@@ -15,9 +15,9 @@ tags:
   - rest-api
 ---
 
-Python FastAPI with MongoDB and OpenAPI / Swagger serving CRUD hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
+Python FastAPI with MongoDB and OpenAPI / Swagger serving CRUD handling Todo Task - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
 
-<a href="https://fastapi-mongo-crud.vercel.app/docs" target="_blank" title="FastAPI MongoDB serving CRUD">Try the demo...</a>
+<a href="https://fastapi-mongo-crud.vercel.app/docs" target="_blank" title="FastAPI MongoDB serving CRUD of Todo Task">Try the demo...</a>
 
 A Starter FastAPI + MongoDB + Swagger serving CRUD - secured by HTTPS
 
