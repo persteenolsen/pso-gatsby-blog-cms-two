@@ -15,7 +15,7 @@ tags:
   - rest-api
 ---
 
-Python FastAPI with MongoDB and OpenAPI / Swagger serving CRUD handling Books, Adresses and Users - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
+Python FastAPI with MongoDB and OpenAPI / Swagger serving CRUD handling - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
 
 <a href="https://fastapi-mongo-crud-books.vercel.app/docs" target="_blank" title="FastAPI MongoDB serving CRUD of Books">Try the demo...</a>
 
