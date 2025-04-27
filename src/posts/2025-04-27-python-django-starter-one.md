@@ -1,5 +1,5 @@
 ---
-title: Python and Django Basic Starter
+title: Python and Django Starter Web App
 date: 2025-04-27
 published: true
 categories:
