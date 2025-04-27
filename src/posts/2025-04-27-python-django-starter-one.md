@@ -5,10 +5,12 @@ published: true
 categories:
   - Python
   - Vercel
+  - MVC
 tags:
   - python
   - django
   - vercel
+  - mvc
 ---
 
 Python and Django Basic Starter Web App hosted at Vercel Cloud implementing DevOps by GitHub + Vercel

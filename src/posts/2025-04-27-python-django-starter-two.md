@@ -6,11 +6,13 @@ categories:
   - Python
   - Vercel
   - MySQL
+  - MVC
 tags:
   - python
   - django
   - vercel
   - mysql
+  - mvc
 ---
 
 Python Django and MySQL Basic Starter Web App hosted at Vercel Cloud implementing DevOps by GitHub + Vercel

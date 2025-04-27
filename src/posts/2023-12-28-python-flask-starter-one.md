@@ -5,10 +5,12 @@ published: true
 categories:
   - Python
   - Vercel
+  - MVC
 tags:
   - python
   - flask
   - vercel
+  - mvc
 ---
 
 Python and Flask Starter Web App hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
