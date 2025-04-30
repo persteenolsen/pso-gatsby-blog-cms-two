@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Web App using MySQL
-date: 2025-04-29
+date: 2025-04-30
 published: true
 categories:
   - Python
