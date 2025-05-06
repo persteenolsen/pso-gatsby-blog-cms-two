@@ -1,6 +1,6 @@
 ---
 title: Webpack 5 boilerplate with ES6 and above
-date: 2025-01-05
+date: 2025-05-06
 published: true
 categories: [ "Webpack" ]
 tags: [ "webpack", "es6", "javascript" ]
