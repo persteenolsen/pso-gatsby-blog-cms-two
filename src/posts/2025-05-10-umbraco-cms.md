@@ -1,6 +1,6 @@
 ---
 title: A Simple Web App by Umbraco CMS
-date: 2025-05-10
+date: 2025-05-11
 published: true
 categories:
   - CMS
