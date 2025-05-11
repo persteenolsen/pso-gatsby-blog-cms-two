@@ -1,12 +1,16 @@
 ---
-title: A Simple Web App by Umbraco CMS
+title: .NET 8 and Umbraco CMS Web App - Basic Starter
 date: 2025-05-11
 published: true
 categories:
   - CMS
+  - .NET
+  - MVC
 tags:
   - traditional-cms
   - umbraco-cms
+  - dot-net
+  - mvc
 ---
 
 A simple Web Application by Umbraco CMS 13 and .NET 8 serving as a Basic Starter
