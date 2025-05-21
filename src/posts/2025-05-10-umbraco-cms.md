@@ -7,12 +7,14 @@ categories:
   - .NET
   - MVC
   - C#
+  - SQLite
 tags:
   - traditional-cms
   - umbraco-cms
   - dot-net
   - c#
   - mvc
+  - sqlite
 ---
 
 A simple Web Application by Umbraco CMS 13 and .NET 8 serving as a Basic Starter
