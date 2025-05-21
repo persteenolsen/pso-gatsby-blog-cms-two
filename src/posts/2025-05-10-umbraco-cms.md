@@ -17,7 +17,7 @@ tags:
   - sqlite
 ---
 
-A simple Web Application by Umbraco CMS 13 and .NET 8 serving as a Basic Starter
+A simple Web Application by Umbraco CMS 13 and .NET 8 using SQLite DB for both Dev + Prod serving as a Basic Starter
 
 <a href="https://umb.persteenolsen.com" target="_blank" title="Umbraco CMS serving as a Basic Starter">Try the demo...</a>
 
