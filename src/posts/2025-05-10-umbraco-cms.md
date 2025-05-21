@@ -17,7 +17,7 @@ tags:
 
 A simple Web Application by Umbraco CMS 13 and .NET 8 serving as a Basic Starter
 
-<a href="https://persteenolsen.com" target="_blank" title="A simple Umbraco Starter">Try the demo...</a>
+<a href="https://umb.persteenolsen.com" target="_blank" title="Umbraco CMS serving as a Basic Starter">Try the demo...</a>
 
 This Web Application was created by Umbraco CMS 13 and .NET and hosted at a tradiotional Web Hotel
 
