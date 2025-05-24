@@ -1,6 +1,6 @@
 ---
 title: .NET 8 and Umbraco CMS Web App - Basic Starter
-date: 2025-05-22
+date: 2025-05-24
 published: true
 categories:
   - CMS
