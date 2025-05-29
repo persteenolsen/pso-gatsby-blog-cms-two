@@ -21,7 +21,7 @@ Python Django and MySQL Starter Website hosted at Vercel Cloud implementing DevO
 
 Django is using the architectural pattern Model-View-Template (MVT) which is a derivation of the pattern Model View Control (MVC) 
 
-A Django Web App using MySQL for the Admin Backend ready for serving static files from Vercel
+This Django Website is able to serve static files and it is hosted at Vercel Cloud using Serverless Functions 
 
 A simple Blog demonstrates how to use Models (CRUD) by the Django Admin and display the Posts by the Frontend 
 
