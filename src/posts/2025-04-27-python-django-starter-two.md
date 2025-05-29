@@ -15,7 +15,7 @@ tags:
   - mvc
 ---
 
-Python Django and MySQL Basic Starter Web App hosted at Vercel Cloud implementing DevOps by GitHub + Vercel
+Python Django and MySQL Starter Web App hosted at Vercel Cloud implementing DevOps by GitHub + Vercel
 
 <a href="https://django-starter-two.vercel.app/" target="_blank" title="Django Web App at Vercel">Try the demo...</a>
 
