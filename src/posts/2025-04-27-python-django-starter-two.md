@@ -19,9 +19,11 @@ Python Django and MySQL Basic Starter Web App hosted at Vercel Cloud implementin
 
 <a href="https://django-starter-two.vercel.app/" target="_blank" title="Django Web App at Vercel">Try the demo...</a>
 
+Django is using the architectural pattern Model-View-Template (MVT) which is a derivation of the pattern Model View Control (MVC) 
+
 A Django Web App using MySQL for the Admin Backend ready for serving static files from Vercel
 
-A simple Blog demonstrates how to use Models ( CRUD ) by the Django Admin and display the Posts by the Frontend 
+A simple Blog demonstrates how to use Models (CRUD) by the Django Admin and display the Posts by the Frontend 
 
 CI / CD by VS Code + GitHub + Vercel Cloud - secured by HTTPS
 
