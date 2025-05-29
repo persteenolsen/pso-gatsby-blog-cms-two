@@ -1,6 +1,6 @@
 ---
 title: Python and Django minimal Web App
-date: 2025-04-27
+date: 2025-04-17
 published: true
 categories:
   - Python
