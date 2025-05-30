@@ -17,7 +17,7 @@ Python and Flask Starter Website hosted at Vercel Cloud using Serverless Functio
 
 <a href="https://flask-vercel-start-one.vercel.app/" target="_blank" title="Flask Website at Vercel">Try the demo...</a>
 
-A Starter Flask Website serving static content - secured by HTTPS
+This Flask Website is serving static content - secured by HTTPS
 
 CI / CD by VS Code + GitHub + Vercel Cloud 
 

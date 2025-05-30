@@ -21,7 +21,7 @@ Python Django and MySQL Starter Website hosted at Vercel Cloud using Serverless 
 
 Django is using the architectural pattern Model-View-Template (MVT) which is a derivation of the pattern Model View Control (MVC) 
 
-A Django Website serving static content - secured by HTTPS
+This Django Website is serving static content - secured by HTTPS
 
 A simple Blog demonstrates how to use Models (CRUD) by the Django Admin and display the Posts by the Frontend 
 
