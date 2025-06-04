@@ -18,7 +18,7 @@ tags:
   - mongodb
   - typescript
 ---
-Full-stack Next.js Web application with TypeScript and JWT Authentication using MongoDB and Mongoose ODM serving as a Membership System
+Full Stack Next.js Web application with TypeScript and JWT Authentication using MongoDB and Mongoose ODM serving as a Membership System
 
 Tech used for the Web Application
 
@@ -41,4 +41,4 @@ Tech used for the Web Application
 
 <a href="https://github.com/persteenolsen/next-js-jwt-auth-mongodb" target="_blank">The code at GitHub</a>
 
-Next.js was used for creating this Full-stack Web application "Static Site Generator" SSG serving as a Membership System with login and registration towards a MongoDB. The Web App is secured by HTTPS and JWT Authentication.
+Next.js was used for creating this Full Stack Web application "Static Site Generator" SSG serving as a Membership System with login and registration towards a MongoDB. The Web App is secured by HTTPS and JWT Authentication.
