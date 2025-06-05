@@ -22,12 +22,7 @@ export default function Menu() {
 					<li className={navLinkItem}>
 						<Link activeStyle={{ fontWeight: "bold" }} className={navLinkText} to="/">Categories</Link> |
 					</li>
-                    
-					<li className={navLinkItem}>
-						<Link activeStyle={{ fontWeight: "bold" }} className={navLinkText} to="/listtags">Tags</Link> |
-					</li>
-                    
-					
+                    					
 					<li className={navLinkItem}>
 						<Link activeStyle={{ fontWeight: "bold" }} className={navLinkText} to="/searchposts">Searching</Link> |
 					</li>
@@ -35,10 +30,16 @@ export default function Menu() {
 					<li className={navLinkItem}>
 						<Link activeStyle={{ fontWeight: "bold" }} className={navLinkText} to="/blog">Pagination</Link> |
 					</li>
-                    
+					
 					<li className={navLinkItem}>
-						<Link activeStyle={{ fontWeight: "bold" }} className={navLinkText} to="/listposts">List</Link>
+						<Link activeStyle={{ fontWeight: "bold" }} className={navLinkText} to="/listtags">Tags</Link> 
 					</li>
+                    
+                    
+					{/* 05-06-2025: Dont need the List of Posts anymore */} 
+					{/*<li className={navLinkItem}>
+						<Link activeStyle={{ fontWeight: "bold" }} className={navLinkText} to="/listposts">List</Link>
+					</li> */} 
 
 
 				</ul>
