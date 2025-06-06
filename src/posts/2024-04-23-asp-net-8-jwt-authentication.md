@@ -1,6 +1,6 @@
 ---
 title: .NET 8 REST API with JWT Authentication
-date: 2025-01-11
+date: 2025-06-06
 published: true
 categories:
   - .NET
