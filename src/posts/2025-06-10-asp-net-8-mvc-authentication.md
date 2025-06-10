@@ -1,5 +1,5 @@
 ---
-title: .NET 8 - ASP.NET Core MVC Web App with Individual Accounts - Starter 
+title: .NET 8 - ASP.NET Core Identity MVC Web App - Starter 
 date: 2025-06-10
 published: true
 categories:
@@ -15,7 +15,7 @@ tags:
 ---
 
 
-ASP.NET Core MVC Web App with Individual Accounts using .NET 8 - A Starter
+ASP.NET Core Identity MVC Web App serving as a Membership System using .NET 8 - A Starter
 
 Traditional webhosting is used for this Application
 
@@ -26,7 +26,7 @@ Traditional webhosting is used for this Application
 
 </ul>
 
-<p>An ASP.NET Core MVC Web App with Individual Accounts created by VS Code using .NET 8 serving as a Membership System towards a SQLite Database</p>
+<p>An ASP.NET Core Identity MVC Web Application with Individual Accounts created by VS Code using .NET 8 serving as a Membership System towards a SQLite Database</p>
 
 <ul>
 <li>
