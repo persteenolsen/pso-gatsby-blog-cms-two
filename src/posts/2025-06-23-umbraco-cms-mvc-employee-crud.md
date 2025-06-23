@@ -25,5 +25,5 @@ This Website was created by Umbraco CMS 13 and .NET and hosted at a tradiotional
 
 <a href="https://github.com/persteenolsen/umbraco-13-starter-two" target="_blank">The source code at GitHub</a>
 
-The Website implements CRUD functionality administrate Employees towards a custom Table in the SQLite DB using MVC and Entity Framework Core
+The Website implements CRUD functionality administratingS Employees towards a custom Table in the SQLite DB using MVC and Entity Framework Core
 
