@@ -1,6 +1,6 @@
 ---
 title: .NET 8 and Umbraco CMS Website with MVC - Starter
-date: 2025-06-26
+date: 2025-06-29
 published: true
 categories:
   - CMS
