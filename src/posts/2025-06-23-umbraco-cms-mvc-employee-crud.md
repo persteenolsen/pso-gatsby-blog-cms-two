@@ -8,6 +8,7 @@ categories:
   - MVC
   - C#
   - SQLite
+  - Umbraco
 tags:
   - traditional-cms
   - umbraco-cms
@@ -15,6 +16,7 @@ tags:
   - c#
   - mvc
   - sqlite
+  - umbraco
 ---
 
 A Website by Umbraco CMS 13 and .NET 8 using SQLite DB for both Dev + Prod with MVC towards a custom Table in the DB serving as a Starter
