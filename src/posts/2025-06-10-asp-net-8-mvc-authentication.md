@@ -1,6 +1,6 @@
 ---
 title: .NET 8 - ASP.NET Core Identity MVC Web App - Starter 
-date: 2025-07-02
+date: 2025-07-03
 published: true
 categories:
   - .NET
