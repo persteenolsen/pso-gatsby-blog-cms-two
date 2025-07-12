@@ -1,6 +1,6 @@
 ---
 title: .NET 8 and Umbraco CMS Website with Member Registration and Login - Starter
-date: 2025-07-11
+date: 2025-07-12
 published: true
 categories:
   - CMS
