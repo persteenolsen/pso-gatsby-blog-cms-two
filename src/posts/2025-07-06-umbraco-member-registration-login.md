@@ -1,6 +1,6 @@
 ---
 title: .NET 8 and Umbraco CMS Website with Member Registration Login and Forgot Password - Starter
-date: 2025-07-21
+date: 2025-07-22
 published: true
 categories:
   - CMS
