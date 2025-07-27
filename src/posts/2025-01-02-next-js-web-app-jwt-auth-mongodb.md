@@ -1,6 +1,6 @@
 ---
 title: Next.js 13 and MongoDB Membership System  
-date: 2025-06-08
+date: 2025-07-27
 published: true
 categories:
   - Next.js
