@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with MongoDB serving CRUD handling Books
-date: 2025-04-22
+date: 2025-08-01
 published: true
 categories:
   - Python
