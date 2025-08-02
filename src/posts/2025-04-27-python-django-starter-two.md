@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using MySQL
-date: 2025-08-01
+date: 2025-08-02
 published: true
 categories:
   - Python
