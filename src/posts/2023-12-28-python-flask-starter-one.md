@@ -1,6 +1,6 @@
 ---
 title: Python and Flask Starter Website
-date: 2025-08-01
+date: 2025-08-08
 published: true
 categories:
   - Python
