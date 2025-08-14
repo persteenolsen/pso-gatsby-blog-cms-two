@@ -13,7 +13,6 @@ tags:
   - mvc
 ---
 
-
 Python Django Starter Website serving static files hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
 
 <a href="https://django-starter-one.vercel.app/" target="_blank" title="Django Website at Vercel">Try the demo...</a>
