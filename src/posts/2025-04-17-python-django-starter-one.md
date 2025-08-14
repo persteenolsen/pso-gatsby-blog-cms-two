@@ -17,11 +17,11 @@ Python Django Starter Website without any Database serving static files hosted a
 
 <a href="https://django-starter-one.vercel.app/" target="_blank" title="Django Website at Vercel">Try the demo...</a>
 
-This Python and Django Starther Website dont have a Database and no Django Admin Backend 
-
 Django is using the architectural pattern Model-View-Template (MVT) which is a derivation of the pattern Model View Control (MVC) 
 
 This Django Website is serving static content - secured by HTTPS
+
+This Python and Django Starther Website dont have a Database and no Django Admin Backend 
 
 CI / CD by VS Code + GitHub + Vercel Cloud
 

@@ -1,5 +1,5 @@
 ---
-title: Python and Django Starter Website using MySQL serving as a Membership System
+title: Python and Django Starter Website using MySQL serving a Membership System
 date: 2025-08-14
 published: true
 categories:
@@ -17,7 +17,7 @@ tags:
   - mvc
 ---
 
-Python Django MySQL Starter Website serving as a Membership System hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
+Python Django MySQL Starter Website serving a Membership System hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
 
 <a href="https://django-starter-three.vercel.app/" target="_blank" title="Django Website at Vercel">Try the demo...</a>
 

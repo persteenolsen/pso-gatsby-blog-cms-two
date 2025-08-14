@@ -1,5 +1,5 @@
 ---
-title: Python and Django Starter Website using MySQL
+title: Python and Django Starter Website using MySQL serving a simple Blog
 date: 2025-08-14
 published: true
 categories:
@@ -15,7 +15,7 @@ tags:
   - mvc
 ---
 
-Python Django and MySQL Starter Website hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
+Python Django and MySQL Starter Website serving a simple Blog hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
 
 <a href="https://django-starter-two.vercel.app/" target="_blank" title="Django Website at Vercel">Try the demo...</a>
 
