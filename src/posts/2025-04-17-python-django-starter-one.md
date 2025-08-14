@@ -1,5 +1,5 @@
 ---
-title: Python and Django Starter Website serving static files
+title: Python and Django Starter Website without Database serving static files
 date: 2025-08-14
 published: true
 categories:
@@ -13,7 +13,7 @@ tags:
   - mvc
 ---
 
-Python Django Starter Website serving static files hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
+Python Django Starter Website without any Database serving static files hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
 
 <a href="https://django-starter-one.vercel.app/" target="_blank" title="Django Website at Vercel">Try the demo...</a>
 
