@@ -27,7 +27,7 @@ This Django Website is serving static content - secured by HTTPS
 
 A simple Blog demonstrates how to use Models (CRUD) by the Django Admin and display the Posts by the Frontend
 
-A Membership System was implemented by django-allauth serving Signup with Email Verification, Login, Logout, Reset Password, Change Password and Manage Email (when logged in)
+A Membership System was implemented by django-allauth serving Signup with Email Verification, Login, Logout, Reset Password, Change Password, Manage Email and Deactivate Account (when logged in)
 
 CI / CD by VS Code + GitHub + Vercel Cloud
 
