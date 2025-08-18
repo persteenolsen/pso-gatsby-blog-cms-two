@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using MySQL serving a Membership System
-date: 2025-08-16
+date: 2025-08-18
 published: true
 categories:
   - Python
@@ -27,7 +27,7 @@ This Django Website is serving static content - secured by HTTPS
 
 A simple Blog demonstrates how to use Models (CRUD) by the Django Admin and display the Posts by the Frontend
 
-A Membership System was implemented by django-allauth serving Signup, Login, Logout, Reset Password and Change Password (when logged in)
+A Membership System was implemented by django-allauth serving Signup with Email Verification, Login, Logout, Reset Password, Change Password and Manage Email (when logged in)
 
 CI / CD by VS Code + GitHub + Vercel Cloud
 
