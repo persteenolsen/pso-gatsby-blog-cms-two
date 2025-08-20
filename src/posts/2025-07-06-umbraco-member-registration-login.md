@@ -1,6 +1,6 @@
 ---
 title: .NET 8 and Umbraco CMS Website with Member Registration Confirmation Login Forgot Password and Manage Profile - Starter
-date: 2025-07-26
+date: 2025-08-20
 published: true
 categories:
   - CMS
