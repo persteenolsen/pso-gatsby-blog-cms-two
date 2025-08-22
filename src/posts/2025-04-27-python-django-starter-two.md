@@ -1,6 +1,6 @@
 ---
-title: Python and Django Starter Website using MySQL serving a simple Blog
-date: 2025-08-14
+title: Python and Django Starter Website using MySQL serving a simple Blog and Employees
+date: 2025-08-22
 published: true
 categories:
   - Python
@@ -23,7 +23,7 @@ Django is using the architectural pattern Model-View-Template (MVT) which is a d
 
 This Django Website is serving static content - secured by HTTPS
 
-A simple Blog demonstrates how to use Models (CRUD) by the Django Admin and display the Posts by the Frontend 
+A simple Blog and a list of Employees demonstrates how to use Models (CRUD) by the Django Admin and display the Posts and the Employees by the Frontend 
 
 CI / CD by VS Code + GitHub + Vercel Cloud
 
