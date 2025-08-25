@@ -1,6 +1,6 @@
 ---
-title: Python and Django Starter Website using MySQL serving a simple Blog and Employees
-date: 2025-08-24
+title: Python and Django Starter Website using MySQL serving a Blog Employees and Todos
+date: 2025-08-25
 published: true
 categories:
   - Python
@@ -15,7 +15,7 @@ tags:
   - mvc
 ---
 
-Python Django and MySQL Starter Website serving a simple Blog and a list of Employees hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
+Python Django and MySQL Starter Website serving a simple Blog Employees and Todos hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
 
 <a href="https://django-starter-two.vercel.app/" target="_blank" title="Django Website at Vercel">Try the demo...</a>
 
@@ -23,7 +23,9 @@ Django is using the architectural pattern Model-View-Template (MVT) which is a d
 
 This Django Website is serving static content - secured by HTTPS
 
-A simple Blog and a list of Employees demonstrates how to use Models (CRUD) by the Django Admin and display the Posts and the Employees by the Frontend
+A simple Blog, a list of Employees and Todos demonstrates how to use Models (CRUD) by the Django Admin and display the Posts, Employees and Todos by the Frontend
+
+Todos are also administrated by the Frontend by CRUD
 
 The files models.py and views.py are splitted up for showing how to scale the folder structure if the Django Website should grow with a lot of views and models
 
