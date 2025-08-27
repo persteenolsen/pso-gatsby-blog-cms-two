@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using MySQL serving a Blog Employees and Todos
-date: 2025-08-26
+date: 2025-08-27
 published: true
 categories:
   - Python
@@ -25,7 +25,7 @@ This Django Website is serving static content - secured by HTTPS
 
 A simple Blog, a list of Employees and Todos demonstrates how to use Models (CRUD) by the Django Admin and display the Posts, Employees and Todos by the Frontend
 
-Todos are also administrated by the Frontend by CRUD
+The Employees and Todos are also administrated by the Frontend with CRUD functionality
 
 The files models.py and views.py are splitted up for showing how to scale the folder structure if the Django Website should grow with a lot of views and models
 
