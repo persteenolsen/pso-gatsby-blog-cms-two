@@ -4,6 +4,7 @@ date: 2025-08-08
 published: true
 categories:
   - Python
+  - DevOps
   - Vercel
   - MVC
 tags:
@@ -11,6 +12,7 @@ tags:
   - flask
   - vercel
   - mvc
+  - devops
 ---
 
 Python and Flask Starter Website hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel

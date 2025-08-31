@@ -4,6 +4,7 @@ date: 2025-08-31
 published: true
 categories:
   - Python
+  - DevOps
   - Vercel
   - MySQL
   - SQLite
@@ -15,6 +16,7 @@ tags:
   - mysql
   - sqlite
   - mvc
+  - devops
 ---
 
 Python Django MySQL Starter Website serving a Membership System hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel

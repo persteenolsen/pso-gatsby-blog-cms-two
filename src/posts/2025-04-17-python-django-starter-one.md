@@ -4,6 +4,7 @@ date: 2025-08-30
 published: true
 categories:
   - Python
+  - DevOps
   - Vercel
   - MVC
 tags:
@@ -11,6 +12,7 @@ tags:
   - django
   - vercel
   - mvc
+  - devops
 ---
 
 Python Django Starter Website without any Database serving static files hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel

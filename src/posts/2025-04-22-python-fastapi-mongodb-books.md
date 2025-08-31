@@ -4,6 +4,7 @@ date: 2025-08-08
 published: true
 categories:
   - Python
+  - DevOps
   - MongoDB
   - Vercel
   - REST API
@@ -13,6 +14,7 @@ tags:
   - mongodb
   - vercel
   - rest-api
+  - devops
 ---
 
 Python FastAPI with MongoDB and OpenAPI / Swagger serving CRUD handling - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel

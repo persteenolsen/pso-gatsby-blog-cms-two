@@ -4,6 +4,7 @@ date: 2025-08-31
 published: true
 categories:
   - Python
+  - DevOps
   - Vercel
   - MySQL
   - MVC
@@ -13,6 +14,7 @@ tags:
   - vercel
   - mysql
   - mvc
+  - devops
 ---
 
 Python Django and MySQL Starter Website serving a simple Blog Employees and Todos hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
