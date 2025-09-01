@@ -1,6 +1,6 @@
 ---
 title: Java Spring Boot REST API with Basic Auth
-date: 2025-03-02
+date: 2025-09-01
 published: true
 categories: [ "Java Spring Boot", "Vue 3", "MySQL", "REST API", "Azure" ]
 tags: [ "java", "jpa", "maven", "hibernate", "vue-3" , "mysql", "security", "rest-api", "azure" ]
