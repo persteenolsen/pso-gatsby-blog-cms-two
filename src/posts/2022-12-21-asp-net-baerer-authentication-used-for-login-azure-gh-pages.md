@@ -9,7 +9,8 @@ categories:
   - Azure
   - GitHub Pages
   - DevOps
-  - C#  
+  - C#
+  - Vite  
 tags:
   - asp-net
   - vue-3
@@ -21,12 +22,13 @@ tags:
   - ci-cd
   - c#
   - rest-api
+  - vite
 ---
 
 
 ASP.NET Core 2.2 REST API with C# consuming from a Vue 3 client using JWT Authentication for Login
 
-The Vue 3 Client is hosted at GitHub Pages 
+The Vue 3 Client is hosted at GitHub Pages using Vite as Build Tool
 
 The API is hosted at Microsoft Azure App Service - using .NET 8  in azure-pipeline
 
