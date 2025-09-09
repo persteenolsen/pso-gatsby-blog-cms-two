@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using MySQL serving a Blog Employees and Todos
-date: 2025-09-08
+date: 2025-09-09
 published: true
 categories:
   - Python
