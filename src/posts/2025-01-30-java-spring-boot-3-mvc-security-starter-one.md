@@ -18,8 +18,6 @@ Java Spring Boot 3 MVC and Spring Security - A Basic Starter with CRUD functiona
 
 Take a look at the Basic Starter at GitHub with the same functionality but without Spring Security  
 
-<br />
-
 <a href="https://github.com/persteenolsen/spring-boot-3-mvc-starter-one" target="_blank">The Source code at GitHub</a>
 
 <br />
