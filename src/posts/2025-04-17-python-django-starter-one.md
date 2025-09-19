@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website without Database serving static files
-date: 2025-09-13
+date: 2025-09-19
 published: true
 categories:
   - Python
