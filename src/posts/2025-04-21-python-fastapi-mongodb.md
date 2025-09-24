@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with MongoDB serving CRUD handling Todo Task
-date: 2025-08-08
+date: 2025-09-24
 published: true
 categories:
   - Python
