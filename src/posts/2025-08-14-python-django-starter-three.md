@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using MySQL serving a Membership System
-date: 2025-10-14
+date: 2025-10-15
 published: true
 categories:
   - Python
