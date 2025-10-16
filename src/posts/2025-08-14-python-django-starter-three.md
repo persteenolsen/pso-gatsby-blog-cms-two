@@ -7,14 +7,12 @@ categories:
   - DevOps
   - Vercel
   - MySQL
-  - SQLite
   - MVC
 tags:
   - python
   - django
   - vercel
   - mysql
-  - sqlite
   - mvc
   - devops
 ---
