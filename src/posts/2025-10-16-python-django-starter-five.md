@@ -1,25 +1,25 @@
 ---
-title: Python and Django Starter Website using MySQL serving a Blog
+title: Python and Django Starter Website using PostgreSQL serving a Blog
 date: 2025-10-16
 published: true
 categories:
   - Python
   - DevOps
   - Vercel
-  - MySQL
+  - PostgreSQL
   - MVC
 tags:
   - python
   - django
   - vercel
-  - mysql
+  - postgresql
   - mvc
   - devops
 ---
 
-Python Django and MariaDB / MySQL Starter Website serving a simple Blog hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
+Python Django and PostgreSQL Starter Website serving a simple Blog hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
 
-<a href="https://django-starter-four.vercel.app/" target="_blank" title="Django Website at Vercel">Try the demo...</a>
+<a href="https://django-starter-five.vercel.app/" target="_blank" title="Django Website at Vercel">Try the demo...</a>
 
 Django is using the architectural pattern Model-View-Template (MVT) which is a derivation of the pattern Model View Control (MVC) 
 
