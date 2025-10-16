@@ -31,4 +31,4 @@ The files models.py and views.py are splitted up for showing how to scale the fo
 
 CI / CD by VS Code + GitHub + Vercel Cloud
 
-<a href="https://github.com/persteenolsen/django-starter-four" target="_blank">The source code at GitHub</a>
+<a href="https://github.com/persteenolsen/django-starter-five" target="_blank">The source code at GitHub</a>
