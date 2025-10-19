@@ -15,7 +15,7 @@ tags:
   - mvc
 ---
 
-Python Django using MySQL / SQLite Website serving a simple Blog hosted at PythonAnywhere which is a free, fast and mature solution ready for scale up if needed
+Python Django MySQL and SQLite Website serving a simple Blog hosted at PythonAnywhere which have a free plan as well as plans for scaling up if needed. The hosting is fast and user friendly with good documentation
 
 <a href="https://persteen.pythonanywhere.com/" target="_blank" title="Django Website at PythonAnywhere">Try the demo...</a>
 
