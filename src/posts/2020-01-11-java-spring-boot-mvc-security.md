@@ -10,10 +10,6 @@ Java Spring Boot 3 MVC and Spring Security
 
 <p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 403 Status code may happen too!</p>
 
-<a href="https://pso-mvc-secure.azurewebsites.net" target="_blank" title="Java Spring Boot 3 Security">Try the demo...</a>
-  
-<br /><br />
-
 <a href="https://github.com/persteenolsen/spring-boot-3-mvc-security" target="_blank">The Source code at GitHub</a>
 
 <br />
