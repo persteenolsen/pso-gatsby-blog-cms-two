@@ -17,7 +17,7 @@ tags:
 
 Python Django Website serving a simple Demo hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
 
-<a href="pso-django-demo.azurewebsites.net" target="_blank" title="Django Website at Azure App Service">Try the demo...</a>
+<a href="https://pso-django-demo.azurewebsites.net" target="_blank" title="Django Website at Azure App Service">Try the demo...</a>
 
 Django is using the architectural pattern Model-View-Template (MVT) which is a derivation of the pattern Model View Control (MVC) 
 
