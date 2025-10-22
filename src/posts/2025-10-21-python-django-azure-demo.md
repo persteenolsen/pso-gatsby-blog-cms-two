@@ -1,21 +1,23 @@
 ---
-title: Python and Django Website without Database hosted at Azure App Service
-date: 2025-10-21
+title: Python and Django Website using MySQL hosted at Azure App Service serving a Demo
+date: 2025-10-22
 published: true
 categories:
   - Python
   - Azure
+  - MySQL
   - DevOps
   - MVC
 tags:
   - python
   - django
   - azure
+  - mysql
   - devops
   - mvc
 ---
 
-Python Django Website serving a simple Demo hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
+Python Django and MySQL Website serving a simple Demo hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
 
 <a href="https://pso-django-demo.azurewebsites.net" target="_blank" title="Django Website at Azure App Service">Try the demo...</a>
 
