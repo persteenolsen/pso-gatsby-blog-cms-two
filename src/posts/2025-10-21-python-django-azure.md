@@ -1,5 +1,5 @@
 ---
-title: Python and Django Website using MySQL hosted at Azure App Service serving static files
+title: Python and Django Website using MySQL hosted at Azure App Service serving a Blog
 date: 2025-10-22
 published: true
 categories:
@@ -17,7 +17,7 @@ tags:
   - mvc
 ---
 
-Python Django and MySQL Website serving static files hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
+Python Django and MySQL Website serving a simple Blog hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
 
 <a href="https://pso-django.azurewebsites.net" target="_blank" title="Django Website at Azure App Service">Try the demo...</a>
 
