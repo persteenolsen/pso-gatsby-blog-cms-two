@@ -24,6 +24,9 @@ Python Django and MySQL Website serving a simple Blog hosted at Azure App Servic
 Django is using the architectural pattern Model-View-Template (MVT) which is a derivation of the pattern Model View Control (MVC) 
 
 This Django Website is serving static content - secured by HTTPS
+A simple Blog demonstrates how to use Models by the Django Admin and display the Posts by the Frontend
+
+The files models.py and views.py are splitted up for showing how to scale the folder structure if the Django Website should grow with a lot of views and models
 
 CI / CD by commit the code change from VS Code + GitHub Actions + Azure App Service
 

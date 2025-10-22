@@ -1,5 +1,5 @@
 ---
-title: Python and Django Starter Website using MySQL serving a Membership System
+title: Python and Django Starter Website using MySQL hosted at Vercel Cloud serving a Membership System
 date: 2025-10-15
 published: true
 categories:

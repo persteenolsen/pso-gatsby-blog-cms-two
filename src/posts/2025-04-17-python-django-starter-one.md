@@ -1,5 +1,5 @@
 ---
-title: Python and Django Starter Website without Database serving static files
+title: Python and Django Starter Website without Database hosted at Vercel Cloud serving static files
 date: 2025-10-14
 published: true
 categories:

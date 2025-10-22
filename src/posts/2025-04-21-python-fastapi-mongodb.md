@@ -1,5 +1,5 @@
 ---
-title: Python FastAPI with MongoDB serving CRUD handling Todo Task
+title: Python FastAPI with MongoDB hosted at Vercel Cloud serving CRUD handling Todo Task
 date: 2025-09-24
 published: true
 categories:
