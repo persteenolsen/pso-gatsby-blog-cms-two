@@ -1,6 +1,6 @@
 ---
 title: Python and Django Website using MySQL hosted at PythonAnywhere serving a Blog
-date: 2025-10-19
+date: 2025-10-23
 published: true
 categories:
   - Python
