@@ -19,6 +19,8 @@ tags:
 
 Python Django and MySQL Website serving a simple Demo hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
 
+<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 403 Status code may happen too!</p>
+
 <a href="https://pso-django-demo.azurewebsites.net" target="_blank" title="Django Website at Azure App Service">Try the demo...</a>
 
 Django is using the architectural pattern Model-View-Template (MVT) which is a derivation of the pattern Model View Control (MVC) 
