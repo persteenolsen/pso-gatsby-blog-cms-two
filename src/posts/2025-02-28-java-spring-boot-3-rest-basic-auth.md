@@ -8,7 +8,7 @@ tags: [ "java", "jpa", "maven", "hibernate", "vue-3" , "mysql", "security", "res
 
 Java Spring Boot 3 REST API doing Basic Auth with a Vue 3 Client
 
-<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 403 Status code may happen too!</p>
+<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 503 Status code may happen too!</p>
 
 The Vue 3 client is using Vite as Build Tool
 
