@@ -29,4 +29,4 @@ This Wagtail Website is serving static content - secured by HTTPS
 
 CI / CD by commit the code change from VS Code + GitHub + Vercel
 
-<a href="https://github.com/persteenolsen/django-azure-demo" target="_blank">The source code at GitHub</a>
+<a href="https://github.com/persteenolsen/wagtail-demo" target="_blank">The source code at GitHub</a>
