@@ -1,6 +1,6 @@
 ---
 title: Python Django and Wagtail Website using MySQL hosted at Vercel serving a Demo
-date: 2025-10-27
+date: 2025-10-30
 published: true
 categories:
   - Python
