@@ -19,7 +19,7 @@ tags:
   - cms
 ---
 
-Python Django and Wagtail CMS based Website using MySQL serving a simple Demo. Hosted at Vercel Cloud by Serverless Functions. Wagtail CMS is the Backend Administration of the Website. DevOps by GitHub + Vercel
+Python Django and Wagtail CMS based Website using MySQL serving a Demo. Hosted at Vercel Cloud by Serverless Functions. Wagtail CMS is the Backend Administration of the Website. DevOps by GitHub + Vercel
 
 <a href="https://wagtail-demo.vercel.app" target="_blank" title="Django and Wagtail Website at Vercel Cloud">Try the demo...</a>
 
