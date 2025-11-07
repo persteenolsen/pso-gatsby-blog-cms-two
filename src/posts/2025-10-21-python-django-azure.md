@@ -1,6 +1,6 @@
 ---
 title: Python and Django Website using MySQL hosted at Azure App Service serving a Blog
-date: 2025-10-22
+date: 2025-11-07
 published: true
 categories:
   - Python
