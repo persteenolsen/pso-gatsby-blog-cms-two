@@ -1,10 +1,10 @@
 ---
 title: DevOps and Headless CMS
-date: 2025-03-08T15:51:00.000Z
+date: 2025-11-10T15:51:00.000Z
 published: true
 categories:
   - DevOps
-  - CMS
+  - Headless CMS
 tags:
   - headless-cms
   - git-based-cms
@@ -12,7 +12,6 @@ tags:
   - netlify-cms
   - decap-cms
   - tina-cms
-  - strapi-cms
   - netlify
   - ci-cd
 ---
@@ -34,8 +33,10 @@ When a developer makes a change to the code of the Blog and commit the code to G
 
 An Editor saves a Post of the Blog ( A Markdown file) by the Decap / Netlify CMS system which starts the build and deployment by a commit to GitHub.
 
-In addition to Headless Git-based CMS I have experience with API driven CMS listed below
+In addition to Headless Git-based CMS I have experience with the CMS listed below
 
-* Strapi - Based on Node.js
+* Drupal based on PHP
+* Wordpress based on PHP
+* Type3 based on PHP
 
 To get more experience with Git based CMS a copy of the Gatsby Blog is hosted and administrated by Gatsby Cloud and Tina CMS using another repository at GitHub.
