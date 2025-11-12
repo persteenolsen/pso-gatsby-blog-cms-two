@@ -30,12 +30,16 @@ Traditional webhosting is used for this Application
 
 <ul>
 <li>
-<a href="https://github.com/persteenolsen/dotnet-10-mvc-employee-crud" target="_blank">The .NET 10 Web App at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-10-mvc-employee-crud" target="_blank">The Web App at GitHub</a>
 </li>
 
+</ul>
+
+Below is a .NET 8 version of the Web App
+
+<ul>
 <li>
-<a href="https://github.com/persteenolsen/dotnet-8-mvc-employee-crud" target="_blank">The .NET 8 Web App at GitHub</a>
+<a href="https://github.com/persteenolsen/dotnet-8-mvc-employee-crud" target="_blank">The Web App at GitHub</a>
 </li>
-
 
 </ul>
