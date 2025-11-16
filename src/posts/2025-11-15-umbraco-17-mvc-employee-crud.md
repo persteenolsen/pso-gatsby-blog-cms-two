@@ -16,7 +16,7 @@ tags:
   - umbraco
 ---
 
-A Website by Umbraco CMS 17 and .NET 10 using SQLite DB for both Dev + Prod with MVC towards a custom Table in the DB serving as a Starter
+A Website by Umbraco 17 CMS and .NET 10 using SQLite DB for both Dev + Prod with MVC towards a custom Table in the DB serving as a Starter
 
 <a href="https://umb.seventeen.mvc.persteenolsen.com" target="_blank" title="Umbraco CMS serving as a Starter">Try the demo...</a>
 

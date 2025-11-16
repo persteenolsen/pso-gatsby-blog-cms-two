@@ -16,11 +16,11 @@ tags:
   - umbraco
 ---
 
-A Website by Umbraco CMS 13 and .NET 8 using SQLite DB for both Dev + Prod with MVC towards a custom Table in the DB serving as a Starter
+A Website by Umbraco 13 CMS and .NET 8 using SQLite DB for both Dev + Prod with MVC towards a custom Table in the DB serving as a Starter
 
 <a href="https://umb.mvc.persteenolsen.com" target="_blank" title="Umbraco CMS serving as a Starter">Try the demo...</a>
 
-This Website was created by Umbraco CMS 13 and .NET 8 and hosted at a tradiotional Web Hotel using IIS
+This Website was created by Umbraco 13 CMS and .NET 8 and hosted at a tradiotional Web Hotel using IIS
 
 <a href="https://github.com/persteenolsen/umbraco-13-starter-two" target="_blank">The source code at GitHub</a>
 
