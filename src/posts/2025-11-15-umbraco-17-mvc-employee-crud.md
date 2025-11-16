@@ -20,7 +20,7 @@ A Website by Umbraco 17 CMS and .NET 10 using SQLite DB for both Dev + Prod with
 
 <a href="https://umb.seventeen.mvc.persteenolsen.com" target="_blank" title="Umbraco CMS serving as a Starter">Try the demo...</a>
 
-This Website was created by Umbraco CMS 17 and .NET 10 and hosted at a tradiotional Web Hotel using IIS
+This Website was created by Umbraco 17 CMS and .NET 10 and hosted at a tradiotional Web Hotel using IIS
 
 <a href="https://github.com/persteenolsen/umbraco-17-starter-two" target="_blank">The source code at GitHub</a>
 
