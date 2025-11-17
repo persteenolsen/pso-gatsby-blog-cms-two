@@ -1,6 +1,6 @@
 ---
 title: .NET 10 and Umbraco CMS Website with MVC - Starter
-date: 2025-11-16
+date: 2025-11-17
 published: true
 categories:
   - Umbraco CMS
