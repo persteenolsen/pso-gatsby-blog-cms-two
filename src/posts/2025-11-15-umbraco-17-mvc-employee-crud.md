@@ -1,6 +1,6 @@
 ---
 title: .NET 10 and Umbraco CMS Website with MVC - Starter
-date: 2025-11-19
+date: 2025-11-20
 published: true
 categories:
   - Umbraco CMS
@@ -17,6 +17,8 @@ tags:
 ---
 
 A Website by Umbraco 17 CMS and .NET 10 using SQLite DB for both Dev + Prod with MVC towards a custom Table in the DB serving as a Starter
+
+The Website was upgraded from Umbraco 13 and .NET 8 which described in the Readme
 
 <a href="https://umb.seventeen.mvc.persteenolsen.com" target="_blank" title="Umbraco CMS serving as a Starter">Try the demo...</a>
 
