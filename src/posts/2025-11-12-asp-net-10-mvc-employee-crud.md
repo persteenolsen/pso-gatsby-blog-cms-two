@@ -1,15 +1,15 @@
 ---
-title: .NET 10 and MVC Web Application
+title: .NET 10 and ASP.NET Core MVC Web App - Starter
 date: 2025-11-23
 published: true
 categories:
-  - .NET
   - MVC
+  - .NET
   - MS SQL
   - C#
 tags:
-  - dot-net
   - mvc
+  - dot-net
   - c#
   - ms-sql
 ---
