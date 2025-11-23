@@ -1,5 +1,5 @@
 ---
-title: .NET 10 and Umbraco CMS Website with Member Registration Confirmation Login Forgot Password and Manage Profile - Starter
+title: .NET 10 and Umbraco 17 CMS Website with Member Registration Confirmation Login Forgot Password and Manage Profile - Starter
 date: 2025-11-23
 published: true
 categories:
