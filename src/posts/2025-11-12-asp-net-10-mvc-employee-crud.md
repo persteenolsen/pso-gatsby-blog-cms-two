@@ -1,5 +1,5 @@
 ---
-title: .NET 10 and ASP.NET Core MVC Web App - Starter 
+title: .NET 10 and ASP.NET Core MVC Web App
 date: 2025-11-23
 published: true
 categories:
