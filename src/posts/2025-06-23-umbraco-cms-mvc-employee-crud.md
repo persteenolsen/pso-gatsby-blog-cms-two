@@ -1,5 +1,5 @@
 ---
-title: .NET 8 and Umbraco 13 CMS Website with MVC - Starter
+title: .NET 8 and Umbraco 13 CMS based Website using custom MVC
 date: 2025-11-21
 published: true
 categories:

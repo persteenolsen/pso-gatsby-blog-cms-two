@@ -1,5 +1,5 @@
 ---
-title: .NET 8 and Umbraco 13 CMS Website with Member Registration Confirmation Login Forgot Password and Manage Profile - Starter
+title: .NET 8 and Umbraco 13 CMS based Website serving a Membership System
 date: 2025-11-21
 published: true
 categories:
