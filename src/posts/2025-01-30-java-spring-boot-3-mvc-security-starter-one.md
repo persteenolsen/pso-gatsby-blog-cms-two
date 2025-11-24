@@ -6,9 +6,9 @@ categories: [ "Java Spring Boot", "MySQL", "MVC", "Azure" ]
 tags: [ "java", "jpa", "maven", "hibernate", "mvc", "mysql", "security", "mvc", "azure" ]
 ---
 
-Java Spring Boot 3 MVC and Spring Security - A Basic Starter with CRUD functionality
+Java Spring Boot 3 MVC and Spring Security serving a Basic Starter with CRUD functionality
 
-<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 403 Status code may happen too!</p>
+<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time will be up to 1 minute. A 503 Status code may happen too!</p>
 
 <a href="https://pso-mvc-secure-start.azurewebsites.net" target="_blank" title="Java Spring Boot 3 Security - Basic Starter">Try the demo...</a>
   
