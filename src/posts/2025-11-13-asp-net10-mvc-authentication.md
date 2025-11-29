@@ -1,6 +1,6 @@
 ---
 title: .NET 10 and ASP.NET Core Identity MVC Web Application
-date: 2025-11-23
+date: 2025-11-29
 published: true
 categories:
   - .NET
