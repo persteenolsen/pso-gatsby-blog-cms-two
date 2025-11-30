@@ -1,6 +1,6 @@
 ---
 title: .NET 8 and Umbraco 13 CMS serving my Personal Website
-date: 2025-11-27
+date: 2025-11-30
 published: true
 categories:
   - Umbraco CMS
