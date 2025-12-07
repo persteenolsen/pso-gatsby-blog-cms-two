@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using MySQL hosted at Vercel Cloud serving a Blog Employees and Todos
-date: 2025-12-02
+date: 2025-12-07
 published: true
 categories:
   - Python
