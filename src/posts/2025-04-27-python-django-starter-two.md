@@ -29,7 +29,7 @@ A simple Blog, a list of Employees and Todos demonstrates how to use Models (CRU
 
 The Employees and Todos are also administrated by the Frontend with CRUD functionality
 
-The files models.py and views.py are splitted up for showing how to scale the folder structure if the Django Website should grow with a lot of views and models
+The files models.py, views.py and forms.py are splitted up for showing how to scale the folder structure if the Django Website should grow with a lot of views and models
 
 Customized some of the Templates of the Django Admin Backend which display the Header and Menu
 
