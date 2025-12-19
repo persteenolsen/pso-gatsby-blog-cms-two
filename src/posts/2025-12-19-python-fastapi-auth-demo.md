@@ -1,9 +1,10 @@
 ---
 title: Python FastAPI with PostgreSQL hosted at Vercel Cloud serving JWT Auth
-date: 2025-12-07
+date: 2025-12-19
 published: true
 categories:
   - Python
+  - FastAPI
   - DevOps
   - PostgreSQL
   - Vercel

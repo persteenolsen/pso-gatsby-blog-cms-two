@@ -4,6 +4,7 @@ date: 2025-12-07
 published: true
 categories:
   - Python
+  - FastAPI
   - DevOps
   - MongoDB
   - Vercel

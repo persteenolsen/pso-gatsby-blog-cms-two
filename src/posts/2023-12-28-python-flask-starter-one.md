@@ -4,6 +4,7 @@ date: 2025-09-25
 published: true
 categories:
   - Python
+  - Flask
   - DevOps
   - Vercel
   - MVC

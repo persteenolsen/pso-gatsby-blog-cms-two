@@ -4,6 +4,7 @@ date: 2025-12-18
 published: true
 categories:
   - Python
+  - Django
   - DevOps
   - Vercel
   - MariaDB

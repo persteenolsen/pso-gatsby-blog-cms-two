@@ -4,6 +4,7 @@ date: 2025-12-17
 published: true
 categories:
   - Python
+  - Django
   - SQLite
   - MySQL
   - MVC
