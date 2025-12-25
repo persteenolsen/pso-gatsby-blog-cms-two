@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with PostgreSQL hosted at Vercel Cloud serving JWT Auth
-date: 2025-12-24
+date: 2025-12-25
 published: true
 categories:
   - Python
@@ -22,7 +22,7 @@ Python FastAPI with PostgreSQL and OpenAPI / Swagger serving JWT Auth - hosted a
 
 <a href="https://fastapi-auth-demo.vercel.app/docs" target="_blank" title="FastAPI PostgreSQL serving JWT Auth">Try the demo...</a>
 
-A Starter FastAPI + PostgreSQL + Swagger serving Auth - secured by HTTPS
+A Starter FastAPI + PostgreSQL + JWT Auth + Alembic + Swagger - secured by HTTPS
 
 CI / CD by VS Code + GitHub + Vercel Cloud 
 
