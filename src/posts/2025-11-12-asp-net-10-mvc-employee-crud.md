@@ -1,6 +1,6 @@
 ---
 title: .NET 10 and ASP.NET Core MVC Web Application
-date: 2025-12-05
+date: 2025-12-30
 published: true
 categories:
   - MVC
