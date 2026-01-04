@@ -1,6 +1,6 @@
 ---
 title: Next.js 15 Web App with Basic Auth
-date: 2025-12-04
+date: 2026-01-04
 published: true
 categories:
   - Next.js
