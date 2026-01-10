@@ -38,7 +38,7 @@ const About = () => {
 
             <b>The static part of the Blog was last updated</b>
             <ul>
-                <li>09-01-2026</li>
+                <li>10-01-2026</li>
             </ul>
 
 
