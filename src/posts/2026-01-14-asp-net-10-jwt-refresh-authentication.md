@@ -58,8 +58,8 @@ Traditional webhosting is used for this Application
 <p>Tech used for building the Web App</p>
 <ul>
 <li>C#</li>
-<li>The .NET 8 Web API is hosted at a traditional Webhotel</li>
-<li>The Angular Client is hosted at a traditional Webhotel</li>
+<li>The .NET 10 Web API is hosted at a traditional Webhotel</li>
+<li>The Vue 3 Client is hosted at a traditional Webhotel</li>
 <li>SQLite as the Database for both Dev + Prod</li>
 <li>CORS Policy implemented by .NET</li>
 <li>JWT Token for access secure routes</li>
