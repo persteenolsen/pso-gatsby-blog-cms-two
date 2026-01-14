@@ -6,11 +6,13 @@ categories:
   - .NET
   - REST API
   - Vue 3
+  - Vite
   - C#
   - SQLite
 tags:
   - dot-net
   - vue-3
+  - vite
   - c#
   - rest-api
   - sqlite  
