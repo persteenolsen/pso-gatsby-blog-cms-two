@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using PostgreSQL hosted at Vercel Cloud serving a Blog
-date: 2026-01-11
+date: 2026-01-16
 published: true
 categories:
   - Python
