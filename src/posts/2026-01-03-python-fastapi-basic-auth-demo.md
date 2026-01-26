@@ -9,6 +9,8 @@ categories:
   - PostgreSQL
   - Vercel
   - REST API
+  - Vue 3
+  - Vite
 tags:
   - python
   - fastapi
@@ -16,6 +18,8 @@ tags:
   - vercel
   - rest-api
   - devops
+  - vue-3
+  - vite
 ---
 
 Python FastAPI with PostgreSQL and OpenAPI / Swagger serving Basic Auth - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
