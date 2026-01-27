@@ -1,5 +1,5 @@
 ---
-title: Python FastAPI with PostgreSQL hosted at Vercel Cloud serving Auth by JWT with Refresh Token Rotation
+title: Python FastAPI with PostgreSQL hosted at Vercel Cloud doing Authentication by JWT with Refresh Token Rotation
 date: 2026-01-27
 published: true
 categories:
@@ -22,7 +22,7 @@ tags:
   - vite
 ---
 
-Python FastAPI with PostgreSQL and OpenAPI / Swagger serving Auth by JWT with Refresh Token Rotation - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
+Python FastAPI with PostgreSQL and OpenAPI / Swagger serving Authentication by JWT with Refresh Token Rotation - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
 
 <p><a href="https://fastapi-jwt-refresh-token-auth.vercel.app/docs" target="_blank" title="FastAPI by OpenAPI serving Auth by JWT with Refresh Tokens">Try the demo by OpenAPI...</a></p>
 
