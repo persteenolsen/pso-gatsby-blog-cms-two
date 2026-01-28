@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with PostgreSQL hosted at Vercel Cloud doing Authentication by JWT with Refresh Token Rotation
-date: 2026-01-27
+date: 2026-01-28
 published: true
 categories:
   - Python
