@@ -1,6 +1,6 @@
 ---
 title: .NET 10 REST API doing HTTP Basic Authentication
-date: 2026-01-19
+date: 2026-02-06
 published: true
 categories:
   - .NET
