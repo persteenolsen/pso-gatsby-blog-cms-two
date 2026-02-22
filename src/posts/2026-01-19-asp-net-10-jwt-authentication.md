@@ -1,6 +1,6 @@
 ---
 title: .NET 10 REST API doing JWT Authentication
-date: 2026-02-07
+date: 2026-02-22
 published: true
 categories:
   - .NET
