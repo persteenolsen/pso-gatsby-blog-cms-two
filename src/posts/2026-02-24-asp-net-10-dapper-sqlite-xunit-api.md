@@ -1,6 +1,6 @@
 ---
 title: .NET 10 REST API with Dapper SQLite and xUnit
-date: 2026-02-24
+date: 2026-02-25
 published: true
 categories:
   - .NET
