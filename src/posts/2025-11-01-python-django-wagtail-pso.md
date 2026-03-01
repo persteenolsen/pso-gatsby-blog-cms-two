@@ -1,6 +1,6 @@
 ---
 title: Python Django and Wagtail Website using PostgreSQL hosted at Vercel serving a Demo
-date: 2026-02-27
+date: 2026-03-01
 published: true
 categories:
   - Python
