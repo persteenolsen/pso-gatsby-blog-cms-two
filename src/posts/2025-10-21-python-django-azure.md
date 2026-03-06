@@ -1,6 +1,6 @@
 ---
 title: Python and Django Website using MariaDB hosted at Azure App Service serving a Blog
-date: 2025-11-09
+date: 2026-03-06
 published: true
 categories:
   - Python
