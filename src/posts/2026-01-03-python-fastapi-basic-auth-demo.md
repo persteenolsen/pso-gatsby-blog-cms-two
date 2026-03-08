@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with PostgreSQL hosted at Vercel Cloud doing HTTP Basic Authentication
-date: 2026-02-13
+date: 2026-03-08
 published: true
 categories:
   - Python
