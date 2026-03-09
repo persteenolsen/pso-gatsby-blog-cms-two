@@ -1,6 +1,6 @@
 ---
 title: Python and Flask Starter Website hosted at Vercel Cloud
-date: 2026-03-01
+date: 2026-03-09
 published: true
 categories:
   - Python
