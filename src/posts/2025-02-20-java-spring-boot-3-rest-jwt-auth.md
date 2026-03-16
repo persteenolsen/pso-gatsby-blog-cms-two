@@ -1,6 +1,6 @@
 ---
 title: Java Spring Boot REST API with JWT Auth
-date: 2026-02-09
+date: 2026-03-16
 published: true
 categories: [ "Java Spring Boot", "Vue 3", "MySQL", "REST API", "Azure", "Vite" ]
 tags: [ "java", "jpa", "maven", "hibernate", "vue-3" , "mysql", "security", "rest-api", "azure", "vite" ]
