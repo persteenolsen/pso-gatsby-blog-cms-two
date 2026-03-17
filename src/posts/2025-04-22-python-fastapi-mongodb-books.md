@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with MongoDB hosted at Vercel Cloud serving CRUD handling Books
-date: 2025-12-25
+date: 2026-03-17
 published: true
 categories:
   - Python
