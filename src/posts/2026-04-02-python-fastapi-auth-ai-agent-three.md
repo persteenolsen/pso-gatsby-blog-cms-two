@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with JWT Auth serving an AI Agent hosted at Vercel Cloud
-date: 2026-04-02
+date: 2026-04-03
 published: true
 categories:
   - Python
@@ -24,10 +24,12 @@ Python FastAPI with JWT Auth and OpenAPI / Swagger serving an AI Agent by Groq a
 
 A Starter FastAPI + JWT Auth + AI Agent + LLP + Groq + Langchain + OpenAPI - secured by HTTPS
 
+During the development process, I used ChatGPT for assisting with code generation and Github Copilot for code inline suggestion
+
 CI / CD by VS Code + GitHub + Vercel Cloud 
 
-<p><a href="https://github.com/persteenolsen/fastapi-jwt-auth-ai-agent-three" target="_blank">
+<a href="https://github.com/persteenolsen/fastapi-jwt-auth-ai-agent-three" target="_blank">
 The Web API at GitHub
-</a></p>
+</a>
 
 
