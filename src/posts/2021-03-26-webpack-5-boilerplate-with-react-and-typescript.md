@@ -1,6 +1,6 @@
 ---
 title: Webpack 5 boilerplate with React and TypeScript
-date: 2026-02-21
+date: 2026-04-05
 published: true
 categories: [ "Webpack", "React", "TypeScript" ]
 tags: [ "webpack", "react", "typescript" ]
