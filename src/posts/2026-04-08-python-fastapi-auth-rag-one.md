@@ -8,6 +8,7 @@ categories:
   - DevOps
   - Vercel
   - REST API
+  - PostgreSQL
   - AI
 tags:
   - python
@@ -15,6 +16,7 @@ tags:
   - vercel
   - rest-api
   - devops
+  - postgresql
   - ai
 ---
 
