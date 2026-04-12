@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with JWT Auth serving RAG hosted at Vercel Cloud
-date: 2026-04-08
+date: 2026-04-12
 published: true
 categories:
   - Python
