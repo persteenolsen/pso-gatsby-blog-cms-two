@@ -1,5 +1,5 @@
 ---
-title: Python FastAPI with JWT Auth serving RAG hosted at Vercel Cloud
+title: Python FastAPI with JWT Auth serving RAG by fake Embeddings hosted at Vercel Cloud
 date: 2026-04-12
 published: true
 categories:
@@ -20,7 +20,7 @@ tags:
   - ai
 ---
 
-Python FastAPI with JWT Auth and OpenAPI / Swagger serving a RAG Application using LLM by Groq - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
+Python FastAPI with JWT Auth and OpenAPI / Swagger serving a RAG Application using LLM by Groq + fake embeddings - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
 
 <p><a href="https://fastapi-jwt-auth-rag-one.vercel.app/docs" target="_blank" title="FastAPI by OpenAPI serving JWT Auth and RAG">Try the demo by OpenAPI...</a></p>
 
