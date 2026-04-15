@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with JWT Auth serving an AI Agent hosted at Vercel Cloud
-date: 2026-04-06
+date: 2026-04-15
 published: true
 categories:
   - Python

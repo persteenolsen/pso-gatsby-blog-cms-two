@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with JWT Auth serving RAG by Fake Embeddings hosted at Vercel Cloud
-date: 2026-04-13
+date: 2026-04-15
 published: true
 categories:
   - Python
