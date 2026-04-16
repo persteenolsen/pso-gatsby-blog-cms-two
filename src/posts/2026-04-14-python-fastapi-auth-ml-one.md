@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with JWT Auth predicting house prices by ML hosted at Vercel Cloud
-date: 2026-04-15
+date: 2026-04-16
 published: true
 categories:
   - Python
