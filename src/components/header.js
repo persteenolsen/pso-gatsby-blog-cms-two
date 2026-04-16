@@ -28,13 +28,13 @@ export default function Header() {
 
 				    <Link className={headerNavLinkText} to="/">Home</Link> 
 				    <br /><br />
-				    <Link className={headerNavLinkText} to="/about">About this Blog</Link>
-                     <br /><br />
+					 <a className={headerNavLinkText} href="https://persteenolsen.vercel.app" target="_blank" rel="noopener noreferrer">AI Projects</a>
+				     <br /><br />
 				     <Link className={headerNavLinkText} to="/posts/2022-05-10-my-cv/">My CV</Link>
-					 <br /><br />
-					 <a className={headerNavLinkText} href="https://persteenolsen.vercel.app" target="_blank" rel="noopener noreferrer">My AI Projects</a>
+					<br /><br />
+					<Link className={headerNavLinkText} to="/about">About this Blog</Link>
+                					 
 				</li>
-
 				
 			</ul>
 							
