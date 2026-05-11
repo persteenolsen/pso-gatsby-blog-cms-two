@@ -1,6 +1,6 @@
 ---
 title: Python Django and Wagtail Website using MariaDB hosted at Vercel serving a Demo
-date: 2025-11-30
+date: 2026-05-11
 published: true
 categories:
   - Python
@@ -20,6 +20,8 @@ tags:
 ---
 
 Python Django and Wagtail CMS based Website using MariaDB serving a Demo. Hosted at Vercel Cloud by Serverless Functions. Wagtail CMS is the Backend Administration of the Website. DevOps by GitHub + Vercel
+
+NOTE: The MariaDB is down at the moment due to updating of Heliohost. Because of that the Wagtail CMS is down! Try again in a week or two
 
 <a href="https://wagtail-demo.vercel.app" target="_blank" title="Django and Wagtail Website at Vercel Cloud">Try the demo...</a>
 

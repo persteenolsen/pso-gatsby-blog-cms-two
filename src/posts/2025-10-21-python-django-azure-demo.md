@@ -1,6 +1,6 @@
 ---
 title: Python and Django Website using MariaDB hosted at Azure App Service serving a Demo
-date: 2026-03-06
+date: 2026-05-11
 published: true
 categories:
   - Python
@@ -20,7 +20,9 @@ tags:
 
 Python Django and MariaDB Website serving a simple Demo hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
 
-<p>Note: Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time can be up to 1 minute. A white screen or 503 status code may happen too. Just try again after few minutes or a bit later until the Website loads</p>
+NOTE: The MariaDB is down at the moment due to updating of Heliohost. Because of that the Menu Item "Blog" will result in a 500 error! Try again in a week or two
+
+<p>Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time can be up to 1 minute. A white screen or 503 status code may happen too. Just try again after few minutes or a bit later until the Website loads</p>
 
 <a href="https://pso-django-demo.azurewebsites.net" target="_blank" title="Django Website at Azure App Service">Try the demo...</a>
 
