@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI hosted at Render doing JWT Authentication
-date: 2026-03-28
+date: 2026-05-13
 published: true
 categories:
   - Python
