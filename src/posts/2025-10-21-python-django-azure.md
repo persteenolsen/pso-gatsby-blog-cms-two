@@ -18,7 +18,7 @@ tags:
   - mvc
 ---
 
-Python Django and PostgreSQL by Neon Website serving a simple Blog hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
+Python Django Website using PostgreSQL by Neon serving a simple Blog hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
 
 <p>Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time can be up to 1 minute. A white screen or 503 status code may happen too. Just try again after few minutes or a bit later until the Website loads</p>
 
