@@ -1,6 +1,6 @@
 ---
 title: Python and Django Website using PostgreSQL hosted at Azure App Service serving a Blog
-date: 2026-05-17
+date: 2026-05-20
 published: true
 categories:
   - Python
@@ -18,7 +18,7 @@ tags:
   - mvc
 ---
 
-Python Django Website using PostgreSQL by Neon serving a simple Blog hosted at Azure App Service which have a free plan as well as plans for scaling up if needed. The Website uses DevOps by GitHub Actions + Azure App Service
+Python Django Website using PostgreSQL by Neon serving a simple Blog hosted at Azure App Service which have a free plan as well as plans for scaling up if needed
 
 <p>Due to the resource limitations of the Microsoft Azure Free App Service Plan, the initial load time can be up to 1 minute. A white screen or 503 status code may happen too. Just try again after few minutes or a bit later until the Website loads</p>
 
@@ -31,6 +31,6 @@ A simple Blog demonstrates how to use Models by the Django Admin and display the
 
 The files models.py and views.py are splitted up for showing how to scale the folder structure if the Django Website should grow with a lot of views and models
 
-CI / CD by commit the code change from VS Code + GitHub Actions + Azure App Service
+The Website uses DevOps by GitHub Actions + Azure App Service
 
 <a href="https://github.com/persteenolsen/django-azure" target="_blank">The source code at GitHub</a>
