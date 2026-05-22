@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using PostgreSQL hosted at Render serving a Blog
-date: 2026-05-16
+date: 2026-05-22
 published: true
 categories:
   - Python
