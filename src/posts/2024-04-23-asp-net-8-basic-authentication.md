@@ -1,6 +1,6 @@
 ---
 title: .NET 8 REST API with Basic Authentication 
-date: 2026-01-05
+date: 2026-05-25
 published: true
 categories:
   - .NET
