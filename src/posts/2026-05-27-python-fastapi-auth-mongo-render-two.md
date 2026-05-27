@@ -28,8 +28,8 @@ A Starter FastAPI + JWT Auth + MongoDB Atlas + OpenAPI - secured by HTTPS
 
 DevOps by VS Code + GitHub + Render 
 
-<p><a href="https://github.com/persteenolsen/fastapi-jwt-auth-mongo-render-two" target="_blank">
+<a href="https://github.com/persteenolsen/fastapi-jwt-auth-mongo-render-two" target="_blank">
 The Web API at GitHub
-</a></p>
+</a>
 
 
