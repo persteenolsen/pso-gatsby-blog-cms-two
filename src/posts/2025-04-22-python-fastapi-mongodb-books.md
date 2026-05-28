@@ -1,5 +1,5 @@
 ---
-title: Python FastAPI with MongoDB hosted at Vercel Cloud serving CRUD handling Books
+title: Python FastAPI with MongoDB Atlas hosted at Vercel Cloud serving CRUD handling Books
 date: 2026-05-25
 published: true
 categories:
@@ -18,7 +18,7 @@ tags:
   - devops
 ---
 
-Python FastAPI with MongoDB and OpenAPI / Swagger serving CRUD handling - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
+Python FastAPI with MongoDB Atlas and OpenAPI / Swagger serving CRUD handling - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
 
 <a href="https://fastapi-mongo-crud-books.vercel.app/docs" target="_blank" title="FastAPI MongoDB serving CRUD of Books">Try the demo...</a>
 
