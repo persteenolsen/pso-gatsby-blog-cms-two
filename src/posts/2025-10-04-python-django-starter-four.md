@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using MariaDB hosted at Vercel Cloud serving a Blog
-date: 2026-05-11
+date: 2026-05-29
 published: true
 categories:
   - Python
@@ -19,8 +19,6 @@ tags:
 ---
 
 Python Django and MariaDB Starter Website serving a simple Blog hosted at Vercel Cloud using Serverless Functions implementing DevOps by GitHub + Vercel
-
-NOTE: The MariaDB is down at the moment due to updating of Heliohost. Because of that the Menu Item "Blog" will result in a 500 error! Try again in a week or two
 
 <a href="https://django-starter-four.vercel.app/" target="_blank" title="Django Website at Vercel">Try the demo...</a>
 
