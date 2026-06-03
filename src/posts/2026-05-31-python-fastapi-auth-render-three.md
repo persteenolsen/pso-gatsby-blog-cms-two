@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI doing JWT Auth using MariaDB hosted at Render 
-date: 2026-05-31
+date: 2026-06-03
 published: true
 categories:
   - Python
