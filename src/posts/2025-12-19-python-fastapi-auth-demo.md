@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with PostgreSQL hosted at Vercel Cloud doing JWT Authentication
-date: 2026-03-28
+date: 2026-06-14
 published: true
 categories:
   - Python
@@ -11,6 +11,7 @@ categories:
   - REST API
   - Vue 3
   - Vite
+  - Tests
 tags:
   - python
   - fastapi
@@ -20,6 +21,7 @@ tags:
   - devops
   - vue-3
   - vite
+  - tests
 ---
 
 Python FastAPI with PostgreSQL and OpenAPI / Swagger serving JWT Authentication - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
