@@ -1,6 +1,6 @@
 ---
 title: Python and Django REST API using PostgreSQL hosted at Vercel Cloud serving Code Snippets
-date: 2026-05-18
+date: 2026-06-18
 published: true
 categories:
   - Python
