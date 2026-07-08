@@ -38,5 +38,5 @@ CI / CD by VS Code + GitHub + Vercel Cloud
 The Web API at GitHub
 </a></p>
 
-<p><a href="https://github.com/persteenolsen/vue-fastapi-jwt-reuse-detection-auth-client" target="_blank">The Vue SPA at GitHub</a></p>
+<a href="https://github.com/persteenolsen/vue-fastapi-jwt-reuse-detection-auth-client" target="_blank">The Vue SPA at GitHub</a>
 
