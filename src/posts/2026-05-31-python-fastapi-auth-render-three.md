@@ -24,7 +24,7 @@ Note: Due to the free plan at Render, the initial load time / coldstart will be 
 
 <p><a href="https://fastapi-jwt-auth-render-three.onrender.com/docs" target="_blank" title="FastAPI by OpenAPI serving JWT Auth">Try the demo by OpenAPI...</a></p>
 
-A Starter FastAPI + JWT Auth + MariaDB + Heliohost + OpenAPI - secured by HTTPS
+A Starter FastAPI + JWT Auth + MariaDB + Heliohost + Alembic + SQLAlchemy + OpenAPI - secured by HTTPS
 
 DevOps by VS Code + + GitHub + Render 
 
