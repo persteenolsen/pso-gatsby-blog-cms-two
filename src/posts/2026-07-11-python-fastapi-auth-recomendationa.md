@@ -3,9 +3,9 @@ title: Python FastAPI and Vue Authentication Boilerplate Recommendations and Use
 date: 2026-07-11
 published: true
 categories:
-  - FastAPI Authentication Recomendations
+  - FastAPI Auth Recommendations
 tags:
-  - fastapi-authentication-recomendations
+  - fastapi-auth-recommendations
 ---
 
 
