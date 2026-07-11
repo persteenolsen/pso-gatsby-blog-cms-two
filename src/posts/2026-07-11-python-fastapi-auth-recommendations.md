@@ -3,9 +3,9 @@ title: Python FastAPI and Vue Authentication Boilerplate Recommendations and Use
 date: 2026-07-11
 published: true
 categories:
-  - FastAPI Authentication Use Cases
+  - FastAPI Auth Use Cases
 tags:
-  - fastapi-authentication-use-cases
+  - fastapi-auth-use-cases
 ---
 
 
@@ -23,7 +23,7 @@ The right choice depends on the security requirements, application type, and des
 1. HTTP Basic Authentication
 </p>
 
-<p><a href="https://persteenolsen.netlify.app/posts/2026-01-03-python-fastapi-basic-auth-demo/" target="_blank" title="FastAPI Authentication Recommencations and Use Cases">Take a look at my Project...</a></p>
+<p><a href="https://persteenolsen.netlify.app/posts/2026-01-03-python-fastapi-basic-auth-demo/" target="_top" title="FastAPI Authentication Recommencations and Use Cases">My Project...</a></p>
 
 <p>
 Recommended for:
@@ -61,6 +61,9 @@ Not recommended for:
 <p>
 2. JWT Authentication (Access Tokens)
 </p>
+
+
+<p><a href="https://persteenolsen.netlify.app/posts/2025-12-19-python-fastapi-auth-demo/" target="_top" title="FastAPI Authentication Recommencations and Use Cases">My Project...</a></p>
 
 <p>
 Recommended for:
@@ -109,6 +112,8 @@ Limitations:
 3. JWT Refresh Token Renewal
 </p>
 
+<p><a href="https://persteenolsen.netlify.app/posts/2026-01-26-python-fastapi-jwt-refresh-auth-demo/" target="_top" title="FastAPI Authentication Recommencations and Use Cases">My Project...</a></p>
+
 <p>
 Recommended for:
 </p>
@@ -154,6 +159,9 @@ Limitations:
 <p>
 4. JWT Refresh Token Rotation
 </p>
+
+
+<p><a href="https://persteenolsen.netlify.app/posts/2026-07-07-python-fastapi-jwt-rotation-auth-demo/" target="_top" title="FastAPI Authentication Recommencations and Use Cases">My Project...</a></p>
 
 <p>
 Recommended for:
@@ -201,6 +209,9 @@ Limitations:
 5. Revoked Token Reuse Detection (Without HTTP-only Cookies)
 </p>
 
+
+<p><a href="https://persteenolsen.netlify.app/posts/2026-07-08-python-fastapi-jwt-reuse-detection-auth-demo/" target="_top" title="FastAPI Authentication Recommencations and Use Cases">My Project...</a></p>
+
 <p>
 Recommended for:
 </p>
@@ -245,6 +256,8 @@ Limitations:
 <p>
 6. Revoked Token Reuse Detection with HTTP-only Cookies
 </p>
+
+<p><a href="https://persteenolsen.netlify.app/posts/2026-07-09-python-fastapi-jwt-reuse-detection-httponly-auth-demo/" target="_top" title="FastAPI Authentication Recommencations and Use Cases">My Project...</a></p>
 
 <p>
 Recommended for:
