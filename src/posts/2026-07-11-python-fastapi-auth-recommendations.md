@@ -314,5 +314,8 @@ Suggested Default Choice
 </ul>
 
 <p>
-The final HTTP-only cookie version is the strongest foundation for most new web applications, while the earlier versions remain valuable as lightweight templates depending on project requirements.
+The final HTTP-only cookie version is the strongest foundation for most new web applications, while the earlier versions remain valuable as lightweight templates depending on project requirements...
 </p>
+
+<p>Happy coding :-)</p>
+
