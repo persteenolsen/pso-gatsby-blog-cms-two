@@ -3,9 +3,9 @@ title: Python FastAPI and Vue Authentication Boilerplate Recommendations and Use
 date: 2026-07-11
 published: true
 categories:
-  - FastAPI Authentication Advise
+  - FastAPI Authentication Use Cases
 tags:
-  - fastapi-authentication-advise
+  - fastapi-authentication-use-cases
 ---
 
 
@@ -22,6 +22,8 @@ The right choice depends on the security requirements, application type, and des
 <p>
 1. HTTP Basic Authentication
 </p>
+
+<p><a href="https://persteenolsen.netlify.app/posts/2026-01-03-python-fastapi-basic-auth-demo/" target="_blank" title="FastAPI Authentication Recommencations and Use Cases">Take a look at my Project...</a></p>
 
 <p>
 Recommended for:
