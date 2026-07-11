@@ -3,27 +3,29 @@ title: Python FastAPI and Vue Authentication Boilerplate Recommendations and Use
 date: 2026-07-11
 published: true
 categories:
-  - Python
-  - FastAPI
-  - REST API
-  - Vue 3
+  - FastAPI Authentication Recomendations
 tags:
-  - python
-  - fastapi
-  - rest-api
-  - vue-3
+  - fastapi-authentication-recomendations
 ---
 
-<h2>Python FastAPI and Vue Authentication Boilerplate Recommendations and Use Cases</h2>
+
+<p>
+Python FastAPI and Vue Authentication Boilerplate Recommendations and Use Cases
+</p>
 
 <p>
 Over time, I have built several FastAPI + Vue authentication projects, each introducing a different authentication strategy.
 The right choice depends on the security requirements, application type, and desired user experience.
 </p>
 
-<h2>1. HTTP Basic Authentication</h2>
 
-<h3>Recommended for:</h3>
+<p>
+1. HTTP Basic Authentication
+</p>
+
+<p>
+Recommended for:
+</p>
 
 <p>
 Internal tools, small APIs, admin dashboards, and simple authenticated services.
@@ -33,7 +35,9 @@ Internal tools, small APIs, admin dashboards, and simple authenticated services.
 This is the simplest authentication approach in the series. It is easy to understand and implement, making it suitable for smaller applications where users authenticate directly with a username and password.
 </p>
 
-<h3>Good use cases:</h3>
+<p>
+Good use cases:
+</p>
 
 <ul>
 <li>Internal company tools</li>
@@ -42,7 +46,9 @@ This is the simplest authentication approach in the series. It is easy to unders
 <li>Learning FastAPI authentication dependencies</li>
 </ul>
 
-<h3>Not recommended for:</h3>
+<p>
+Not recommended for:
+</p>
 
 <ul>
 <li>Large public-facing applications</li>
@@ -50,9 +56,13 @@ This is the simplest authentication approach in the series. It is easy to unders
 <li>Systems requiring advanced token security</li>
 </ul>
 
-<h2>2. JWT Authentication (Access Tokens)</h2>
+<p>
+2. JWT Authentication (Access Tokens)
+</p>
 
-<h3>Recommended for:</h3>
+<p>
+Recommended for:
+</p>
 
 <p>
 APIs and applications requiring stateless authentication.
@@ -62,7 +72,9 @@ APIs and applications requiring stateless authentication.
 This boilerplate introduces JWT-based authentication where users receive an access token after login. The token is then used to access protected API endpoints.
 </p>
 
-<h3>Good use cases:</h3>
+<p>
+Good use cases:
+</p>
 
 <ul>
 <li>REST APIs</li>
@@ -72,7 +84,9 @@ This boilerplate introduces JWT-based authentication where users receive an acce
 <li>Systems where server-side sessions are not desired</li>
 </ul>
 
-<h3>Advantages:</h3>
+<p>
+Advantages:
+</p>
 
 <ul>
 <li>Stateless authentication</li>
@@ -80,16 +94,22 @@ This boilerplate introduces JWT-based authentication where users receive an acce
 <li>Scales well across multiple services</li>
 </ul>
 
-<h3>Limitations:</h3>
+<p>
+Limitations:
+</p>
 
 <ul>
 <li>Users need to log in again when tokens expire</li>
 <li>Token revocation is more difficult</li>
 </ul>
 
-<h2>3. JWT Refresh Token Renewal</h2>
+<p>
+3. JWT Refresh Token Renewal
+</p>
 
-<h3>Recommended for:</h3>
+<p>
+Recommended for:
+</p>
 
 <p>
 Single Page Applications and applications requiring longer user sessions.
@@ -99,7 +119,9 @@ Single Page Applications and applications requiring longer user sessions.
 This version introduces refresh tokens, allowing users to stay logged in after the short-lived access token expires.
 </p>
 
-<h3>Good use cases:</h3>
+<p>
+Good use cases:
+</p>
 
 <ul>
 <li>Vue, React, and Angular applications</li>
@@ -108,7 +130,9 @@ This version introduces refresh tokens, allowing users to stay logged in after t
 <li>Applications where user experience is important</li>
 </ul>
 
-<h3>Advantages:</h3>
+<p>
+Advantages:
+</p>
 
 <ul>
 <li>Better user experience</li>
@@ -116,16 +140,22 @@ This version introduces refresh tokens, allowing users to stay logged in after t
 <li>Users do not need frequent logins</li>
 </ul>
 
-<h3>Limitations:</h3>
+<p>
+Limitations:
+</p>
 
 <ul>
 <li>Refresh tokens must be protected carefully</li>
 <li>Basic refresh token handling does not detect token theft</li>
 </ul>
 
-<h2>4. JWT Refresh Token Rotation</h2>
+<p>
+4. JWT Refresh Token Rotation
+</p>
 
-<h3>Recommended for:</h3>
+<p>
+Recommended for:
+</p>
 
 <p>
 Production applications requiring stronger session security.
@@ -135,7 +165,9 @@ Production applications requiring stronger session security.
 Refresh token rotation improves security by replacing the refresh token every time it is used. Each refresh operation creates a new token pair.
 </p>
 
-<h3>Good use cases:</h3>
+<p>
+Good use cases:
+</p>
 
 <ul>
 <li>SaaS platforms</li>
@@ -144,7 +176,9 @@ Refresh token rotation improves security by replacing the refresh token every ti
 <li>Long-lived user sessions</li>
 </ul>
 
-<h3>Advantages:</h3>
+<p>
+Advantages:
+</p>
 
 <ul>
 <li>Reduces the lifetime of stolen refresh tokens</li>
@@ -152,16 +186,22 @@ Refresh token rotation improves security by replacing the refresh token every ti
 <li>Follows modern authentication practices</li>
 </ul>
 
-<h3>Limitations:</h3>
+<p>
+Limitations:
+</p>
 
 <ul>
 <li>Requires more backend logic</li>
 <li>Token management becomes more complex</li>
 </ul>
 
-<h2>5. Revoked Token Reuse Detection (Without HTTP-only Cookies)</h2>
+<p>
+5. Revoked Token Reuse Detection (Without HTTP-only Cookies)
+</p>
 
-<h3>Recommended for:</h3>
+<p>
+Recommended for:
+</p>
 
 <p>
 Advanced authentication systems where refresh token attacks need to be detected.
@@ -171,7 +211,9 @@ Advanced authentication systems where refresh token attacks need to be detected.
 This version adds detection of revoked refresh token reuse. If an old refresh token is used after rotation, the system can identify suspicious activity.
 </p>
 
-<h3>Good use cases:</h3>
+<p>
+Good use cases:
+</p>
 
 <ul>
 <li>Security-focused applications</li>
@@ -179,7 +221,9 @@ This version adds detection of revoked refresh token reuse. If an old refresh to
 <li>Systems requiring visibility into suspicious sessions</li>
 </ul>
 
-<h3>Advantages:</h3>
+<p>
+Advantages:
+</p>
 
 <ul>
 <li>Detects refresh token replay attempts</li>
@@ -187,16 +231,22 @@ This version adds detection of revoked refresh token reuse. If an old refresh to
 <li>Adds protection against stolen refresh tokens</li>
 </ul>
 
-<h3>Limitations:</h3>
+<p>
+Limitations:
+</p>
 
 <ul>
 <li>Refresh tokens are still exposed to JavaScript if stored client-side</li>
 <li>Requires careful client-side handling</li>
 </ul>
 
-<h2>6. Revoked Token Reuse Detection with HTTP-only Cookies</h2>
+<p>
+6. Revoked Token Reuse Detection with HTTP-only Cookies
+</p>
 
-<h3>Recommended for:</h3>
+<p>
+Recommended for:
+</p>
 
 <p>
 Production-grade web applications with high security requirements.
@@ -206,7 +256,9 @@ Production-grade web applications with high security requirements.
 This is the most advanced version in the series. It combines refresh token rotation, reuse detection, and HTTP-only cookies to reduce exposure of sensitive tokens in the browser.
 </p>
 
-<h3>Good use cases:</h3>
+<p>
+Good use cases:
+</p>
 
 <ul>
 <li>Production SaaS applications</li>
@@ -215,7 +267,9 @@ This is the most advanced version in the series. It combines refresh token rotat
 <li>Applications handling sensitive user information</li>
 </ul>
 
-<h3>Advantages:</h3>
+<p>
+Advantages:
+</p>
 
 <ul>
 <li>Refresh tokens are protected from JavaScript access</li>
@@ -224,20 +278,24 @@ This is the most advanced version in the series. It combines refresh token rotat
 <li>Better aligned with modern browser security practices</li>
 </ul>
 
-<h3>Considerations:</h3>
+<p>
+Considerations:
+</p>
 
 <ul>
 <li>Requires CSRF protection strategies</li>
 <li>More complex cookie and session management</li>
 </ul>
 
-<h2>Suggested Default Choice</h2>
+<p>
+Suggested Default Choice
+</p>
 
 <ul>
-<li><b>Learning project:</b> HTTP Basic Authentication or JWT Authentication</li>
-<li><b>Small production API:</b> JWT with Refresh Token Renewal</li>
-<li><b>Modern SaaS application:</b> Refresh Token Rotation</li>
-<li><b>Security-focused production system:</b> Refresh Token Rotation with Reuse Detection and HTTP-only Cookies</li>
+<li>Learning project: HTTP Basic Authentication or JWT Authentication</li>
+<li>Small production API: JWT with Refresh Token Renewal</li>
+<li>Modern SaaS application: Refresh Token Rotation</li>
+<li>Security-focused production system: Refresh Token Rotation with Reuse Detection and HTTP-only Cookies</li>
 </ul>
 
 <p>
