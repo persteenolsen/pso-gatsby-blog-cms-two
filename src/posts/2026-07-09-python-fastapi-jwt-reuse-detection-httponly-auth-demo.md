@@ -24,21 +24,21 @@ tags:
   - tests
 ---
 
-Python FastAPI with PostgreSQL and OpenAPI / Swagger serving Authentication by JWT with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly secure cookies - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
+A production-ready starter project showcasing secure JWT authentication with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly cookies. It includes OpenAPI / Swagger, SQLAlchemy, Alembic, PostgreSQL, and is hosted on Vercel Cloud with Serverless Functions using a GitHub-based CI/CD workflow.
 
-This Vue client supports silent login, and the user will stay logged in when the browser is refreshed
+The included Vue 3 SPA supports silent authentication, allowing users to stay signed in even after refreshing the browser.
 
-<p><a href="https://fastapi-jwt-reuse-detection-httponl.vercel.app/docs" target="_blank" title="FastAPI by OpenAPI serving Auth by JWT with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly">Try the demo by OpenAPI...</a></p>
+<p><a href="https://fastapi-jwt-reuse-detection-httponl.vercel.app/docs" target="_blank" title="FastAPI by OpenAPI serving Auth by JWT with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly">Try the OpenAPI demo...</a></p>
 
-<p><a href="https://vue.fastapi.jwt.reuse.detection.httponly.persteenolsen.com" target="_blank" title="FastAPI by Vue SPA serving Auth by JWT with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly">Try the demo by Vue 3 SPA...</a></p>
+<p><a href="https://vue.fastapi.jwt.reuse.detection.httponly.persteenolsen.com" target="_blank" title="FastAPI by Vue SPA serving Auth by JWT with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly">Try the Vue 3 SPA demo...</a></p>
 
-A Starter FastAPI + PostgreSQL + Auth by JWT with Refresh Token Rotation and Revoked Token Reuse Detection + HttpOnly secure cookies + Alembic + SQLAlchemy + OpenAPI - secured by HTTPS
+The project demonstrates how to build a secure REST API with FastAPI and PostgreSQL using modern JWT authentication, HTTPS, and automated database migrations.
 
-CI / CD by VS Code + GitHub + Vercel Cloud 
+CI/CD is implemented with VS Code, GitHub, and Vercel Cloud.
 
 <p><a href="https://github.com/persteenolsen/fastapi-jwt-reuse-detection-httponly" target="_blank">
-The Web API at GitHub
+The FastAPI Web API on GitHub
 </a></p>
 
-<a href="https://github.com/persteenolsen/vue-fastapi-jwt-reuse-detection-httponly-client" target="_blank">The Vue SPA at GitHub</a>
+<a href="https://github.com/persteenolsen/vue-fastapi-jwt-reuse-detection-httponly-client" target="_blank">The Vue 3 SPA on GitHub</a>
 
