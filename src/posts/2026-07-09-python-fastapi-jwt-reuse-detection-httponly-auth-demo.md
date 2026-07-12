@@ -1,5 +1,5 @@
 ---
-title: Python FastAPI with PostgreSQL hosted at Vercel Cloud doing Authentication by JWT with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly secure cookies
+title: Python FastAPI with PostgreSQL JWT Authentication using Refresh Token Rotation and Refresh Token Reuse Detection with HttpOnly Cookies
 date: 2026-07-12
 published: true
 categories:
