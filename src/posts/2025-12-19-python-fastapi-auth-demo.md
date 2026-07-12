@@ -26,6 +26,8 @@ tags:
 
 Python FastAPI with PostgreSQL and OpenAPI / Swagger serving JWT Authentication - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
 
+This Vue client supports silent login, and the user will stay logged in when the browser is refreshed
+
 <p><a href="https://fastapi-auth-demo.vercel.app/docs" target="_blank" title="FastAPI by OpenAPI serving JWT Auth">Try the demo by OpenAPI...</a></p>
 
 <p><a href="https://vue.fastapi.jwt.auth.client.persteenolsen.com" target="_blank" title="FastAPI by Vue SPA serving JWT Auth">Try the demo by Vue 3 SPA...</a></p>

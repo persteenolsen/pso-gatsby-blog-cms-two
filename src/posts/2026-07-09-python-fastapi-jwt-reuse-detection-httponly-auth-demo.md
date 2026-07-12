@@ -26,6 +26,8 @@ tags:
 
 Python FastAPI with PostgreSQL and OpenAPI / Swagger serving Authentication by JWT with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly secure cookies - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
 
+This Vue client supports silent login, and the user will stay logged in when the browser is refreshed
+
 <p><a href="https://fastapi-jwt-reuse-detection-httponl.vercel.app/docs" target="_blank" title="FastAPI by OpenAPI serving Auth by JWT with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly">Try the demo by OpenAPI...</a></p>
 
 <p><a href="https://vue.fastapi.jwt.reuse.detection.httponly.persteenolsen.com" target="_blank" title="FastAPI by Vue SPA serving Auth by JWT with Refresh Token Rotation and Revoked Token Reuse Detection using HttpOnly">Try the demo by Vue 3 SPA...</a></p>
