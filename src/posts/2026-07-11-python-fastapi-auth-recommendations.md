@@ -254,7 +254,7 @@ Limitations:
 </ul>
 
 <p>
-6. Revoked Token Reuse Detection with HTTP-only Cookies
+6. Refresh Token Reuse Detection with HTTP-only Cookies
 </p>
 
 <p><a href="https://persteenolsen.netlify.app/posts/2026-07-09-python-fastapi-jwt-reuse-detection-httponly-auth-demo/" target="_top" title="FastAPI Authentication Recommencations and Use Cases">My Project...</a></p>
