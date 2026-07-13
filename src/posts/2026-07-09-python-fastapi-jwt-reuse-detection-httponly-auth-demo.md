@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with PostgreSQL JWT Authentication using Refresh Token Rotation and Refresh Token Reuse Detection with HttpOnly Cookies
-date: 2026-07-12
+date: 2026-07-13
 published: true
 categories:
   - Python
@@ -37,7 +37,7 @@ The project demonstrates how to build a secure REST API with FastAPI and Postgre
 CI/CD is implemented with VS Code, GitHub, and Vercel Cloud.
 
 <p><a href="https://github.com/persteenolsen/fastapi-jwt-reuse-detection-httponly" target="_blank">
-The FastAPI Web API on GitHub
+The Web API on GitHub
 </a></p>
 
 <a href="https://github.com/persteenolsen/vue-fastapi-jwt-reuse-detection-httponly-client" target="_blank">The Vue 3 SPA on GitHub</a>
