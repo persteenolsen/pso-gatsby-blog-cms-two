@@ -1,5 +1,5 @@
 ---
-title: Python FastAPI with PostgreSQL JWT Authentication using Refresh Token Rotation and Refresh Token Reuse Detection with HttpOnly Cookies
+title: Python FastAPI with PostgreSQL JWT Authentication using Refresh Token Rotation and Revoked Token Reuse Detection with HttpOnly Cookies
 date: 2026-07-13
 published: true
 categories:
