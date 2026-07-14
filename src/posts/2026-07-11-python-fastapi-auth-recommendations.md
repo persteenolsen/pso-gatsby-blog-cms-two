@@ -206,7 +206,7 @@ Limitations:
 </ul>
 
 <p>
-5. Revoked Token Reuse Detection (Without HTTP-only Cookies)
+5. Refreshed Token Reuse Detection (Without HTTP-only Cookies)
 </p>
 
 
