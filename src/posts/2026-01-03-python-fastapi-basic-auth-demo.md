@@ -1,6 +1,6 @@
 ---
-title: Python FastAPI with PostgreSQL hosted at Vercel Cloud doing HTTP Basic Authentication
-date: 2026-06-14
+title: Python FastAPI with PostgreSQL and HTTP Basic Authentication
+date: 2026-07-14
 published: true
 categories:
   - Python
@@ -24,17 +24,17 @@ tags:
   - tests
 ---
 
-Python FastAPI with PostgreSQL and OpenAPI / Swagger serving HTTP Basic Authentication - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
+A production-ready starter project showcasing secure HTTP Basic authentication. It includes OpenAPI / Swagger, SQLAlchemy, Alembic, PostgreSQL, and is hosted on Vercel Cloud with Serverless Functions using a GitHub-based CI/CD workflow
 
-This Vue client supports silent login, and the user will stay logged in when the browser is refreshed
+The included Vue 3 SPA supports silent authentication, allowing users to stay signed in even after refreshing the browse
 
-<p><a href="https://fastapi-basic-auth-demo.vercel.app/docs" target="_blank" title="FastAPI by OpenAPI serving Basic Auth">Try the demo by OpenAPI...</a></p>
+<p><a href="https://fastapi-basic-auth-demo.vercel.app/docs" target="_blank" title="FastAPI by OpenAPI serving HTTP Basic Auth">Try the demo by OpenAPI...</a></p>
 
-<p><a href="https://vue.fastapi.basic.auth.client.persteenolsen.com" target="_blank" title="FastAPI by Vue SPA serving Basic Auth">Try the demo by Vue 3 SPA...</a></p>
+<p><a href="https://vue.fastapi.basic.auth.client.persteenolsen.com" target="_blank" title="FastAPI by Vue SPA serving HTTP Basic Auth">Try the demo by Vue 3 SPA...</a></p>
 
-A Starter FastAPI + PostgreSQL + Basic Auth + Alembic + SQLAlchemy + OpenAPI - secured by HTTPS
+The project demonstrates how to build a secure REST API with FastAPI and PostgreSQL using modern JWT authentication, HTTPS, and automated database migrations
 
-CI / CD by VS Code + GitHub + Vercel Cloud 
+CI/CD is implemented with VS Code, GitHub, and Vercel Cloud
 
 <p><a href="https://github.com/persteenolsen/fastapi-basic-auth-demo" target="_blank">
 The Web API at GitHub
