@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI and Vue Authentication Boilerplate Recommendations and Use Cases
-date: 2026-07-11
+date: 2026-07-14
 published: true
 categories:
   - FastAPI Auth Use Cases
@@ -206,7 +206,7 @@ Limitations:
 </ul>
 
 <p>
-5. Refreshed Token Reuse Detection (Without HTTP-only Cookies)
+5. Refresh Token Reuse Detection (Without HTTP-only Cookies)
 </p>
 
 
