@@ -1,6 +1,6 @@
 ---
-title: Python FastAPI with PostgreSQL hosted at Vercel Cloud doing Authentication by JWT with Refresh Token Rotation
-date: 2026-07-09
+title: Python FastAPI with PostgreSQL JWT Authentication using Refresh Token Rotation
+date: 2026-07-14
 published: true
 categories:
   - Python
@@ -24,17 +24,17 @@ tags:
   - tests
 ---
 
-Python FastAPI with PostgreSQL and OpenAPI / Swagger serving Authentication by JWT with Refresh Token Rotation - hosted at Vercel Cloud using Serverless Functions and implementing DevOps by GitHub + Vercel
+A production-ready starter project showcasing secure JWT authentication with Refresh Token Rotation. It includes OpenAPI / Swagger, SQLAlchemy, Alembic, PostgreSQL, and is hosted on Vercel Cloud with Serverless Functions using a GitHub-based CI/CD workflow
 
-This Vue client does not support silent login, and the user will be logged out when the browser is refreshed
+The included Vue 3 SPA does not support silent authentication, and the users will also be logged out if refreshing the browser
 
 <p><a href="https://fastapi-jwt-refresh-rotation-auth.vercel.app/docs" target="_blank" title="FastAPI by OpenAPI serving Auth by JWT with Refresh Token Rotation">Try the demo by OpenAPI...</a></p>
 
 <p><a href="https://vue.fastapi.jwt.rotation.auth.persteenolsen.com" target="_blank" title="FastAPI by Vue SPA serving Auth by JWT with Refresh Token Rotation">Try the demo by Vue 3 SPA...</a></p>
 
-A Starter FastAPI + PostgreSQL + Auth by JWT with Refresh Token Rotation + Alembic + SQLAlchemy + OpenAPI - secured by HTTPS
+The project demonstrates how to build a secure REST API with FastAPI and PostgreSQL using modern JWT authentication, HTTPS, and automated database migrations
 
-CI / CD by VS Code + GitHub + Vercel Cloud 
+CI/CD is implemented with VS Code, GitHub, and Vercel Cloud
 
 <p><a href="https://github.com/persteenolsen/fastapi-jwt-refresh-rotation-auth" target="_blank">
 The Web API at GitHub
