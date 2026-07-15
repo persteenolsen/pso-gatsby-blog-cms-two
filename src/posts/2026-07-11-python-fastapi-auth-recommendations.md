@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI and Vue Authentication Boilerplate Recommendations and Use Cases
-date: 2026-07-14
+date: 2026-07-15
 published: true
 categories:
   - FastAPI Auth Use Cases
