@@ -24,7 +24,7 @@ tags:
   - tests
 ---
 
-A starter project showcasing secure JWT authentication with Refresh Token Renewal. It includes OpenAPI / Swagger, SQLAlchemy, Alembic, PostgreSQL, and is hosted on Vercel Cloud with Serverless Functions using a GitHub-based CI/CD workflow
+A production-style starter project showcasing secure JWT authentication with Refresh Token Renewal. It includes OpenAPI / Swagger, SQLAlchemy, Alembic, PostgreSQL, and is hosted on Vercel Cloud with Serverless Functions using a GitHub-based CI/CD workflow
 
 The included Vue 3 SPA does not support silent authentication, and the users will also be logged out if refreshing the browser
 
