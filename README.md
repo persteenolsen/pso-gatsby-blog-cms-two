@@ -1,10 +1,10 @@
 A MD Blog in Gatsby 3 using md files
 
-Last updated: 01-12-2024
+Last updated: 03-08-2026
 
-Node Version: 20.18.1
+Node Version: 24.4.1
 
-- Node history: 14 => 18 => 20
+- Node history: 14 => 18 => 20 => 24
 - The gatsby hello world starter was used for creating this blog with Markdown Posts
 - Tags are added with optimized styles
 - Categories are added with optimized styles
