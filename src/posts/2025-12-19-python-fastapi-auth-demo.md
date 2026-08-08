@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with PostgreSQL and JWT Authentication
-date: 2026-07-14
+date: 2026-08-08 12:00
 published: true
 categories:
   - Python
