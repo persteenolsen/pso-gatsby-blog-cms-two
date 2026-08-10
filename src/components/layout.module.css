@@ -2,14 +2,11 @@ body {
   margin: 0;
 }
   
-
 .container {
- 
   margin: 0 auto;
-  padding: 0px 15px;
+  padding: 0 15px;
   max-width: 750px;
-  font-family: verdana;
-	
+  font-family: Verdana, sans-serif;
 }
 
 
@@ -22,12 +19,20 @@ body {
   
   text-align: left;
   
+  /* Option 1 — soft & light blue */
+  /* Note: The first line of rgba 0.72 makes the top of the image fade a bit more than the bottom 0.58 */
   background-image:
     linear-gradient(
-      rgba(255, 255, 255, 0.60),
-      rgba(255, 255, 255, 0.60)
-    ),
+        rgba(220, 242, 250, 0.72),
+        rgba(173, 216, 230, 0.58)
+      ),
     url("/images-components/softwareone.jpg");
+  
+  /*
+  Option 2 — stronger blue
+  rgba(210, 235, 248, 0.78),
+  rgba(120, 190, 225, 0.62)
+  */
 
   background-size: cover;
   background-position: center top;
@@ -37,7 +42,8 @@ body {
 
 .container-bottom {
    text-align: center;
-   font-family: verdana;
+   font-family: Verdana, sans-serif;
+
    background-color: #F0F0F0;
    margin-top: 20px;
    padding: 15px;
