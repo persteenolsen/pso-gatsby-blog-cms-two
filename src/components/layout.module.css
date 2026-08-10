@@ -1,23 +1,17 @@
-
-  
-  .container {
-     
-	 margin: auto;
-     max-width: 95%;
-     font-family: verdana;
-  }
-
-
-@media screen and (min-width: 601px) {
-   
-   .container {
-    
-     max-width: 70%;
-	 
-	 /* Note: Setting the height to use horizontal scroll at most screens keeps the content align when a user navigate the menu */
-     min-height: 1100px; 
-    }
+body {
+  margin: 0;
 }
+  
+
+.container {
+ 
+  margin: 0 auto;
+  padding: 0px 15px;
+  max-width: 750px;
+  font-family: verdana;
+	
+}
+
 
 .heading {
   color: rebeccapurple;
@@ -25,9 +19,21 @@
 
 
 .container-header {
-   text-align: left;
-    
+  
+  text-align: left;
+  
+  background-image:
+    linear-gradient(
+      rgba(255, 255, 255, 0.70),
+      rgba(255, 255, 255, 0.70)
+    ),
+    url("/images-components/softwareone.jpg");
+
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
 }
+
 
 .container-bottom {
    text-align: center;
@@ -95,7 +101,10 @@ input[type=text]:focus {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
-  padding: 2px;
+   
+  padding:0;
+  margin: 0;
+
   align-items: center;
   
  }
