@@ -1,7 +1,10 @@
+/* Remove the browser's default body margin */
 body {
   margin: 0;
 }
-  
+
+
+/* Main page container */
 .container {
   margin: 0 auto;
   padding: 0 15px;
@@ -10,28 +13,32 @@ body {
 }
 
 
+/* Main heading color */
 .heading {
   color: rebeccapurple;
 }
 
 
+/* Header with background image and blue overlay */
 .container-header {
-  
   text-align: left;
-  
-  /* Option 1 — soft & light blue */
-  /* Note: The first line of rgba 0.72 makes the top of the image fade a bit more than the bottom 0.58 */
+
+  /*
+    Blue gradient over the background image.
+    Lighter and more opaque at the top,
+    slightly darker and more transparent at the bottom.
+  */
   background-image:
     linear-gradient(
-        rgba(220, 242, 250, 0.72),
-        rgba(173, 216, 230, 0.58)
-      ),
+      rgba(220, 242, 250, 0.72),
+      rgba(173, 216, 230, 0.58)
+    ),
     url("/images-components/softwareone.jpg");
-  
+
   /*
-  Option 2 — stronger blue
-  rgba(210, 235, 248, 0.78),
-  rgba(120, 190, 225, 0.62)
+    Alternative: stronger blue
+    rgba(210, 235, 248, 0.78),
+    rgba(120, 190, 225, 0.62)
   */
 
   background-size: cover;
@@ -40,190 +47,267 @@ body {
 }
 
 
+/* Bottom section with a blue gradient matching the header */
 .container-bottom {
-   text-align: center;
-   font-family: Verdana, sans-serif;
+  text-align: center;
+  font-family: Verdana, sans-serif;
 
-   background-color: #F0F0F0;
-   margin-top: 20px;
-   padding: 15px;
+  background: linear-gradient(
+    rgba(210, 235, 248, 0.78),
+    rgba(120, 190, 225, 0.62)
+  );
+
+  margin-top: 20px;
+
+  /* Extra space helps keep the bottom visible on small screens */
+  padding: 15px;
 }
 
+
+/* Navigation used for page navigation/pagination */
 .page-navigation {
   display: flex;
   flex-wrap: wrap;
   padding: 10px;
-	
 }
 
+
+/* Space between page navigation elements */
 .page-navigation-space {
-	width: 10px;
+  width: 10px;
 }
 
+
+/* Padding around page navigation links */
 .page-navigation-link {
-     padding: 10px;
-	
+  padding: 10px;
 }
 
+
+/* Circular profile image */
 .image-me {
-	border-radius: 50%;
-	height: 121px;
-	width: 150px;
+  border-radius: 50%;
+  height: 121px;
+  width: 150px;
 }
 
+
+/* Lisboa image size */
 .image-me-lisboa {
-	height: 154px;
-	width: 260px;
+  height: 154px;
+  width: 260px;
 }
 
 
+/* Default link appearance */
 a {
   text-decoration: none;
   color: grey;
 }
 
+
+/* Underline links when the mouse hovers over them */
 a:hover {
   text-decoration: underline;
 }
 
 
+/* Text input field */
 input[type=text] {
   width: 75%;
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
   border: 2px solid #ccc;
+
+  /* Smooth border-color change when focused */
   -webkit-transition: 0.5s;
   transition: 0.5s;
+
   outline: none;
 }
 
+
+/* Highlight the input field when selected */
 input[type=text]:focus {
   border: 2px solid #555;
 }
 
 
+/* Header navigation links */
 .header-nav-links {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
-   
-  padding:0;
+  padding: 0;
   margin: 0;
-
   align-items: center;
-  
- }
-.header-nav-link-item {  
+}
+
+
+/* Space between header navigation items */
+.header-nav-link-item {
   margin: 5px;
- }
+}
+
+
+/* Header navigation link text */
 .header-nav-link-text {
   color: black;
 }
 
 
+/* Main navigation links */
 .nav-links {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
-  padding: 2px;
-  background-color: #F0F0F0;
- }
-.nav-link-item {  
+  padding: 5px;
+
+  /* Blue color matching the header and background image */
+  background-color: rgba(173, 216, 230, 0.75);
+}
+
+
+/* Space between main navigation items */
+.nav-link-item {
   margin: 5px;
- }
+}
+
+
+/* Main navigation link text */
 .nav-link-text {
   color: black;
 }
 
 
+/* Category navigation links */
 .categories-nav-links {
- display: flex;
- flex-wrap: wrap;
- list-style: none;
- padding: 0px;
- margin-bottom: 0px;
-  
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0px;
+  margin-bottom: 0px;
 }
+
+
+/* Category navigation item spacing */
 .categories-nav-link-item {
   margin-right: 10px;
   padding-top: 10px;
- }
+}
+
+
+/* Category navigation link text */
 .categories-nav-link-text {
   color: green;
 }
 
+
+/* Tag navigation links */
 .tags-nav-links {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
   padding: 0px;
   margin-bottom: 0px;
-      
 }
+
+
+/* Tag navigation item spacing */
 .tags-nav-link-item {
   margin-right: 10px;
   padding-top: 10px;
- }
+}
+
+
+/* Tag navigation link text */
 .tags-nav-link-text {
   color: grey;
 }
 
 
-
+/* Temporary category navigation links */
 .temp-categories-nav-links {
   list-style: none;
   padding: 0px;
-      
 }
+
+
+/* Temporary category navigation item spacing */
 .temp-categories-nav-link-item {
   margin: 0px;
- }
+}
+
+
+/* Temporary category navigation link text */
 .temp-categories-nav-link-text {
   color: green;
 }
 
+
+/* Temporary tag navigation links */
 .temp-tags-nav-links {
   list-style: none;
   padding: 0px;
-      
 }
+
+
+/* Temporary tag navigation item spacing */
 .temp-tags-nav-link-item {
   margin: 0px;
- }
+}
+
+
+/* Temporary tag navigation link text */
 .temp-tags-nav-link-text {
   color: grey;
 }
 
 
-
+/* Category links used within posts */
 .post-categories-nav-links {
   display: flex;
 
-  /* 25-11-2024 - Added the below line for make sure the Category wrap to a new line and not force scrolling*/
+  /*
+    Allow categories to wrap onto a new line
+    instead of causing horizontal scrolling.
+  */
   flex-wrap: wrap;
 
   list-style: none;
   padding: 1px;
-  
 }
+
+
+/* Spacing between post category items */
 .post-categories-nav-link-item {
   margin: 3px;
- }
+}
+
+
+/* Post category link text */
 .post-categories-nav-link-text {
   color: green;
 }
 
+
+/* Tag links used within posts */
 .post-tags-nav-links {
   display: flex;
   flex-wrap: wrap;
   list-style: none;
   padding: 1px;
-  
 }
+
+
+/* Spacing between post tag items */
 .post-tags-nav-link-item {
   margin: 3px;
- }
+}
+
+
+/* Post tag link text */
 .post-tags-nav-link-text {
   color: grey;
 }
