@@ -40,6 +40,9 @@ body {
     rgba(210, 235, 248, 0.78),
     rgba(120, 190, 225, 0.62)
   */
+  
+  /* Could use the below instead of cover */
+  /* background-size: 100% auto; */
 
   background-size: cover;
   background-position: center top;
