@@ -8,5 +8,10 @@ export const onRenderBody = ({ setHeadComponents }) => {
       href="/images-components/softwareone.jpg"
     />,
     
+    <link
+      rel="preload"
+      as="image"
+      href="/images-components/persteenolsen.jpg"
+    />,
   ]);
 };

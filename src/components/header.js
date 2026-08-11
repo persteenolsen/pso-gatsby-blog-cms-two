@@ -20,7 +20,7 @@ export default function Header() {
 				
 				<li className={headerNavLinkItem}>
 			         <Link className={headerNavLinkText} to="/myinfo"> 
-					   <img className={imageMe} src={me} alt="Me" fetchPriority="high"/>
+					   <img className={imageMe} src={me} alt="Me" />
 					 </Link>
 				</li>
 				
