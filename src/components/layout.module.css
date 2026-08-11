@@ -153,7 +153,7 @@ input[type=text]:focus {
 
 /* Header navigation link text */
 .header-nav-link-text {
-  color: black;
+  color: white;
 }
 
 
@@ -177,7 +177,7 @@ input[type=text]:focus {
 
 /* Main navigation link text */
 .nav-link-text {
-  color: black;
+  color: white;
 }
 
 
