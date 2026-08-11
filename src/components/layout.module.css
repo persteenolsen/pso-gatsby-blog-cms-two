@@ -41,10 +41,10 @@ body {
     rgba(120, 190, 225, 0.62)
   */
   
-  /* Could use the below instead of cover */
-  /* background-size: 100% auto; */
+  /* Another way then "cover" */
+  background-size: 100% auto;
 
-  background-size: cover;
+  /* background-size: cover; */
   background-position: center top;
   background-repeat: no-repeat;
 }
