@@ -42,9 +42,9 @@ body {
   */
   
   /* Another way then "cover" */
-  background-size: 100% auto;
+  /* background-size: 100% auto; */
 
-  /* background-size: cover; */
+  background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
 }
