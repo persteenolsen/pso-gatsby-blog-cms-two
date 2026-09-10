@@ -1,6 +1,6 @@
 ---
 title: Webpack 5 boilerplate with Vue
-date: 2026-08-21
+date: 2026-09-10
 published: true
 categories: [ "Webpack", "Vue 2", "Starstruck at GitHub" ]
 tags: [ "webpack", "vue-2", "starstruck-at-github" ]
