@@ -1,6 +1,6 @@
 ---
 title: Python and Django Website using PostgreSQL hosted at Azure App Service serving a Demo
-date: 2026-07-08
+date: 2026-09-23
 published: true
 categories:
   - Python
