@@ -1,6 +1,6 @@
 ---
 title: .NET 10 and Umbraco 17 CMS based Website using custom MVC
-date: 2025-11-22
+date: 2026-09-24
 published: true
 categories:
   - Umbraco CMS
