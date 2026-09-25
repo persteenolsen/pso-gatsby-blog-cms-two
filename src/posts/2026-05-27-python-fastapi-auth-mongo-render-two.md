@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI doing JWT Auth using MongoDB Atlas hosted at Render
-date: 2026-07-05
+date: 2026-09-25 16:00
 published: true
 categories:
   - Python
