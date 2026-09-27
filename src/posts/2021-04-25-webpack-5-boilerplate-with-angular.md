@@ -1,6 +1,6 @@
 ---
 title: Webpack 5 boilerplate with Angular
-date: 2024-02-14
+date: 2024-09-27 16:00
 published: true
 categories: [ "Webpack", "Angular", "TypeScript" ]
 tags: [ "webpack", "angular", "typescript" ]
