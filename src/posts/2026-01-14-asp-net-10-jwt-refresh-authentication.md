@@ -1,6 +1,6 @@
 ---
 title: .NET 10 REST API doing Authentication by JWT and Refresh Tokens
-date: 2026-09-10
+date: 2026-09-27 17:00
 published: true
 categories:
   - .NET
