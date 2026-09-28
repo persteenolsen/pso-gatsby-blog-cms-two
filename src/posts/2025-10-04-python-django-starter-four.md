@@ -1,6 +1,6 @@
 ---
 title: Python and Django Starter Website using MariaDB hosted at Vercel Cloud serving a Blog
-date: 2026-05-29
+date: 2026-09-28
 published: true
 categories:
   - Python
