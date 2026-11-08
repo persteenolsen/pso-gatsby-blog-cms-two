@@ -1,6 +1,6 @@
 ---
 title: Python FastAPI with PostgreSQL JWT Authentication using Refresh Token Rotation
-date: 2026-09-20 15:00
+date: 2026-11-08 15:00
 published: true
 categories:
   - Python
